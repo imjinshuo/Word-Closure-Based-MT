@@ -1,0 +1,504 @@
+11
+New Zealand ' s election will hardly change the main course of the country ' s history with China despite some challenging moments during the year , analysts said ahead of the poll on Saturday.
+New Zealand ' s election will hardly change the main course of the country ' s history with China after some challenging moments during the year , analysts said ahead of the poll on Saturday.
+分析人士在周六的投票前表示，尽管新西兰在这一年中遇到了一些具有挑战性的时刻，但新西兰的大选几乎不会改变该国与中国的主要历史进程。
+分析人士在周六的民意调查前表示，在今年经历了一些具有挑战性的时刻之后，新西兰的选举几乎不会改变该国与中国的主要历史进程。
+0_分析 1_人士 2_在 3_周六 4_的 5_投票 6_前 7_表示 8_， 9_尽管 10_新西兰 11_在 12_这 13_一年 14_中 15_遇到 16_了 17_一些 18_具有 19_挑战性 20_的 21_时刻 22_， 23_但 24_新西兰 25_的 26_大选 27_几乎 28_不会 29_改变 30_该国 31_与 32_中国 33_的 34_主要 35_历史进程 36_。
+0_分析 1_人士 2_在 3_周六 4_的 5_民意调查 6_前 7_表示 8_， 9_在 10_今年 11_经历 12_了 13_一些 14_具有 15_挑战性 16_的 17_时刻 18_之后 19_， 20_新西兰 21_的 22_选举 23_几乎 24_不会 25_改变 26_该国 27_与 28_中国 29_的 30_主要 31_历史进程 32_。
+5	12	13	14	15	23	26
+5	10	11	22
+none
+5	11
+5
+5
+
+21
+With the tournament currently scheduled to begin on January 18 , that would leave players very little time after being confined to a hotel room for two weeks.
+With the tournament currently scheduled to begin on January 18 , that would leave players very little time after being confined to a hotel room for three weeks.
+由于比赛目前定于 1 月 18 日开始，因此在被限制在酒店房间两周后，球员们的时间所剩无几。
+由于比赛目前定于 1 月 18 日开始，球员们在酒店房间里呆了三个星期后，剩下的时间所剩无几。
+0_由于 1_比赛 2_目前 3_定于 4_1 5_月 6_18 7_日 8_开始 9_， 10_因此 11_在 12_被 13_限制 14_在 15_酒店 16_房间 17_两周 18_后 19_， 20_球员 21_们 22_的 23_时间 24_所剩无几 25_。
+0_由于 1_比赛 2_目前 3_定于 4_1 5_月 6_18 7_日 8_开始 9_， 10_球员 11_们 12_在 13_酒店 14_房间 15_里 16_呆 17_了 18_三个 19_星期 20_后 21_， 22_剩下 23_的 24_时间 25_所剩无几 26_。
+10	11	12	13	17
+10	11	15	16	17	18	19
+10	13
+22
+10	13
+16
+
+56
+People arriving in England will be soon able to reduce their quarantine period by more than half if they pay for a Covid test after five days , the transport agency has announced.
+People travelling in England will be soon able to reduce their quarantine period by more than half if they pay for a Covid test after five days , the transport agency has announced.
+运输机构宣布，如果抵达英格兰的人在五天后支付 Covid 测试费用，他们将很快能够将隔离期缩短一半以上。
+交通局宣布，如果在五天后支付 Covid 测试费用，在英格兰旅行的人很快就能将隔离期缩短一半以上。
+0_运输 1_机构 2_宣布 3_， 4_如果 5_抵达 6_英格兰 7_的 8_人 9_在 10_五天 11_后 12_支付 13_Covid 14_测试 15_费用 16_， 17_他们 18_将 19_很快 20_能够 21_将 22_隔离 23_期 24_缩短 25_一半 26_以上 27_。
+0_交通局 1_宣布 2_， 3_如果 4_在 5_五天 6_后 7_支付 8_Covid 9_测试 10_费用 11_， 12_在 13_英格兰 14_旅行 15_的 16_人 17_很快 18_就 19_能 20_将 21_隔离 22_期 23_缩短 24_一半 25_以上 26_。
+0	1	5	6	7	8	17	18
+0	12	13	14	15	16
+0	1
+0
+0	1
+0
+
+77
+At some point last month , during my sixth episode of going RV of the day , I knew I wouldd fallen too deep.
+At some point last month , during my second episode of going RV of the day , I knew I wouldd fallen too deep.
+上个月的某个时候，在我第六次参加 RV of the day 期间，我知道我会陷得太深。
+上个月的某个时候，在我当天的第二集 RV 中，我知道我会陷入太深。
+0_上个月 1_的 2_某个 3_时候 4_， 5_在 6_我 7_第六次 8_参加 9_RV 10_of 11_the 12_day 13_期间 14_， 15_我 16_知道 17_我会 18_陷得 19_太深 20_。
+0_上个月 1_的 2_某个 3_时候 4_， 5_在 6_我 7_当天 8_的 9_第二集 10_RV 11_中 12_， 13_我 14_知道 15_我会 16_陷入 17_太深 18_。
+10	11	12	13	18
+11	16
+8	10	11	12
+7
+8	10	11	12	13
+7
+
+78
+Although there have been reports of animals being infected with the virus , such as mink in farms in the Netherlands , Paavilainen and dogs are not susceptible because they lack the receptor to which the virus attaches.
+Though there have been reports of animals being infected with the virus , such as mink in farms in the Netherlands , Paavilainen and dogs are not susceptible because they lack the receptor to which the virus attaches.
+虽然有动物感染该病毒的报道，例如荷兰农场的水貂，但帕维莱宁和狗并不易感，因为它们缺乏病毒附着的受体。
+尽管有动物感染该病毒的报道，例如荷兰农场的水貂，但 Paavilainen 和狗不易感染，因为它们缺乏病毒附着的受体。
+0_虽然 1_有 2_动物 3_感染 4_该 5_病毒 6_的 7_报道 8_， 9_例如 10_荷兰 11_农场 12_的 13_水貂 14_， 15_但帕 16_维莱 17_宁和狗 18_并 19_不易 20_感 21_， 22_因为 23_它们 24_缺乏 25_病毒 26_附着 27_的 28_受体 29_。
+0_尽管 1_有 2_动物 3_感染 4_该 5_病毒 6_的 7_报道 8_， 9_例如 10_荷兰 11_农场 12_的 13_水貂 14_， 15_但 16_Paavilainen 17_和 18_狗 19_不易 20_感染 21_， 22_因为 23_它们 24_缺乏 25_病毒 26_附着 27_的 28_受体 29_。
+15	16	17	18	20
+15	16	17	18	20
+15	16	17	20
+16	17	18	20
+15	16	17
+16
+
+82
+A hotly - contested case about insurance payouts for small business who were unable to trade owing to lockdown heads to the Supreme Court on Monday.
+The hotly - contested case about insurance payouts for small business who were unable to trade owing to lockdown heads to the Supreme Court on Monday.
+周一，最高法院审理了一起因锁定而无法交易的小型企业的保险赔付案件，该案件备受争议。
+周一，最高法院审理了因封锁而无法交易的小型企业的保险赔付案件。
+0_周一 1_， 2_最高法院 3_审理 4_了 5_一起 6_因 7_锁定 8_而 9_无法 10_交易 11_的 12_小型企业 13_的 14_保险 15_赔付 16_案件 17_， 18_该 19_案件 20_备受 21_争议 22_。
+0_周一 1_， 2_最高法院 3_审理 4_了 5_因 6_封锁 7_而 8_无法 9_交易 10_的 11_小型企业 12_的 13_保险 14_赔付 15_案件 16_。
+7	17	18	19	20	21
+6
+7	20	21
+6
+7	20	21
+6
+
+126
+In the eyes of Zhang Luowei , who has worked with her , Chen approaches her job with passion and puts great effort into preparing her very effective talks.
+In the eyes of Zhang Luowei , who has worked with her , Chen approaches her job with passion and puts considerable effort into preparing her very effective talks.
+在曾与她共事过的张洛薇看来，陈女士对待工作充满热情，并为准备非常有效的演讲付出了巨大的努力。
+在曾与她共事过的张洛薇看来，陈对工作充满热情，为准备非常有效的演讲付出了相当大的努力。
+0_在 1_曾 2_与 3_她 4_共事 5_过 6_的 7_张洛薇 8_看来 9_， 10_陈女士 11_对待 12_工作 13_充满热情 14_， 15_并 16_为 17_准备 18_非常 19_有效 20_的 21_演讲 22_付出 23_了 24_巨大 25_的 26_努力 27_。
+0_在 1_曾 2_与 3_她 4_共事 5_过 6_的 7_张洛薇 8_看来 9_， 10_陈对 11_工作 12_充满热情 13_， 14_为 15_准备 16_非常 17_有效 18_的 19_演讲 20_付出 21_了 22_相当 23_大 24_的 25_努力 26_。
+10	11	24
+10
+10
+10
+10
+10
+
+127
+In the effort to deal with the challenges of the pandemic while also improving his performances on track , Hamilton has been trying new things.
+In an effort to deal with the challenges of the pandemic while also improving his performances on track , Hamilton has been trying new things.
+在应对疫情挑战的同时，也在努力提升自己在赛道上的表现，汉密尔顿一直在尝试新事物。
+为了应对疫情挑战，同时提升自己在赛道上的表现，汉密尔顿一直在尝试新事物。
+0_在 1_应对 2_疫情 3_挑战 4_的 5_同时 6_， 7_也 8_在 9_努力 10_提升 11_自己 12_在 13_赛道 14_上 15_的 16_表现 17_， 18_汉密尔顿 19_一直 20_在 21_尝试 22_新 23_事物 24_。
+0_为了 1_应对 2_疫情 3_挑战 4_， 5_同时 6_提升 7_自己 8_在 9_赛道 10_上 11_的 12_表现 13_， 14_汉密尔顿 15_一直 16_在 17_尝试 18_新 19_事物 20_。
+0	6	7	8	9
+0	4
+9
+none
+9
+none
+
+131
+I really just had to self - motivate a lot out there because it was a lonely , very long run without me.
+I also just had to self - motivate a lot out there because it was a lonely , very long run without me.
+我真的只需要在那里自我激励很多，因为没有我，这是一个孤独的，很长的路要走。
+我也不得不自我激励很多，因为没有我，这是一个孤独的、很长的过程。
+0_我 1_真的 2_只 3_需要 4_在 5_那里 6_自我 7_激励 8_很多 9_， 10_因为 11_没有 12_我 13_， 14_这是 15_一个 16_孤独 17_的 18_， 19_很长 20_的 21_路 22_要 23_走 24_。
+0_我 1_也 2_不得不 3_自我 4_激励 5_很多 6_， 7_因为 8_没有 9_我 10_， 11_这是 12_一个 13_孤独 14_的 15_、 16_很长 17_的 18_过程 19_。
+1	2	3	4	5	18
+1	2	15
+21	23
+18
+21	22	23
+18
+
+143
+Cesc Fabregas is well known for his technical ability and eye for a pass but the Spanish soccer star has turned his attention to a very different part of the game.
+Cesc Fabregas was well known for his technical ability and eye for a pass but the Spanish soccer star has turned his attention to a very different part of the game.
+塞斯克法布雷加斯以其技术能力和传球眼光而闻名，但这位西班牙足球明星已经将注意力转向了比赛的一个非常不同的部分。
+法布雷加斯以其技术能力和传球眼光而闻名，但这位西班牙足球明星将注意力转向了比赛的另一个方面。
+0_塞斯 1_克 2_法布雷 3_加斯 4_以 5_其 6_技术 7_能力 8_和 9_传球 10_眼光 11_而 12_闻名 13_， 14_但 15_这位 16_西班牙 17_足球明星 18_已经 19_将 20_注意力 21_转向 22_了 23_比赛 24_的 25_一个 26_非常 27_不同 28_的 29_部分 30_。
+0_法布雷 1_加斯 2_以 3_其 4_技术 5_能力 6_和 7_传球 8_眼光 9_而 10_闻名 11_， 12_但 13_这位 14_西班牙 15_足球明星 16_将 17_注意力 18_转向 19_了 20_比赛 21_的 22_另 23_一个 24_方面 25_。
+18	26	27	28	29
+24
+0	1	27
+22
+0	1	26	27
+22
+
+171
+To his frustration , they talked about Patrick Mahomes ' arm rather than his decision making as if brawn somehow mattered more than brain.
+To her frustration , they talked about Patrick Mahomes ' arm rather than his decision making as if brawn somehow mattered more than brain.
+令他沮丧的是，他们谈论的是 Patrick Mahomes 的手臂而不是他的决策，就好像肌肉在某种程度上比大脑更重要。
+令她沮丧的是，他们谈论的是帕特里克·马霍姆斯的手臂，而不是他的决策，就好像肌肉在某种程度上比大脑更重要。
+0_令 1_他 2_沮丧 3_的 4_是 5_， 6_他们 7_谈论 8_的 9_是 10_Patrick 11_Mahomes 12_的 13_手臂 14_而 15_不是 16_他 17_的 18_决策 19_， 20_就 21_好像 22_肌肉 23_在 24_某种程度 25_上 26_比 27_大脑 28_更 29_重要 30_。
+0_令 1_她 2_沮丧 3_的 4_是 5_， 6_他们 7_谈论 8_的 9_是 10_帕特里克 11_· 12_马 13_霍姆斯 14_的 15_手臂 16_， 17_而 18_不是 19_他 20_的 21_决策 22_， 23_就 24_好像 25_肌肉 26_在 27_某种程度 28_上 29_比 30_大脑 31_更 32_重要 33_。
+10	11
+10	11	12	13	16
+10	11
+10	12	13
+10	11
+10	12	13
+
+174
+Those living under level four restrictions would be advised to avoid any unnecessary travel out of the country , and to keep journeys within the area to an absolute minimum.
+Individuals living under level four restrictions would be advised to avoid any unnecessary travel out of the country , and to keep journeys within the area to an absolute minimum.
+建议生活在四级限制下的人避免任何不必要的出国旅行，并将在该地区的旅行保持在绝对最低限度。
+建议生活在四级限制下的个人避免任何不必要的出国旅行，并尽量减少在该地区的旅行。
+0_建议 1_生活 2_在 3_四级 4_限制 5_下 6_的 7_人 8_避免 9_任何 10_不必要 11_的 12_出国 13_旅行 14_， 15_并 16_将 17_在 18_该 19_地区 20_的 21_旅行 22_保持 23_在 24_绝对 25_最低 26_限度 27_。
+0_建议 1_生活 2_在 3_四级 4_限制 5_下 6_的 7_个人 8_避免 9_任何 10_不必要 11_的 12_出国 13_旅行 14_， 15_并 16_尽量减少 17_在 18_该 19_地区 20_的 21_旅行 22_。
+16	22	23	24	25	26
+16
+22	24	25	26
+16
+22	23	24	25	26
+16
+
+176
+This went to the High Court , where judges found that most , but not all of the policies involved should pay out offering a potential lifeline to these small businesses.
+This went to the High Court , where judges found that some , but not all of the policies involved should pay out offering a potential lifeline to these small businesses.
+这去了高等法院，法官们发现大多数（但不是所有）所涉及的保单都应该为这些小企业提供潜在的生命线。
+这去了高等法院，法官们发现一些，但不是所有涉及的保单应该支付，为这些小企业提供了一条潜在的生命线。
+0_这去 1_了 2_高等法院 3_， 4_法官 5_们 6_发现 7_大多数 8_（ 9_但 10_不是 11_所有 12_） 13_所 14_涉及 15_的 16_保单 17_都 18_应该 19_为 20_这些 21_小企业 22_提供 23_潜在 24_的 25_生命线 26_。
+0_这去 1_了 2_高等法院 3_， 4_法官 5_们 6_发现 7_一些 8_， 9_但 10_不是 11_所有 12_涉及 13_的 14_保单 15_应该 16_支付 17_， 18_为 19_这些 20_小企业 21_提供 22_了 23_一条 24_潜在 25_的 26_生命线 27_。
+7	8	17
+7	8	22	23
+none
+16
+none
+16
+
+209
+She had recently received an email from a friend , a single woman who confessed that she had spent months in dire economic straits.
+He had recently received an email from a friend , a single woman who confessed that she had spent months in dire economic straits.
+她最近收到一封来自朋友的电子邮件，她是一位单身女性，她承认自己在经济困境中度过了几个月。
+他最近收到一封来自朋友的电子邮件，她是一位单身女性，她承认自己几个月来一直处于严重的经济困境中。
+0_她 1_最近 2_收到 3_一封 4_来自 5_朋友 6_的 7_电子邮件 8_， 9_她 10_是 11_一位 12_单身 13_女性 14_， 15_她 16_承认 17_自己 18_在 19_经济 20_困境 21_中 22_度过 23_了 24_几个 25_月 26_。
+0_他 1_最近 2_收到 3_一封 4_来自 5_朋友 6_的 7_电子邮件 8_， 9_她 10_是 11_一位 12_单身 13_女性 14_， 15_她 16_承认 17_自己 18_几个 19_月 20_来 21_一直 22_处于 23_严重 24_的 25_经济 26_困境 27_中 28_。
+18	22	23	24	25
+18	19	20	21	22	23	24
+none
+23
+none
+23
+
+228
+In a confounding and overwhelming year , music has allowed us both to reflect on the state of the world and escape from it with equal brilliance , says Nick Levine.
+Through a confounding and overwhelming year , music has allowed us both to reflect on the state of the world and escape from it with equal brilliance , says Nick Levine.
+Nick Levine 说，在令人困惑和压倒一切的一年中，音乐让我们既能反思世界的现状，又能以同样的光彩摆脱它。
+尼克·莱文说，在混乱而压倒一切的一年里，音乐让我们既能反思世界现状，又能以同样的才华摆脱它。
+0_Nick 1_Levine 2_说 3_， 4_在 5_令人困惑 6_和 7_压倒一切 8_的 9_一年 10_中 11_， 12_音乐 13_让 14_我们 15_既 16_能 17_反思 18_世界 19_的 20_现状 21_， 22_又 23_能 24_以 25_同样 26_的 27_光彩 28_摆脱 29_它 30_。
+0_尼克 1_· 2_莱文 3_说 4_， 5_在 6_混乱 7_而 8_压倒一切 9_的 10_一年 11_里 12_， 13_音乐 14_让 15_我们 16_既 17_能 18_反思 19_世界 20_现状 21_， 22_又 23_能 24_以 25_同样 26_的 27_才华 28_摆脱 29_它 30_。
+5	6	10	19	27
+6	7	11	27
+0	1	27
+0	2	27
+0	1	27
+0	2	27
+
+236
+He then quickly fries the freshly chopped ingredients in the water , drying them before setting them aside.
+He then quickly fries the freshly chopped ingredients in the water , drying them and setting them aside.
+然后他迅速将切碎的新鲜食材放入水中煎炸，晾干后放在一旁。
+然后他迅速将切碎的新鲜食材放入水中炒熟，晾干备用。
+0_然后 1_他 2_迅速 3_将 4_切碎 5_的 6_新鲜 7_食材 8_放入 9_水中 10_煎炸 11_， 12_晾干 13_后 14_放在 15_一旁 16_。
+0_然后 1_他 2_迅速 3_将 4_切碎 5_的 6_新鲜 7_食材 8_放入 9_水中 10_炒熟 11_， 12_晾干 13_备用 14_。
+10
+10
+10	15
+none
+10	14	15
+none
+
+240
+Groups of friends and families are major forces behind preparing for the holiday , as college students account for a diminishing proportion.
+Communities of friends and families are major forces behind preparing for the holiday , as college students account for a diminishing proportion.
+亲朋好友是为假期做准备的主要力量，大学生所占比例正在下降。
+朋友和家人的社区是为假期做准备的主要力量，因为大学生所占的比例正在下降。
+0_亲朋好友 1_是 2_为 3_假期 4_做 5_准备 6_的 7_主要 8_力量 9_， 10_大学生 11_所 12_占 13_比例 14_正在 15_下降 16_。
+0_朋友 1_和 2_家人 3_的 4_社区 5_是 6_为 7_假期 8_做 9_准备 10_的 11_主要 12_力量 13_， 14_因为 15_大学生 16_所 17_占 18_的 19_比例 20_正在 21_下降 22_。
+0
+0	1	2	3	4	18
+none
+2	14
+none
+14
+
+265
+As a veteran of nearly 37 years of age , my physical strength and endurance will not allow me to fight with my teammates anymore.
+Being a veteran of nearly 37 years of age , my physical strength and endurance will not allow me to fight with my teammates anymore.
+作为一名年近37岁的老将，我的体力和耐力已经不允许我再和队友打架了。
+作为一名将近37岁的老将，我的体力和耐力已经不能再和队友拼了。
+0_作为 1_一名 2_年近 3_37 4_岁 5_的 6_老将 7_， 8_我 9_的 10_体力 11_和 12_耐力 13_已经 14_不 15_允许 16_我 17_再 18_和 19_队友 20_打架 21_了 22_。
+0_作为 1_一名 2_将近 3_37 4_岁 5_的 6_老将 7_， 8_我 9_的 10_体力 11_和 12_耐力 13_已经 14_不能 15_再 16_和 17_队友 18_拼 19_了 20_。
+2	20
+2	18
+15	20
+18
+15	20
+18
+
+293
+There is large , accelerating community spread across the top half of the country , where temperatures have dropped and Americans have moved indoors.
+There are large , accelerating community spread across the top half of the country , where temperatures have dropped and Americans have moved indoors.
+有一个庞大的、加速发展的社区遍布该国的上半部分，那里的气温已经下降，美国人已经搬到了室内。
+全国上半部分有大量、加速传播的社区，那里的气温下降了，美国人搬到了室内。
+0_有 1_一个 2_庞大 3_的 4_、 5_加速 6_发展 7_的 8_社区 9_遍布 10_该国 11_的 12_上半 13_部分 14_， 15_那里 16_的 17_气温 18_已经 19_下降 20_， 21_美国 22_人 23_已经 24_搬到 25_了 26_室内 27_。
+0_全国 1_上半 2_部分 3_有 4_大量 5_、 6_加速 7_传播 8_的 9_社区 10_， 11_那里 12_的 13_气温 14_下降 15_了 16_， 17_美国 18_人 19_搬 20_到 21_了 22_室内 23_。
+6	9	10	11	12	13	18	23	24
+4	7	15	19	20
+9	10
+0	7
+6	9
+7
+
+296
+The top science cities are those whose institutions collectively publish the most output in the 82 major journals ranked by the Nature Index.
+The leading science cities are those whose institutions collectively publish the most output in the 82 major journals ranked by the Nature Index.
+顶尖科学城市是那些机构在自然指数排名的 82 种主要期刊上发表论文最多的城市。
+领先的科学城市是指其机构在自然指数排名的 82 种主要期刊上发表的成果最多的城市。
+0_顶尖 1_科学 2_城市 3_是 4_那些 5_机构 6_在 7_自然 8_指数 9_排名 10_的 11_82 12_种 13_主要 14_期刊 15_上 16_发表 17_论文 18_最多 19_的 20_城市 21_。
+0_领先 1_的 2_科学 3_城市 4_是 5_指其 6_机构 7_在 8_自然 9_指数 10_排名 11_的 12_82 13_种 14_主要 15_期刊 16_上 17_发表 18_的 19_成果 20_最多 21_的 22_城市 23_。
+4	17
+5	18	19
+4
+5
+17
+19
+
+344
+In the morning , people believe that their lips will crack if they don ' t eat persimmons during this time.
+In the morning , people believe that their lips will crack if they don ' t eat persimmons at this time.
+早上，人们认为如果这段时间不吃柿子，他们的嘴唇会裂开。
+人们认为早上不吃柿子，嘴唇会裂开。
+0_早上 1_， 2_人们 3_认为 4_如果 5_这 6_段时间 7_不吃 8_柿子 9_， 10_他们 11_的 12_嘴唇 13_会 14_裂开 15_。
+0_人们 1_认为 2_早上 3_不吃 4_柿子 5_， 6_嘴唇 7_会 8_裂开 9_。
+0	1	10	11
+none
+4	6
+none
+4	5	6
+none
+
+358
+He again made no public appearances on Thursday , skipping the first coronavirus task force briefing at the White House in more than six months.
+He again made no public appearances on Thursday , skipping the first coronavirus task force briefing at the White House in more than four months.
+周四，他再次没有公开露面，跳过了六个月以来在白宫举行的第一次冠状病毒特别工作组简报会。
+周四，他再次没有公开露面，没有参加四个多月以来在白宫举行的首次冠状病毒特别工作组简报会。
+0_周四 1_， 2_他 3_再次 4_没有 5_公开 6_露面 7_， 8_跳过 9_了 10_六个月 11_以来 12_在 13_白宫 14_举行 15_的 16_第一次 17_冠状病毒 18_特别 19_工作组 20_简报 21_会 22_。
+0_周四 1_， 2_他 3_再次 4_没有 5_公开 6_露面 7_， 8_没有 9_参加 10_四个 11_多月 12_以来 13_在 14_白宫 15_举行 16_的 17_首次 18_冠状病毒 19_特别 20_工作组 21_简报 22_会 23_。
+8	9	10
+8	9	10	11
+8
+9
+8
+8	9
+
+363
+Financial services firms entered the pandemic in a position of capital strength and have supported the economy and business to unprecedented levels since March.
+Financial services firms entered the pandemic from a position of capital strength and have supported the economy and business to unprecedented levels since March.
+金融服务公司以资本实力进入大流行，自 3 月以来对经济和商业的支持达到前所未有的水平。
+金融服务公司从资本实力的角度进入大流行，并自 3 月以来对经济和商业的支持达到前所未有的水平。
+0_金融服务 1_公司 2_以 3_资本 4_实力 5_进入 6_大 7_流行 8_， 9_自 10_3 11_月 12_以来 13_对 14_经济 15_和 16_商业 17_的 18_支持 19_达到 20_前所未有 21_的 22_水平 23_。
+0_金融服务 1_公司 2_从 3_资本 4_实力 5_的 6_角度 7_进入 8_大 9_流行 10_， 11_并 12_自 13_3 14_月 15_以来 16_对 17_经济 18_和 19_商业 20_的 21_支持 22_达到 23_前所未有 24_的 25_水平 26_。
+2
+2	11
+none
+6
+none
+6
+
+373
+Boris Johnson has defended how Covid statistics are being used after data shown in a presentation to justify the lockdown in England had to be revised.
+Boris Johnson has defended how Covid statistics are being used after data shown in a presentation to justify the lockdown in England needed to be revised.
+在演示文稿中显示的证明英格兰封锁合理的数据必须修改后，鲍里斯·约翰逊为如何使用 Covid 统计数据进行了辩护。
+在演示文稿中显示的数据证明英格兰的封锁需要修改后，鲍里斯·约翰逊为如何使用 Covid 统计数据进行了辩护。
+0_在 1_演示 2_文稿 3_中 4_显示 5_的 6_证明 7_英格兰 8_封锁 9_合理 10_的 11_数据 12_必须 13_修改 14_后 15_， 16_鲍里斯 17_· 18_约翰逊 19_为 20_如何 21_使用 22_Covid 23_统计数据 24_进行 25_了 26_辩护 27_。
+0_在 1_演示 2_文稿 3_中 4_显示 5_的 6_数据 7_证明 8_英格兰 9_的 10_封锁 11_需要 12_修改 13_后 14_， 15_鲍里斯 16_· 17_约翰逊 18_为 19_如何 20_使用 21_Covid 22_统计数据 23_进行 24_了 25_辩护 26_。
+9	10	11	12
+9	11
+9	10
+9
+9	10
+none
+
+399
+Tossing the wok allows better mixing , which is essential when you have super high heat.
+Tossing the wok provides better mixing , which is essential when you have super high heat.
+翻炒锅可以更好地混合，这在你有超高热量时是必不可少的。
+翻动炒锅可提供更好的混合效果，这在高温情况下必不可少。
+0_翻 1_炒锅 2_可以 3_更好 4_地 5_混合 6_， 7_这 8_在 9_你 10_有 11_超高 12_热量 13_时 14_是 15_必不可少 16_的 17_。
+0_翻动 1_炒锅 2_可 3_提供 4_更好 5_的 6_混合 7_效果 8_， 9_这 10_在 11_高温 12_情况 13_下 14_必不可少 15_。
+0	4	9	10	11	12	13	14	16
+0	5	7	11	12	13
+11	12
+11	12
+11	12
+11
+
+409
+The greenlight has given the drug a market entry into Kuwait , gaining a foothold for the company to further explore the Middle East market , she said.
+This greenlight has given the drug a market entry into Kuwait , gaining a foothold for the company to further explore the Middle East market , she said.
+她说，此次获批使该药物进入科威特市场，为公司进一步开拓中东市场奠定了立足点。
+她说，此次绿灯让该药进入科威特市场，为公司进一步开拓中东市场奠定了立足点。
+0_她 1_说 2_， 3_此次 4_获批 5_使 6_该 7_药物 8_进入 9_科威特 10_市场 11_， 12_为 13_公司 14_进一步 15_开拓 16_中东 17_市场 18_奠定 19_了 20_立足点 21_。
+0_她 1_说 2_， 3_此次 4_绿灯 5_让 6_该药 7_进入 8_科威特 9_市场 10_， 11_为 12_公司 13_进一步 14_开拓 15_中东 16_市场 17_奠定 18_了 19_立足点 20_。
+4	5	6	7
+4	5	6
+4
+4
+4
+4
+
+460
+He is getting used to the new lifestyle of spending more time with his family and dogs as well as working every day.
+He is getting used to this new lifestyle of spending more time with his family and dogs as well as working every day.
+他已经习惯了每天花更多时间陪伴家人和狗以及工作的新生活方式。
+他正在适应这种新的生活方式，除了每天工作外，他还会花更多时间陪伴家人和爱犬。
+0_他 1_已经 2_习惯 3_了 4_每天花 5_更 6_多 7_时间 8_陪伴 9_家人 10_和 11_狗 12_以及 13_工作 14_的 15_新 16_生活 17_方式 18_。
+0_他 1_正在 2_适应 3_这种 4_新 5_的 6_生活 7_方式 8_， 9_除了 10_每天 11_工作 12_外 13_， 14_他 15_还 16_会花 17_更 18_多 19_时间 20_陪伴 21_家人 22_和 23_爱犬 24_。
+1	2	3	4	11	12	13	14	15	16	17
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16
+11
+23
+none
+9
+
+464
+Fairways and landing areas were easier to find because of the absence of bounce and run.
+Fairings and landing areas were easier to find because of the absence of bounce and run.
+由于没有弹跳和跑步，球道和着陆区更容易找到。
+由于没有反弹和运行，整流罩和着陆区更容易找到。
+0_由于 1_没有 2_弹跳 3_和 4_跑步 5_， 6_球道 7_和 8_着陆 9_区 10_更 11_容易 12_找到 13_。
+0_由于 1_没有 2_反弹 3_和 4_运行 5_， 6_整流罩 7_和 8_着陆 9_区 10_更 11_容易 12_找到 13_。
+4	6
+4	6
+2	4
+2	4
+2	4
+2	4
+
+494
+Women are more likely to have caring responsibilities and may tend to progress into more senior roles if they do not offer flexible working options.
+Women are more likely to have caring responsibilities and may tend to progress into more senior roles when they do not offer flexible working options.
+女性更有可能承担照顾责任，如果不提供灵活的工作选择，她们可能会晋升到更高的职位。
+如果女性不提供灵活的工作选择，她们更有可能承担照顾责任，并且可能倾向于晋升到更高级的职位。
+0_女性 1_更 2_有 3_可能 4_承担 5_照顾 6_责任 7_， 8_如果 9_不 10_提供 11_灵活 12_的 13_工作 14_选择 15_， 16_她们 17_可能 18_会 19_晋升 20_到 21_更 22_高 23_的 24_职位 25_。
+0_如果 1_女性 2_不 3_提供 4_灵活 5_的 6_工作 7_选择 8_， 9_她们 10_更 11_有 12_可能 13_承担 14_照顾 15_责任 16_， 17_并且 18_可能 19_倾向 20_于 21_晋升 22_到 23_更 24_高级 25_的 26_职位 27_。
+1	2	3	4	5	6	7	8	22
+0	10	11	12	13	14	15	16	17	24
+none
+19	24
+none
+19
+
+503
+The park will not serve residents within five kilometers and communities within 23 km , becoming a new commercial and leisure center.
+The park will not serve residents within five kilometers and communities within 15 km , becoming a new commercial and leisure center.
+公园5公里内不服务居民，23公里内不服务社区，成为新的商业休闲中心。
+园区将在5公里范围内不服务居民，15公里范围内不服务社区，成为新的商业休闲中心。
+0_公园 1_5 2_公里 3_内 4_不 5_服务 6_居民 7_， 8_23 9_公里 10_内 11_不 12_服务 13_社区 14_， 15_成为 16_新 17_的 18_商业 19_休闲 20_中心 21_。
+0_园区 1_将 2_在 3_5 4_公里 5_范围 6_内 7_不 8_服务 9_居民 10_， 11_15 12_公里 13_范围 14_内 15_不 16_服务 17_社区 18_， 19_成为 20_新 21_的 22_商业 23_休闲 24_中心 25_。
+8
+5	11	13
+0
+0
+0
+0
+
+514
+The best thing about this fun film is you don ' t have to be a comic book geek to do it.
+The great thing about this fun film is you don ' t have to be a comic book geek to do it.
+这部有趣的电影最好的一点是你不必成为漫画书迷也能看。
+这部有趣的电影的伟大之处在于你不必成为漫画极客也能做到。
+0_这部 1_有趣 2_的 3_电影 4_最好 5_的 6_一点 7_是 8_你 9_不必 10_成为 11_漫画书 12_迷 13_也 14_能 15_看 16_。
+0_这部 1_有趣 2_的 3_电影 4_的 5_伟大 6_之 7_处 8_在于 9_你 10_不必 11_成为 12_漫画 13_极客 14_也 15_能 16_做到 17_。
+4	6	7	15
+5	6	7	8	16
+12	15
+13	16
+12	15
+13	16
+
+518
+The Pied Piper then , more than a fairy tale , becomes the emblem of a profound historical mystery.
+The Pied Piper now , more than a fairy tale , becomes the emblem of a profound historical mystery.
+Pied Piper 不仅仅是一个童话，成为一个深刻的历史谜团的象征。
+现在的花衣魔笛手不仅仅是一个童话，而是一个深刻的历史谜团的象征。
+0_Pied 1_Piper 2_不仅仅 3_是 4_一个 5_童话 6_， 7_成为 8_一个 9_深刻 10_的 11_历史 12_谜团 13_的 14_象征 15_。
+0_现在 1_的 2_花衣 3_魔 4_笛手 5_不仅仅 6_是 7_一个 8_童话 9_， 10_而是 11_一个 12_深刻 13_的 14_历史 15_谜团 16_的 17_象征 18_。
+0	1
+0	1	2	3	4
+0	1
+2	3	4
+0	1
+2	3	4
+
+519
+The Laucala Private Island resort has partnered with Fiji Airways , the country ' s national airline , on a special itinerary.
+The Nacala Private Island resort has partnered with Fiji Airways , the country ' s national airline , on a special itinerary.
+Laucala Private Island 度假村与该国的国家航空公司 Fiji Airways 合作开展了一项特殊行程。
+纳卡拉私人岛屿度假村与该国的国家航空公司斐济航空公司合作，推出了一项特别行程。
+0_Laucala 1_Private 2_Island 3_度假村 4_与 5_该国 6_的 7_国家 8_航空公司 9_Fiji 10_Airways 11_合作 12_开展 13_了 14_一项 15_特殊 16_行程 17_。
+0_纳 1_卡拉 2_私人 3_岛屿 4_度假村 5_与 6_该国 7_的 8_国家 9_航空公司 10_斐济 11_航空公司 12_合作 13_， 14_推出 15_了 16_一项 17_特别 18_行程 19_。
+0	1	2	12	15
+0	1	2	3	13	14	17
+1	2	9	10
+2	3	10	11	14
+1	2	9	10
+2	3	10	11
+
+535
+I ' ve played great this week and it was really hard to hold the emotions all the way to the end , but I ' m really happy the way it played out , and the way I played too.
+We ' ve played great this week and it was really hard to hold the emotions all the way to the end , but I ' m really happy the way it played out , and the way I played too.
+这周我打得很好，真的很难一直保持情绪到最后，但我真的很高兴它的表现，我也很高兴。
+这周我们打得很好，很难一直保持情绪到最后，但我真的很高兴比赛的方式，我也很高兴。
+0_这周 1_我 2_打 3_得 4_很 5_好 6_， 7_真的 8_很难 9_一直 10_保持 11_情绪 12_到 13_最后 14_， 15_但 16_我 17_真的 18_很 19_高兴 20_它 21_的 22_表现 23_， 24_我 25_也 26_很 27_高兴 28_。
+0_这 1_周 2_我们 3_打得 4_很 5_好 6_， 7_很难 8_一直 9_保持 10_情绪 11_到 12_最后 13_， 14_但 15_我 16_真的 17_很 18_高兴 19_比赛 20_的 21_方式 22_， 23_我 24_也 25_很 26_高兴 27_。
+0	1	2	3	20	22
+0	1	2	3	19	21
+22
+none
+22
+19	20	21
+
+550
+A culture featuring hanfu attire festival was held in Chengdu , aiming to display the charm of traditional Chinese costume design.
+A festival featuring hanfu attire festival was held in Chengdu , aiming to display the charm of traditional Chinese costume design.
+汉服文化节在成都举办，旨在展示中国传统服饰设计的魅力。
+以汉服为特色的盛典在成都举办，旨在展示中国传统服饰设计的魅力。
+0_汉服 1_文化节 2_在 3_成都 4_举办 5_， 6_旨在 7_展示 8_中国 9_传统 10_服饰 11_设计 12_的 13_魅力 14_。
+0_以 1_汉服 2_为 3_特色 4_的 5_盛典 6_在 7_成都 8_举办 9_， 10_旨在 11_展示 12_中国 13_传统 14_服饰 15_设计 16_的 17_魅力 18_。
+1
+2	3	4	5
+none
+3
+none
+3
+
+551
+With its many empty streets , and history , colonial architecture and stunning seaside location , remote Cossack is an offbeat but rewarding tourist attraction.
+With its long empty streets , and history , colonial architecture and stunning seaside location , remote Cossack is an offbeat but rewarding tourist attraction.
+凭借其众多空荡荡的街道、悠久的历史、殖民时期的建筑和令人惊叹的海滨位置，偏远的哥萨克是一个另类但有益的旅游胜地。
+凭借其长长的空荡荡的街道、历史、殖民建筑和迷人的海滨位置，偏远的哥萨克是一个另类但有益的旅游胜地。
+0_凭借 1_其 2_众多 3_空荡荡 4_的 5_街道 6_、 7_悠久 8_的 9_历史 10_、 11_殖民 12_时期 13_的 14_建筑 15_和 16_令人惊叹 17_的 18_海滨 19_位置 20_， 21_偏远 22_的 23_哥萨克 24_是 25_一个 26_另类 27_但 28_有益 29_的 30_旅游胜地 31_。
+0_凭借 1_其 2_长长的 3_空荡荡 4_的 5_街道 6_、 7_历史 8_、 9_殖民 10_建筑 11_和 12_迷人 13_的 14_海滨 15_位置 16_， 17_偏远 18_的 19_哥萨克 20_是 21_一个 22_另类 23_但 24_有益 25_的 26_旅游胜地 27_。
+2	12	13	16
+2	12
+7
+none
+7
+none
+

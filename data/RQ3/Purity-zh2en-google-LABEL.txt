@@ -1,0 +1,350 @@
+15
+不管怎样，在消费逐步减慢的阶段，即使公司富有现金，一般情况下也不会去扩大投资。
+消费逐步减慢的阶段
+In any case, when consumption is gradually slowing down, even if the company is rich in cash, it will generally not expand investment.
+A phase in which consumption gradually slows down
+0_In 1_any 2_case 3_, 4_when 5_consumption 6_is 7_gradually 8_slowing 9_down 10_, 11_even 12_if 13_the 14_company 15_is 16_rich 17_in 18_cash 19_, 20_it 21_will 22_generally 23_not 24_expand 25_investment 26_.
+0_A 1_phase 2_in 3_which 4_consumption 5_gradually 6_slows 7_down
+none
+0	1	3	6
+none
+1
+none
+1
+
+39
+所有的因灾死亡都是一场悲剧，但这一数字没有变得更高这一事实印证了菲律宾在自然灾难准备方面的努力成果。
+菲律宾在自然灾难准备方面的努力成果
+All fatalities are a tragedy, but the fact that the number is not getting higher is a testament to the Philippines' efforts in preparing for natural disasters.
+The Results of the Philippines' Efforts in Natural Disaster Preparedness
+0_All 1_fatalities 2_are 3_a 4_tragedy 5_, 6_but 7_the 8_fact 9_that 10_the 11_number 12_is 13_not 14_getting 15_higher 16_is 17_a 18_testament 19_to 20_the 21_Philippines 22_' 23_efforts 24_in 25_preparing 26_for 27_natural 28_disasters 29_.
+0_The 1_Results 2_of 3_the 4_Philippines 5_' 6_Efforts 7_in 8_Natural 9_Disaster 10_Preparedness
+none
+0	1	2	6	8	9	10
+none
+1
+none
+1
+
+54
+倘若我们不在真正权力归属的问题上自欺欺人，那么就让总统们和议会们多如牛毛吧，如果那样能让人们觉得舒服的话。
+真正权力归属的问题
+If we don't kid ourselves about where the real power is, let's have presidents and parliaments aplenty if that makes people feel comfortable.
+The question of real power
+0_If 1_we 2_do 3_not 4_kid 5_ourselves 6_about 7_where 8_the 9_real 10_power 11_is 12_, 13_let 14_'s 15_have 16_presidents 17_and 18_parliaments 19_aplenty 20_if 21_that 22_makes 23_people 24_feel 25_comfortable 26_.
+0_The 1_question 2_of 3_real 4_power
+none
+0	1	2
+none
+1
+none
+1	2
+
+72
+而欧盟也自顾不暇，因为它们既头痛于如何处理竞争力下降的问题，又为如何支付那些人们自以为应得的福利而苦恼。
+竞争力下降的问题
+And the EU is torn between how to deal with declining competitiveness and how to pay for the benefits people think they are entitled to.
+The problem of declining competitiveness
+0_And 1_the 2_EU 3_is 4_torn 5_between 6_how 7_to 8_deal 9_with 10_declining 11_competitiveness 12_and 13_how 14_to 15_pay 16_for 17_the 18_benefits 19_people 20_think 21_they 22_are 23_entitled 24_to 25_.
+0_The 1_problem 2_of 3_declining 4_competitiveness
+none
+0	1	2
+none
+1
+none
+1	2
+
+76
+正如我大多数的同胞一样，他们靠每日不足1美元存活，这就意味着他们无法享受自来水，卫生条件以及生活用电。
+卫生条件以及生活用电
+Like most of my countrymen, they survive on less than $1 a day, which means they don't have running water, sanitation, or electricity.
+Hygienic conditions and living electricity
+0_Like 1_most 2_of 3_my 4_countrymen 5_, 6_they 7_survive 8_on 9_less 10_than 11_$ 12_1 13_a 14_day 15_, 16_which 17_means 18_they 19_do 20_not 21_have 22_running 23_water 24_, 25_sanitation 26_, 27_or 28_electricity 29_.
+0_Hygienic 1_conditions 2_and 3_living 4_electricity
+none
+0	1	2	3
+none
+3
+none
+3
+
+83
+我们去年又在上述两个城市进行了相同的问卷调查，并在今年一月召开的美国经济学会年会上发表了研究成果。
+今年一月召开的美国经济学会年会
+We conducted the same survey in the above two cities last year and presented the research results at the annual meeting of the American Economic Association held in January this year.
+the annual meeting of the american economic association
+0_We 1_conducted 2_the 3_same 4_survey 5_in 6_the 7_above 8_two 9_cities 10_last 11_year 12_and 13_presented 14_the 15_research 16_results 17_at 18_the 19_annual 20_meeting 21_of 22_the 23_American 24_Economic 25_Association 26_held 27_in 28_January 29_this 30_year 31_.
+0_the 1_annual 2_meeting 3_of 4_the 5_american 6_economic 7_association
+none
+5	6	7
+26	28
+none
+26	27	28	29	30
+none
+
+103
+光是在欧洲，就至少有40个潜在的苏格兰寻求以某种方式从现在所处的国家独立。
+现在所处的国家
+In Europe alone, there are at least 40 potential Scotlands seeking independence in some way from where they are now.
+current country
+0_In 1_Europe 2_alone 3_, 4_there 5_are 6_at 7_least 8_40 9_potential 10_Scotlands 11_seeking 12_independence 13_in 14_some 15_way 16_from 17_where 18_they 19_are 20_now 21_.
+0_current 1_country
+none
+0	1
+19	20
+0	1
+20
+0	1
+
+107
+他是一位知名的新保守派人物，对于其远景设计合理性具有坚定不移的信心，在我看来就像是一个民主的布尔什维克。
+其远景设计合理性
+A well-known neoconservative, with an unwavering faith in the soundness of his vision, he strikes me as a democratic Bolshevik.
+The rationality of its vision design
+0_A 1_well 2_- 3_known 4_neoconservative 5_, 6_with 7_an 8_unwavering 9_faith 10_in 11_the 12_soundness 13_of 14_his 15_vision 16_, 17_he 18_strikes 19_me 20_as 21_a 22_democratic 23_Bolshevik 24_.
+0_The 1_rationality 2_of 3_its 4_vision 5_design
+none
+0	1	3	5
+none
+5
+none
+5
+
+145
+然而，改革所取得的进展并没有像帕乔里和其他一些人所希望的那么大、那么快。
+改革所取得的进展
+Yet reforms have not moved as far, or as quickly, as Pachauri and some others had hoped.
+progress made in reform
+0_Yet 1_reforms 2_have 3_not 4_moved 5_as 6_far 7_, 8_or 9_as 10_quickly 11_, 12_as 13_Pachauri 14_and 15_some 16_others 17_had 18_hoped 19_.
+0_progress 1_made 2_in 3_reform
+none
+0	1	2	3
+none
+1
+4
+0	1
+
+154
+正是在这一点上，美国与法国和德国有着本质的不同，而英国与美国却非常相似，他们都不信任国家，更不会依靠国家。
+美国与法国和德国
+It is at this point that the United States is fundamentally different from France and Germany, while the United Kingdom is very similar to the United States in that neither trusts nor relies on the state.
+America vs. France and Germany
+0_It 1_is 2_at 3_this 4_point 5_that 6_the 7_United 8_States 9_is 10_fundamentally 11_different 12_from 13_France 14_and 15_Germany 16_, 17_while 18_the 19_United 20_Kingdom 21_is 22_very 23_similar 24_to 25_the 26_United 27_States 28_in 29_that 30_neither 31_trusts 32_nor 33_relies 34_on 35_the 36_state 37_.
+0_America 1_vs. 2_France 3_and 4_Germany
+none
+0	1
+7	8
+0
+none
+1
+
+167
+当然，这些限制因素在几个世纪以前就已经存在，当时马尔萨斯和李嘉图还没有提出假说，但
+这些限制因素
+Of course, these constraints existed centuries ago, before Malthus and Ricardo hypothesized, but
+these limiting factors
+0_Of 1_course 2_, 3_these 4_constraints 5_existed 6_centuries 7_ago 8_, 9_before 10_Malthus 11_and 12_Ricardo 13_hypothesized 14_, 15_but
+0_these 1_limiting 2_factors
+none
+1	2
+none
+1
+none
+2
+
+204
+确定同盟国战后对日领土疆界的基本立场的1943年开罗宣言
+对日领土疆界
+The Cairo Declaration of 1943, which established the basic position of the Allied Powers towards the territorial boundaries of Japan after the war
+Territorial borders against Japan
+0_The 1_Cairo 2_Declaration 3_of 4_1943 5_, 6_which 7_established 8_the 9_basic 10_position 11_of 12_the 13_Allied 14_Powers 15_towards 16_the 17_territorial 18_boundaries 19_of 20_Japan 21_after 22_the 23_war
+0_Territorial 1_borders 2_against 3_Japan
+none
+0	1	2
+15
+2
+15
+2
+
+223
+那种从太空看到的地球图像具有深刻的心理影响，并且我们都看到了这种影响。
+那种从太空看到的地球图像
+That image of Earth seen from space has a profound psychological impact, and we've all seen it.
+The kind of image of Earth seen from space
+0_That 1_image 2_of 3_Earth 4_seen 5_from 6_space 7_has 8_a 9_profound 10_psychological 11_impact 12_, 13_and 14_we 15_'ve 16_all 17_seen 18_it 19_.
+0_The 1_kind 2_of 3_image 4_of 5_Earth 6_seen 7_from 8_space
+2
+0	1	2	4
+0
+0	1
+0
+0	1	2
+
+232
+这对于政府官员来说并不总是一件也让人舒服的事情，并且在公开敏感材料的问题上还存在着激烈的斗争。
+公开敏感材料的问题
+It's not always a comfortable thing for government officials, and there are fierce battles over releasing sensitive material.
+Issues with Disclosing Sensitive Material
+0_It 1_'s 2_not 3_always 4_a 5_comfortable 6_thing 7_for 8_government 9_officials 10_, 11_and 12_there 13_are 14_fierce 15_battles 16_over 17_releasing 18_sensitive 19_material 20_.
+0_Issues 1_with 2_Disclosing 3_Sensitive 4_Material
+none
+0	1	2	3	4
+none
+0
+none
+0	1
+
+269
+由于高谈阔论的蛊惑，你要是相信欧盟已经单方面决定朝着解决这个问题的方向迈出重要一步也是情有可原。
+解决这个问题的方向
+Because of the rhetoric, you'd be forgiven for believing that the EU has unilaterally decided to take a major step towards solving this problem.
+The direction to solve this problem
+0_Because 1_of 2_the 3_rhetoric 4_, 5_you 6_'d 7_be 8_forgiven 9_for 10_believing 11_that 12_the 13_EU 14_has 15_unilaterally 16_decided 17_to 18_take 19_a 20_major 21_step 22_towards 23_solving 24_this 25_problem 26_.
+0_The 1_direction 2_to 3_solve 4_this 5_problem
+none
+0	1	3
+none
+1
+none
+1
+
+293
+最重要的是，这些措施有望将土耳其纳入欧洲大家庭，从而阻止它朝远离我们的共同欧洲价值的方向越滑越远。
+远离我们的共同欧洲价值的方向
+Most importantly, these measures promise to bring Turkey into the European family and thus stop it from slipping further and further away from our common European values.
+A direction away from our common European values
+0_Most 1_importantly 2_, 3_these 4_measures 5_promise 6_to 7_bring 8_Turkey 9_into 10_the 11_European 12_family 13_and 14_thus 15_stop 16_it 17_from 18_slipping 19_further 20_and 21_further 22_away 23_from 24_our 25_common 26_European 27_values 28_.
+0_A 1_direction 2_away 3_from 4_our 5_common 6_European 7_values
+none
+0	1
+none
+1
+none
+1
+
+345
+和援助亚洲海啸相似的行动能够改变这种灾难性的状况，每年可以拯救百万以上的生命。
+百万以上的生命
+Actions like the one that aided the Asian tsunami could change this catastrophic situation and save millions of lives each year.
+more than a million lives
+0_Actions 1_like 2_the 3_one 4_that 5_aided 6_the 7_Asian 8_tsunami 9_could 10_change 11_this 12_catastrophic 13_situation 14_and 15_save 16_millions 17_of 18_lives 19_each 20_year 21_.
+0_more 1_than 2_a 3_million 4_lives
+none
+0	1	2	3
+none
+0
+none
+0	1
+
+358
+保持马克龙在法国当选总统所启动的趋势并兑现其所作出的承诺需要在未来几个月内果断采取行动。
+马克龙在法国当选总统所启动的趋势
+Sustaining the trend started by Macron's French presidency and delivering on the promises he has made will require decisive action in the coming months.
+Trend kicked off by Macron's election as French president
+0_Sustaining 1_the 2_trend 3_started 4_by 5_Macron 6_'s 7_French 8_presidency 9_and 10_delivering 11_on 12_the 13_promises 14_he 15_has 16_made 17_will 18_require 19_decisive 20_action 21_in 22_the 23_coming 24_months 25_.
+0_Trend 1_kicked 2_off 3_by 4_Macron 5_'s 6_election 7_as 8_French 9_president
+none
+0	1	2	6	7	9
+none
+6
+none
+6
+
+365
+但是，尽管此次峰会可谓成功，其长期影响仍不清楚，特别是在考虑到未来不确定性的情况下。
+未来不确定性的情况
+But despite the summit's success, its long-term impact remains unclear, especially given the uncertain future.
+Situations of Future Uncertainty
+0_But 1_despite 2_the 3_summit 4_'s 5_success 6_, 7_its 8_long 9_- 10_term 11_impact 12_remains 13_unclear 14_, 15_especially 16_given 17_the 18_uncertain 19_future 20_.
+0_Situations 1_of 2_Future 3_Uncertainty
+none
+0	1	2	3
+none
+0
+none
+0
+
+368
+但是，一样令人震惊的是，美国众议院的普通的议员们把此计划给否决了，至少目前的情况是这样。
+美国众议院的普通的议员们
+But just as shockingly, rank-and-file lawmakers in the U.S. House of Representatives voted down the plan, at least for now.
+Ordinary Members of the U.S. House of Representatives
+0_But 1_just 2_as 3_shockingly 4_, 5_rank 6_- 7_and 8_- 9_file 10_lawmakers 11_in 12_the 13_U.S. 14_House 15_of 16_Representatives 17_voted 18_down 19_the 20_plan 21_, 22_at 23_least 24_for 25_now 26_.
+0_Ordinary 1_Members 2_of 3_the 4_U.S. 5_House 6_of 7_Representatives
+15
+0	1	2	6
+5	9
+0
+5	7	9	10
+0	1
+
+375
+但为了避免这一悲惨的结果，就必须在现在保护好穆斯林兄弟会的基本权利。
+好穆斯林兄弟会的基本权利
+But to avoid this tragic outcome, the Muslim Brotherhood's fundamental rights must be protected now.
+Basic Rights of the Good Muslim Brotherhood
+0_But 1_to 2_avoid 3_this 4_tragic 5_outcome 6_, 7_the 8_Muslim 9_Brotherhood 10_'s 11_fundamental 12_rights 13_must 14_be 15_protected 16_now 17_.
+0_Basic 1_Rights 2_of 3_the 4_Good 5_Muslim 6_Brotherhood
+none
+0	1	2	4
+none
+4
+none
+4
+
+405
+集中化的金融监管可以避免银行向不同的监管机构报告，使得金融法规和监管操作协调化，并消除扭曲竞争的现象。
+扭曲竞争的现象
+Centralizing financial regulation can avoid banks reporting to different regulators, harmonize financial regulations and regulatory practices, and eliminate distortions of competition.
+phenomenon that distorts competition
+0_Centralizing 1_financial 2_regulation 3_can 4_avoid 5_banks 6_reporting 7_to 8_different 9_regulators 10_, 11_harmonize 12_financial 13_regulations 14_and 15_regulatory 16_practices 17_, 18_and 19_eliminate 20_distortions 21_of 22_competition 23_.
+0_phenomenon 1_that 2_distorts 3_competition
+none
+0	1	2
+none
+0
+none
+0
+
+413
+这给兴业银行带来的损失就将会远远大于据报导导致的50亿欧元了。
+这给兴业银行带来的损失
+The loss to Societe Generale would be far greater than the reported 5 billion euros.
+The losses this caused to the Industrial Bank
+0_The 1_loss 2_to 3_Societe 4_Generale 5_would 6_be 7_far 8_greater 9_than 10_the 11_reported 12_5 13_billion 14_euros 15_.
+0_The 1_losses 2_this 3_caused 4_to 5_the 6_Industrial 7_Bank
+none
+1	2	3	6	7
+none
+3
+3	4
+3	6	7
+
+418
+其他许多方面的影响
+其他许多方面
+Many other influences
+many other aspects
+0_Many 1_other 2_influences
+0_many 1_other 2_aspects
+none
+0	2
+none
+2
+none
+2
+
+438
+许多非经合组织成员国，除了需要财政上的支持，还可以从废除燃油津贴政策中受益。
+燃油津贴政策
+Many non-OECD countries, in addition to needing financial support, could also benefit from the abolition of fuel subsidies.
+Fuel Subsidy Policy
+0_Many 1_non-OECD 2_countries 3_, 4_in 5_addition 6_to 7_needing 8_financial 9_support 10_, 11_could 12_also 13_benefit 14_from 15_the 16_abolition 17_of 18_fuel 19_subsidies 20_.
+0_Fuel 1_Subsidy 2_Policy
+none
+0	1	2
+none
+2
+none
+2
+

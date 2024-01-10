@@ -1,0 +1,658 @@
+35
+I put in a lot for this race and to have it all come up and have the time of my life.
+I put in a lot for this race and to have it all come up and have the time of my life that was just a dream come true.
+我为这场比赛付出了很多，让一切都发生了，并拥有了我生命中的时光。
+我为这场比赛付出了很多，让一切都发生了，让我的生活成为梦想成真。
+0_我 1_为 2_这场 3_比赛 4_付出 5_了 6_很多 7_， 8_让 9_一切 10_都 11_发生 12_了 13_， 14_并 15_拥有 16_了 17_我 18_生命 19_中 20_的 21_时光 22_。
+0_我 1_为 2_这场 3_比赛 4_付出 5_了 6_很多 7_， 8_让 9_一切 10_都 11_发生 12_了 13_， 14_让 15_我 16_的 17_生活 18_成为 19_梦想成真 20_。
+15	21
+none
+15	21
+14
+15	21
+none
+
+40
+Both players will now turn their attention to the ATP Finals in London, which is scheduled behind closed doors.
+Both players will now turn their attention to the ATP Finals in London, which is scheduled behind closed doors in the O2 Arena from November 15 to 22.
+两位球员现在都将注意力转向在伦敦举行的 ATP 总决赛，该总决赛安排在闭门会议上进行。
+两位球员现在都将注意力转向伦敦的 ATP 总决赛，该总决赛定于 11 月 15 日至 22 日在 O2 竞技场闭门举行。
+0_两位 1_球员 2_现在 3_都 4_将 5_注意力 6_转向 7_在 8_伦敦 9_举行 10_的 11_ATP 12_总决赛 13_， 14_该 15_总决赛 16_安排 17_在 18_闭门 19_会议 20_上 21_进行 22_。
+0_两位 1_球员 2_现在 3_都 4_将 5_注意力 6_转向 7_伦敦 8_的 9_ATP 10_总决赛 11_， 12_该 13_总决赛 14_定于 15_11 16_月 17_15 18_日至 19_22 20_日 21_在 22_O2 23_竞技场 24_闭门 25_举行 26_。
+16	19
+none
+18	19
+24
+19
+none
+
+56
+People arriving in England will be soon able to reduce their quarantine period by more than half if they return for a Covid test after five days.
+People arriving in England will be soon able to reduce their quarantine period by more than half if they return for a Covid test after five days, the transport ministry has announced.
+到达英格兰的人如果在五天后返回进行 Covid 测试，很快就能将隔离期缩短一半以上。
+交通部宣布，如果抵达英格兰的人在五天后返回接受新冠病毒检测，他们的隔离期将很快缩短一半以上。
+0_到达 1_英格兰 2_的 3_人 4_如果 5_在 6_五天 7_后 8_返回 9_进行 10_Covid 11_测试 12_， 13_很快 14_就 15_能 16_将 17_隔离 18_期 19_缩短 20_一半 21_以上 22_。
+0_交通部 1_宣布 2_， 3_如果 4_抵达 5_英格兰 6_的 7_人 8_在 9_五天 10_后 11_返回 12_接受 13_新冠 14_病毒检测 15_， 16_他们 17_的 18_隔离 19_期将 20_很快 21_缩短 22_一半 23_以上 24_。
+10
+none
+10	11
+13	14
+10	11
+13	14
+
+64
+I know some in the House believe we should have reached this decision earlier, but I thought it was right to try every possible option to get this virus under control at a basic level.
+I know some in the House believe we should have reached this decision earlier, but I thought it was right to try every possible option to get this virus under control at a basic level, with strong local leadership and strong local leadership.
+我知道众议院的一些人认为我们应该早点做出这个决定，但我认为尝试所有可能的选择以在基本水平上控制这种病毒是正确的。
+我知道众议院中的一些人认为我们应该早点做出这个决定，但我认为在强有力的地方领导和强有力的地方领导下，尝试一切可能的选择来在基层控制这种病毒是正确的。
+0_我 1_知道 2_众议院 3_的 4_一些 5_人 6_认为 7_我们 8_应该 9_早点 10_做出 11_这个 12_决定 13_， 14_但 15_我 16_认为 17_尝试 18_所有 19_可能 20_的 21_选择 22_以 23_在 24_基本 25_水平 26_上 27_控制 28_这种 29_病毒 30_是 31_正确 32_的 33_。
+0_我 1_知道 2_众议院 3_中 4_的 5_一些 6_人 7_认为 8_我们 9_应该 10_早点 11_做出 12_这个 13_决定 14_， 15_但 16_我 17_认为 18_在 19_强有力 20_的 21_地方 22_领导 23_和 24_强有力 25_的 26_地方 27_领导 28_下 29_， 30_尝试 31_一切 32_可能 33_的 34_选择 35_来 36_在 37_基层 38_控制 39_这种 40_病毒 41_是 42_正确 43_的 44_。
+25
+none
+24	25
+37
+24	25
+37
+
+68
+He says the pandemic has been a shot of adrenaline for a technology.
+He says the pandemic has been a shot of adrenaline for a technology that to date had not even really arrived.
+他说，这场大流行病为一项技术注射了肾上腺素。
+他说，对于一项迄今为止甚至还没有真正到来的技术，这场大流行病就像是一剂肾上腺素。
+0_他 1_说 2_， 3_这场 4_大 5_流行病 6_为 7_一项 8_技术 9_注射 10_了 11_肾上腺素 12_。
+0_他 1_说 2_， 3_对于 4_一项 5_迄今为止 6_甚至 7_还 8_没有 9_真正 10_到来 11_的 12_技术 13_， 14_这场 15_大 16_流行病 17_就 18_像是 19_一 20_剂 21_肾上腺素 22_。
+9
+none
+9
+20
+9
+20
+
+69
+He had flickered into life with a birdie at the ninth, and when he was in another 25 footer for birdie on the 10th.
+He had flickered into life with a birdie at the ninth, and when he was in another 25 footer for birdie on the 10th, the needle surged again.
+他在第 9 洞抓到小鸟，然后在第 10 洞又一次推入 25 英尺推杆抓到小鸟，这让他焕然一新。
+他在第 9 洞抓到小鸟，瞬间恢复了活力，而当他在第 10 洞又一次 25 英尺推杆抓到小鸟时，针头再次涌动。
+0_他 1_在 2_第 3_9 4_洞 5_抓 6_到 7_小鸟 8_， 9_然后 10_在 11_第 12_10 13_洞 14_又 15_一次 16_推入 17_25 18_英尺 19_推杆 20_抓 21_到 22_小鸟 23_， 24_这 25_让 26_他 27_焕然一新 28_。
+0_他 1_在 2_第 3_9 4_洞 5_抓 6_到 7_小鸟 8_， 9_瞬间 10_恢复 11_了 12_活力 13_， 14_而 15_当 16_他 17_在 18_第 19_10 20_洞 21_又 22_一次 23_25 24_英尺 25_推杆 26_抓 27_到 28_小鸟 29_时 30_， 31_针头 32_再次 33_涌动 34_。
+16	27
+none
+none
+9	12
+27
+9	10	11	12
+
+83
+A hotly-contested case about tax payouts for small businesses who were forced to trade owing to lockdown heads to the Supreme Court.
+A hotly-contested case about tax payouts for small businesses who were forced to trade owing to lockdown heads to the Supreme Court on Monday.
+一个关于因封锁而被迫交易的小企业的税收支出的激烈争论的案件提交至最高法院。
+周一，最高法院审理了一起因封锁而被迫交易的小企业的税收支出问题，引发了激烈的争议。
+0_一个 1_关于 2_因 3_封锁 4_而 5_被迫 6_交易 7_的 8_小企业 9_的 10_税收 11_支出 12_的 13_激烈 14_争论 15_的 16_案件 17_提交 18_至 19_最高法院 20_。
+0_周一 1_， 2_最高法院 3_审理 4_了 5_一起 6_因 7_封锁 8_而 9_被迫 10_交易 11_的 12_小企业 13_的 14_税收 15_支出 16_问题 17_， 18_引发 19_了 20_激烈 21_的 22_争议 23_。
+16
+none
+17
+18	22
+17
+3
+
+93
+This is a credit to the hard work of our county and local elections officials who moved forward to undertake and complete such a momentous task.
+This is a credit to the hard work of our county and local elections officials who moved forward to undertake and complete such a momentous task in a short period of time.
+这归功于我县和地方选举官员的辛勤工作，他们积极承担并完成了这一重大任务。
+这归功于我县和地方选举官员的辛勤工作，他们在短时间内承担并完成了如此重大的任务。
+0_这 1_归功于 2_我县 3_和 4_地方 5_选举 6_官员 7_的 8_辛勤工作 9_， 10_他们 11_积极 12_承担 13_并 14_完成 15_了 16_这 17_一 18_重大 19_任务 20_。
+0_这 1_归功于 2_我县 3_和 4_地方 5_选举 6_官员 7_的 8_辛勤工作 9_， 10_他们 11_在 12_短时间 13_内 14_承担 15_并 16_完成 17_了 18_如此 19_重大 20_的 21_任务 22_。
+11
+none
+11
+none
+11
+none
+
+110
+Some claim they began in Belgium, where the salty delight was first developed by american soldiers.
+Some claim they began in Belgium, where the salty delight was first developed by american soldiers during World War i.
+一些人声称他们起源于比利时，咸味的乐趣首先是由美国士兵开发的。
+有人声称它们起源于比利时，在第一次世界大战期间，美国士兵首先在比利时发明了这种咸味美食。
+0_一些 1_人 2_声称 3_他们 4_起源于 5_比利时 6_， 7_咸味 8_的 9_乐趣 10_首先 11_是 12_由 13_美国士兵 14_开发 15_的 16_。
+0_有人 1_声称 2_它们 3_起源于 4_比利时 5_， 6_在 7_第一次世界大战 8_期间 9_， 10_美国士兵 11_首先 12_在 13_比利时 14_发明 15_了 16_这种 17_咸味 18_美食 19_。
+9	14
+none
+9
+18
+9
+18
+
+123
+In the role of Zhang Luowei, who has worked with her, Chen approaches her job with passion.
+In the role of Zhang Luowei, who has worked with her, Chen approaches her job with passion and puts great effort into delivering her very effective talks.
+饰演曾与她共事的张洛薇一角，陈以满腔热情对待自己的工作。
+作为曾与她共事过的张洛薇，陈以热情的态度对待自己的工作，并竭尽全力进行非常有效的演讲。
+0_饰演 1_曾 2_与 3_她 4_共事 5_的 6_张洛薇 7_一角 8_， 9_陈以 10_满腔热情 11_对待 12_自己 13_的 14_工作 15_。
+0_作为 1_曾 2_与 3_她 4_共事 5_过 6_的 7_张洛薇 8_， 9_陈以 10_热情 11_的 12_态度 13_对待 14_自己 15_的 16_工作 17_， 18_并 19_竭尽全力 20_进行 21_非常 22_有效 23_的 24_演讲 25_。
+0
+none
+0	7
+none
+0	7
+0
+
+136
+During the national summer holiday, Xinjiang and Ningxia were among the top two destinations that saw the fastest spending time on a daily basis.
+During the national summer holiday, Xinjiang and Ningxia were among the top two destinations that saw the fastest spending time on a daily basis, according to UnionPay data.
+暑假期间，新疆和宁夏位居每日游玩时间最快的两大目的地。
+银联数据显示，暑假期间，新疆和宁夏成为单日消费时间最快的两大目的地。
+0_暑假 1_期间 2_， 3_新疆 4_和 5_宁夏 6_位居 7_每日 8_游玩 9_时间 10_最快 11_的 12_两大 13_目的地 14_。
+0_银联 1_数据 2_显示 3_， 4_暑假 5_期间 6_， 7_新疆 8_和 9_宁夏 10_成为 11_单日 12_消费 13_时间 14_最快 15_的 16_两大 17_目的地 18_。
+6	8
+none
+8
+12
+8
+12
+
+141
+But there is one Woods landmark McIlroy can emulate at the Masters, which was played until November.
+But there is one Woods landmark McIlroy can emulate at the Masters, which was played until November because of the coronavirus outbreak.
+但是有一个伍兹里程碑式的麦克罗伊可以在大师赛上效仿，这场比赛一直持续到 11 月。
+但在美国大师赛上，麦克罗伊可以效仿伍兹的一项里程碑，因为冠状病毒的爆发，美国大师赛一直打到 11 月。
+0_但是 1_有 2_一个伍 3_兹 4_里程碑式 5_的 6_麦 7_克罗伊 8_可以 9_在 10_大师赛 11_上 12_效仿 13_， 14_这场 15_比赛 16_一直 17_持续 18_到 19_11 20_月 21_。
+0_但 1_在 2_美国 3_大师赛 4_上 5_， 6_麦 7_克罗伊 8_可以 9_效仿 10_伍兹 11_的 12_一项 13_里程碑 14_， 15_因为 16_冠状病毒 17_的 18_爆发 19_， 20_美国 21_大师赛 22_一直 23_打 24_到 25_11 26_月 27_。
+16
+none
+2	15	17
+12	23
+none
+2	20
+
+142
+But most people recognise him for what he is, the Pied piper incarnate, appointed by Hamelin to impersonate its simultaneously favourite.
+But most people recognise him for what he is, the Pied piper incarnate, appointed by Hamelin to impersonate its simultaneously favourite and least favourite adopted son.
+但大多数人都认出了他，他是花衣魔笛手的化身，由哈梅林任命来模仿其同时最喜欢的人。
+但大多数人都认出了他，他是魔笛手的化身，由哈梅林任命，扮演其同时最喜欢和最不喜欢的养子。
+0_但 1_大多数 2_人 3_都 4_认出 5_了 6_他 7_， 8_他 9_是 10_花衣 11_魔 12_笛手 13_的 14_化身 15_， 16_由哈 17_梅林 18_任命 19_来 20_模仿 21_其 22_同时 23_最 24_喜欢 25_的 26_人 27_。
+0_但 1_大多数 2_人 3_都 4_认出 5_了 6_他 7_， 8_他 9_是 10_魔 11_笛手 12_的 13_化身 14_， 15_由哈 16_梅林 17_任命 18_， 19_扮演 20_其 21_同时 22_最 23_喜欢 24_和 25_最 26_不 27_喜欢 28_的 29_养子 30_。
+10	20
+none
+20
+19
+10	20
+19
+
+148
+As officials continue to warn about traveling over the holidays amid the flu surge, health experts are also investigating the virus' impact.
+As officials continue to warn about traveling over the holidays amid the flu surge, health experts are also investigating the virus' impact on children.
+由于官员们继续警告在流感激增的情况下假期旅行，卫生专家也在调查该病毒的影响。
+由于官员们继续警告在流感激增的情况下不要在假期旅行，健康专家也在调查该病毒对儿童的影响。
+0_由于 1_官员 2_们 3_继续 4_警告 5_在 6_流感 7_激增 8_的 9_情况 10_下 11_假期 12_旅行 13_， 14_卫生 15_专家 16_也 17_在 18_调查 19_该 20_病毒 21_的 22_影响 23_。
+0_由于 1_官员 2_们 3_继续 4_警告 5_在 6_流感 7_激增 8_的 9_情况 10_下 11_不要 12_在 13_假期 14_旅行 15_， 16_健康 17_专家 18_也 19_在 20_调查 21_该 22_病毒 23_对 24_儿童 25_的 26_影响 27_。
+13
+none
+none
+11
+none
+11
+
+162
+Twitter, already under pressure from lawmakers and regulators, appeared to go down altogether.
+Twitter, already under pressure from lawmakers and regulators, appeared to go down altogether on Thursday.
+已经受到立法者和监管机构压力的 Twitter 似乎完全走下坡路。
+已经受到立法者和监管机构压力的推特似乎在周四完全瘫痪了。
+0_已经 1_受到 2_立法者 3_和 4_监管 5_机构 6_压力 7_的 8_Twitter 9_似乎 10_完全 11_走下坡路 12_。
+0_已经 1_受到 2_立法者 3_和 4_监管 5_机构 6_压力 7_的 8_推特 9_似乎 10_在 11_周四 12_完全 13_瘫痪 14_了 15_。
+9	10
+none
+8	11
+8	13
+8	11
+8	13
+
+165
+Travel rules have been relaxed for tourists arriving in England to work on the farms to ensure there is no turkey available.
+Travel rules have been relaxed for tourists arriving in England to work on the farms to ensure there is no turkey available for Christmas day.
+对抵达英格兰在农场工作的游客放宽了旅行规定，以确保没有火鸡供应。
+对抵达英格兰在农场工作的游客放宽了旅行规定，以确保圣诞节那天没有火鸡。
+0_对 1_抵达 2_英格兰 3_在 4_农场 5_工作 6_的 7_游客 8_放宽 9_了 10_旅行 11_规定 12_， 13_以 14_确保 15_没有 16_火鸡 17_供应 18_。
+0_对 1_抵达 2_英格兰 3_在 4_农场 5_工作 6_的 7_游客 8_放宽 9_了 10_旅行 11_规定 12_， 13_以 14_确保 15_圣诞节 16_那天 17_没有 18_火鸡 19_。
+17
+none
+17
+none
+17
+none
+
+171
+This goes to the High Court, where judges found that most, but not all of the policies involved should pay out offering a lifeline to these small businesses.
+This goes to the High Court, where judges found that most, but not all of the policies involved should pay out offering a potential lifeline to these small businesses.
+这进入了高等法院，法官们发现大多数（但不是全部）所涉及的保单应该为这些小企业提供生命线。
+这进入了高等法院，法官们发现大多数（但不是所有）所涉及的政策都应该为这些小企业提供潜在的生命线。
+0_这 1_进入 2_了 3_高等法院 4_， 5_法官 6_们 7_发现 8_大多数 9_（ 10_但 11_不是 12_全部 13_） 14_所 15_涉及 16_的 17_保单 18_应该 19_为 20_这些 21_小企业 22_提供 23_生命线 24_。
+0_这 1_进入 2_了 3_高等法院 4_， 5_法官 6_们 7_发现 8_大多数 9_（ 10_但 11_不是 12_所有 13_） 14_所 15_涉及 16_的 17_政策 18_都 19_应该 20_为 21_这些 22_小企业 23_提供 24_潜在 25_的 26_生命线 27_。
+17
+none
+17
+17
+17
+17
+
+174
+They made a flying start to their campaign, winning five of their first six matches, before falling and suffering four consecutive defeats.
+They made a flying start to their campaign, winning five of their first six matches, before falling and suffering four consecutive defeats in the early stages of the group phase.
+他们在竞选中取得了良好的开端，在前六场比赛中赢了五场，然后连续四场失利。
+他们在比赛中开局不错，在前六场比赛中赢了五场，然后在小组赛初期连续四场失利。
+0_他们 1_在 2_竞选 3_中 4_取得 5_了 6_良好 7_的 8_开端 9_， 10_在 11_前 12_六场 13_比赛 14_中 15_赢 16_了 17_五场 18_， 19_然后 20_连续 21_四场 22_失利 23_。
+0_他们 1_在 2_比赛 3_中 4_开局 5_不错 6_， 7_在 8_前 9_六场 10_比赛 11_中 12_赢 13_了 14_五场 15_， 16_然后 17_在 18_小组赛 19_初期 20_连续 21_四场 22_失利 23_。
+2
+none
+2	4	8
+2	4
+2	4
+2	4
+
+180
+The results come hot on the heels of similar results from Pfizer, and add to growing confidence.
+The results come hot on the heels of similar results from Pfizer, and add to growing confidence that vaccines can help prevent the pandemic.
+辉瑞公司的类似结果紧随其后，结果变得炙手可热，并增加了信心。
+紧随辉瑞公司的类似结果之后，该结果也很火爆，并增加了人们对疫苗有助于预防大流行的信心。
+0_辉瑞公司 1_的 2_类似 3_结果 4_紧随其后 5_， 6_结果 7_变得 8_炙手可热 9_， 10_并 11_增加 12_了 13_信心 14_。
+0_紧随 1_辉瑞公司 2_的 3_类似 4_结果 5_之后 6_， 7_该 8_结果 9_也 10_很 11_火爆 12_， 13_并 14_增加 15_了 16_人们 17_对 18_疫苗 19_有助于 20_预防 21_大 22_流行 23_的 24_信心 25_。
+7	8
+none
+4	8
+0	11
+4	7	8
+0	9	10	11
+
+182
+The restoration work on relocated frescos and the statues from the Tianti Mountain Grottoes, some of China's largest, has been completed.
+The restoration work on relocated frescos and the statues from the Tianti Mountain Grottoes, some of China's largest, has been completed local authorities said on Friday.
+中国最大的天梯山石窟的壁画和造像搬迁修复工作已经完成。
+地方当局周五表示，中国最大的天梯山石窟的壁画和造像的修复工作已经完成。
+0_中国 1_最大 2_的 3_天梯 4_山 5_石窟 6_的 7_壁画 8_和 9_造像 10_搬迁 11_修复 12_工作 13_已经 14_完成 15_。
+0_地方 1_当局 2_周五 3_表示 4_， 5_中国 6_最大 7_的 8_天梯 9_山 10_石窟 11_的 12_壁画 13_和 14_造像 15_的 16_修复 17_工作 18_已经 19_完成 20_。
+10
+none
+10
+none
+10
+none
+
+188
+The hope is this can be used to stamp out an outbreak, by getting anyone who tests positive to isolate.
+The hope is this can be used to stamp out an outbreak, by getting anyone who tests positive to isolate, without turning to strict control.
+希望通过让任何测试呈阳性的人隔离，这可以用来消除爆发。
+希望这可以用来消灭疫情，让任何测试呈阳性的人隔离，而不是转向严格控制。
+0_希望 1_通过 2_让 3_任何 4_测试 5_呈 6_阳性 7_的 8_人 9_隔离 10_， 11_这 12_可以 13_用来 14_消除 15_爆发 16_。
+0_希望 1_这 2_可以 3_用来 4_消灭 5_疫情 6_， 7_让 8_任何 9_测试 10_呈 11_阳性 12_的 13_人 14_隔离 15_， 16_而 17_不是 18_转向 19_严格控制 20_。
+14
+none
+15
+5
+15
+5
+
+190
+The event attracted 285 enterprise from 30 countries, a number more than previous years.
+The event attracted 285 enterprise from 30 countries, a number more than previous years due to the competition.
+此次盛会吸引了来自30个国家的285家企业参展，数量较往年有所增加。
+本次活动吸引了来自30个国家的285家企业参加，比往年多了很多。
+0_此次 1_盛会 2_吸引 3_了 4_来自 5_30 6_个 7_国家 8_的 9_285 10_家 11_企业 12_参展 13_， 14_数量 15_较往年 16_有所增加 17_。
+0_本次 1_活动 2_吸引 3_了 4_来自 5_30 6_个 7_国家 8_的 9_285 10_家 11_企业 12_参加 13_， 14_比 15_往年 16_多 17_了 18_很多 19_。
+1	12	14
+none
+14	16
+none
+14
+none
+
+213
+Now we know that's because she quit to pursue a relationship with Moss.
+Now we know that's because she quit to pursue a relationship with Moss, a former professional basketball player who captured her heart from the start.
+现在我们知道那是因为她辞职去追求与莫斯的关系。
+现在我们知道那是因为她放弃追求与莫斯的关系，莫斯是一名从一开始就俘获她芳心的前职业篮球运动员。
+0_现在 1_我们 2_知道 3_那 4_是因为 5_她 6_辞职 7_去 8_追求 9_与 10_莫斯 11_的 12_关系 13_。
+0_现在 1_我们 2_知道 3_那 4_是因为 5_她 6_放弃 7_追求 8_与 9_莫斯 10_的 11_关系 12_， 13_莫斯是 14_一名 15_从 16_一 17_开始 18_就 19_俘获 20_她 21_芳心 22_的 23_前 24_职业 25_篮球 26_运动员 27_。
+6
+none
+6	7
+6	13
+6	7
+6
+
+241
+He has expressed his interest in the post, telling allies that the nation's infrastructure challenges are so dire.
+He has expressed his interest in the post, telling allies that the nation's infrastructure challenges are so dire that a person with support from the executive and legislative branch would be an asset.
+他表达了对帖子的兴趣，告诉盟友国家的基础设施挑战非常严峻。
+他表达了对该职位的兴趣，并告诉盟友国家基础设施的挑战如此严峻，以至于得到行政和立法部门支持的人将是一笔财富。
+0_他 1_表达 2_了 3_对 4_帖子 5_的 6_兴趣 7_， 8_告诉 9_盟友 10_国家 11_的 12_基础设施 13_挑战 14_非常 15_严峻 16_。
+0_他 1_表达 2_了 3_对 4_该 5_职位 6_的 7_兴趣 8_， 9_并 10_告诉 11_盟友 12_国家 13_基础设施 14_的 15_挑战 16_如此 17_严峻 18_， 19_以至于 20_得到 21_行政 22_和 23_立法 24_部门 25_支持 26_的 27_人 28_将 29_是 30_一笔 31_财富 32_。
+4
+none
+4
+5
+4
+5
+
+253
+But many of its youngest members get round this by asking about their date of birth.
+But many of its youngest members get round this by asking about their date of birth when they join.
+但是它的许多最年轻的成员通过询问他们的出生日期来解决这个问题。
+但是它的许多最年轻的成员在加入时通过询问他们的出生日期来绕过这个问题。
+0_但是 1_它 2_的 3_许多 4_最 5_年轻 6_的 7_成员 8_通过 9_询问 10_他们 11_的 12_出生日期 13_来 14_解决 15_这个 16_问题 17_。
+0_但是 1_它 2_的 3_许多 4_最 5_年轻 6_的 7_成员 8_在 9_加入 10_时 11_通过 12_询问 13_他们 14_的 15_出生日期 16_来 17_绕过 18_这个 19_问题 20_。
+14
+none
+14
+17
+14
+17
+
+255
+Beyond says customers will be served its rendition as a ramen topping, and in dishes such as spaghetti and meatballs, spicy bolognaise.
+Beyond says customers will be served its rendition as a ramen topping, and in dishes such as spaghetti and meatballs, spicy bolognaise, and biscuits and biscuits.
+Beyond 表示，顾客将在拉面配料中品尝到它的演绎，以及意大利面和肉丸、辣肉酱等菜肴。
+Beyond 表示，顾客将在拉面配料中使用它的演绎，并搭配意大利面和肉丸、辣肉酱、饼干和饼干等菜肴。
+0_Beyond 1_表示 2_， 3_顾客 4_将 5_在 6_拉面 7_配料 8_中 9_品尝 10_到 11_它 12_的 13_演绎 14_， 15_以及 16_意大利 17_面 18_和 19_肉丸 20_、 21_辣 22_肉酱 23_等 24_菜肴 25_。
+0_Beyond 1_表示 2_， 3_顾客 4_将 5_在 6_拉面 7_配料 8_中 9_使用 10_它 11_的 12_演绎 13_， 14_并 15_搭配 16_意大利 17_面 18_和 19_肉丸 20_、 21_辣 22_肉酱 23_、 24_饼干 25_和 26_饼干 27_等 28_菜肴 29_。
+9
+none
+none
+15
+9
+9	15
+
+256
+Beyoncé leads the field, with nine nominations overall, including four for Black Parade, a protest film.
+Beyoncé leads the field, with nine nominations overall, including four for Black Parade, a protest film released at the time of the Black Lives Matter protests this summer.
+碧昂斯以九项提名领跑该领域，其中四项提名来自抗议电影《黑色游行》。
+Beyoncé 以九项提名领跑该领域，其中包括 Black Parade 的四项提名，这是一部抗议电影，在今年夏天的 Black Lives Matter 抗议活动中上映。
+0_碧昂斯以 1_九项 2_提名 3_领跑 4_该 5_领域 6_， 7_其中 8_四项 9_提名 10_来自 11_抗议 12_电影 13_《 14_黑色 15_游行 16_》 17_。
+0_Beyonc 1_é 2_以 3_九项 4_提名 5_领跑 6_该 7_领域 8_， 9_其中 10_包括 11_Black 12_Parade 13_的 14_四项 15_提名 16_， 17_这是 18_一部 19_抗议 20_电影 21_， 22_在 23_今年夏天 24_的 25_Black 26_Lives 27_Matter 28_抗议 29_活动 30_中 31_上映 32_。
+15
+none
+0	14	15
+0	1	2	11	12
+0	14	15
+0	1	2	11	12
+
+259
+As the world closes in, countries are coping with the coronavirus pandemic is revealing a lot about each nation's distinct character.
+As the world closes in, the different cultural ways that countries are coping with the coronavirus pandemic is revealing a lot about each nation's distinct character.
+随着世界的封闭，各国正在应对冠状病毒大流行，这在很大程度上揭示了每个国家的独特特征。
+随着世界越来越近，各国应对冠状病毒大流行的不同文化方式在很大程度上揭示了每个国家的独特性格。
+0_随着 1_世界 2_的 3_封闭 4_， 5_各国 6_正在 7_应对 8_冠状病毒 9_大 10_流行 11_， 12_这 13_在 14_很大 15_程度 16_上 17_揭示 18_了 19_每个 20_国家 21_的 22_独特 23_特征 24_。
+0_随着 1_世界 2_越来越近 3_， 4_各国 5_应对 6_冠状病毒 7_大 8_流行 9_的 10_不同 11_文化 12_方式 13_在 14_很大 15_程度 16_上 17_揭示 18_了 19_每个 20_国家 21_的 22_独特 23_性格 24_。
+3
+none
+3
+2
+3	6
+2
+
+264
+A young chef at the Chairman spends more than a year practicing on the wok by cooking the meals before he or she is allowed to stir fry a fish.
+A young chef at the Chairman spends more than a year practicing on the wok by cooking the meals before he or she is allowed to stir fry a fish for breakfast.
+董事长的一位年轻厨师花了一年多的时间在炒锅上练习做饭，然后才被允许炒鱼。
+Chairman 的一位年轻厨师花了一年多的时间在炒锅上练习做饭，然后他或她才被允许炒一条鱼作为早餐。
+0_董事长 1_的 2_一位 3_年轻 4_厨师 5_花 6_了 7_一年 8_多 9_的 10_时间 11_在 12_炒锅 13_上 14_练习 15_做饭 16_， 17_然后 18_才 19_被 20_允许 21_炒鱼 22_。
+0_Chairman 1_的 2_一位 3_年轻 4_厨师 5_花 6_了 7_一年 8_多 9_的 10_时间 11_在 12_炒锅 13_上 14_练习 15_做饭 16_， 17_然后 18_他 19_或 20_她 21_才 22_被 23_允许 24_炒 25_一条 26_鱼 27_作为 28_早餐 29_。
+0
+none
+0
+0
+0
+0
+
+267
+A new Watch Dogs trailer, also featuring footage from the current-gen version of the game, has drawn criticism.
+A new Watch Dogs trailer, also featuring footage from the current-gen version of the game, has drawn criticism for its poor quality.
+新的《看门狗》预告片也出现了当前世代游戏的镜头，引起了批评。
+新的《看门狗》预告片也以游戏当前版本的镜头为特色，但因其质量低下而受到批评。
+0_新 1_的 2_《 3_看门狗 4_》 5_预告片 6_也 7_出现 8_了 9_当前 10_世代 11_游戏 12_的 13_镜头 14_， 15_引起 16_了 17_批评 18_。
+0_新 1_的 2_《 3_看门狗 4_》 5_预告片 6_也 7_以 8_游戏 9_当前 10_版本 11_的 12_镜头 13_为 14_特色 15_， 16_但 17_因 18_其 19_质量 20_低下 21_而 22_受到 23_批评 24_。
+9
+none
+10
+10	14
+7
+7	14
+
+270
+With all the group and previous round matches played behind closed door, tickets for the final were in hot demand.
+With all the group and previous round matches played behind closed door, tickets for the final were in seriously hot demand.
+由于小组赛和前几轮比赛全部闭门进行，因此决赛门票十分抢手。
+由于所有小组赛和前几轮比赛都是空场进行，因此决赛的门票非常抢手。
+0_由于 1_小组赛 2_和 3_前 4_几轮 5_比赛 6_全部 7_闭门 8_进行 9_， 10_因此 11_决赛 12_门票 13_十分 14_抢手 15_。
+0_由于 1_所有 2_小组赛 3_和 4_前 5_几轮 6_比赛 7_都 8_是 9_空场 10_进行 11_， 12_因此 13_决赛 14_的 15_门票 16_非常 17_抢手 18_。
+7
+none
+6	7
+1	9
+7
+9
+
+307
+The entrepreneur showed an amiable demeanor as he engaged her who were sampling different foods.
+The entrepreneur showed an amiable demeanor as he engaged her who were sampling different foods of Tecno and of mobile phones.
+这位企业家表现出和蔼可亲的风度，与正在品尝不同食物的她接洽。
+这位企业家在与正在品尝Tecno和手机不同食物的她时表现出和蔼可亲的风度。
+0_这位 1_企业家 2_表现 3_出 4_和蔼可亲 5_的 6_风度 7_， 8_与 9_正在 10_品尝 11_不同 12_食物 13_的 14_她 15_接洽 16_。
+0_这位 1_企业家 2_在 3_与 4_正在 5_品尝 6_Tecno 7_和 8_手机 9_不同 10_食物 11_的 12_她 13_时 14_表现 15_出 16_和蔼可亲 17_的 18_风度 19_。
+15
+none
+8	15
+3
+15
+none
+
+310
+The coronavirus comes amid mass cancellation of flights and businesses as new cases are being diagnosed around the world.
+The coronavirus comes amid mass cancellation of flights and businesses as new cases are being diagnosed around the world every year.
+随着世界各地不断诊断出新病例，航班和企业大量取消，冠状病毒爆发之际。
+冠状病毒是在航班和企业大规模取消的情况下出现的，因为世界各地每年都会诊断出新病例。
+0_随着 1_世界各地 2_不断 3_诊断 4_出新 5_病例 6_， 7_航班 8_和 9_企业 10_大量 11_取消 12_， 13_冠状病毒 14_爆发 15_之际 16_。
+0_冠状病毒 1_是 2_在 3_航班 4_和 5_企业 6_大规模 7_取消 8_的 9_情况 10_下 11_出现 12_的 13_， 14_因为 15_世界各地 16_每年 17_都 18_会 19_诊断 20_出新 21_病例 22_。
+14
+none
+none
+14
+none
+11	14
+
+312
+The cash injection will help with the construction and maintenance needs of St Paul's.
+The cash injection will help with the construction and maintenance needs of St Paul's, which is normally a popular tourist attraction.
+现金注入将有助于满足圣保罗教堂的建设和维护需求。
+此次注资将有助于圣保罗教堂的建设和维护需求，该教堂通常是一个受欢迎的旅游景点。
+0_现金 1_注入 2_将 3_有助于 4_满足 5_圣保罗 6_教堂 7_的 8_建设 9_和 10_维护 11_需求 12_。
+0_此次 1_注资 2_将 3_有助于 4_圣保罗 5_教堂 6_的 7_建设 8_和 9_维护 10_需求 11_， 12_该 13_教堂 14_通常 15_是 16_一个 17_受欢迎 18_的 19_旅游景点 20_。
+0
+none
+0	4
+none
+4
+none
+
+318
+Since COVID-19 appeared, traditional Chinese medicine has taken center stage, and in line with public health needs and awareness the disease.
+Since COVID-19 appeared, traditional Chinese medicine has taken center stage, and in line with public health needs and awareness the disease has been to the very quintessential health regime.
+自从 COVID-19 出现以来，中医就占据了中心位置，并符合公共卫生需求和对该疾病的认识。
+自 COVID-19 出现以来，传统中医占据了中心位置，并且根据公共卫生需求和意识，该疾病已成为非常典型的健康制度。
+0_自从 1_COVID 2_- 3_19 4_出现 5_以来 6_， 7_中医 8_就 9_占据 10_了 11_中心 12_位置 13_， 14_并 15_符合 16_公共卫生 17_需求 18_和 19_对 20_该 21_疾病 22_的 23_认识 24_。
+0_自 1_COVID 2_- 3_19 4_出现 5_以来 6_， 7_传统 8_中医 9_占据 10_了 11_中心 12_位置 13_， 14_并且 15_根据 16_公共卫生 17_需求 18_和 19_意识 20_， 21_该 22_疾病 23_已 24_成为 25_非常 26_典型 27_的 28_健康 29_制度 30_。
+15
+none
+15	23
+7	15	19
+none
+7
+
+321
+Former nasa astronaut Chris Ferguson said he no longer plans to command the first-ever crewed mission of the Boeing Starliner.
+Former nasa astronaut Chris Ferguson said he no longer plans to command the first-ever crewed mission of the Boeing Starliner, the aircraft he's spent the last decade helping to build.
+前美国宇航局宇航员克里斯弗格森表示，他不再计划指挥波音 Starliner 的首次载人飞行任务。
+前美国宇航局宇航员克里斯弗格森表示，他不再计划指挥波音星际客机的首次载人飞行任务，这架飞机是他在过去十年中帮助建造的。
+0_前 1_美国宇航局 2_宇航员 3_克里斯 4_弗格森 5_表示 6_， 7_他 8_不再 9_计划 10_指挥 11_波音 12_Starliner 13_的 14_首次 15_载人 16_飞行 17_任务 18_。
+0_前 1_美国宇航局 2_宇航员 3_克里斯 4_弗格森 5_表示 6_， 7_他 8_不再 9_计划 10_指挥 11_波音 12_星际 13_客机 14_的 15_首次 16_载人 17_飞行 18_任务 19_， 20_这 21_架飞机 22_是 23_他 24_在 25_过去 26_十年 27_中 28_帮助 29_建造 30_的 31_。
+12	13
+none
+12
+12	13
+12
+12	13
+
+345
+He said the initial few days were difficult to deal with as players adjust to their new settings.
+He said the initial few days were difficult to deal with as players adjust to their new settings and suffered from time lag.
+他说最初几天很难应付，因为球员要适应他们的新环境。
+他说最初几天很难应对，因为玩家要适应新设置并且会遇到时滞问题。
+0_他 1_说 2_最初 3_几天 4_很难 5_应付 6_， 7_因为 8_球员 9_要 10_适应 11_他们 12_的 13_新 14_环境 15_。
+0_他 1_说 2_最初 3_几天 4_很难 5_应对 6_， 7_因为 8_玩家 9_要 10_适应 11_新 12_设置 13_并且 14_会 15_遇到 16_时滞 17_问题 18_。
+8	14
+none
+8	14
+8	12
+8	14
+8	12
+
+356
+Former South African youth international Anele Ngcongca died in a car accident on Monday.
+Former South African youth international Anele Ngcongca died in a car accident on Monday, according to the official IPSS Medical Rescue service.
+周一，前南非青年国脚阿内莱·恩康卡在一场车祸中丧生。
+据官方 IPSS 医疗救援服务称，前南非青年国脚 Anele Ngcongca 周一死于车祸。
+0_周一 1_， 2_前 3_南非 4_青年 5_国脚 6_阿内 7_莱 8_· 9_恩康卡 10_在 11_一场 12_车祸 13_中 14_丧生 15_。
+0_据 1_官方 2_IPSS 3_医疗 4_救援 5_服务 6_称 7_， 8_前 9_南非 10_青年 11_国脚 12_Anele 13_Ngcongca 14_周一 15_死 16_于 17_车祸 18_。
+14
+none
+6	7	9
+12	13
+6	7	9
+12	13
+
+392
+Unbeaten Chinese heavyweight Zhang Zhilei produced a Hollywood finish for his first fight in nearly a year.
+Unbeaten Chinese heavyweight Zhang Zhilei produced a Hollywood finish for his first fight in nearly a year on Saturday night.
+不败的中国重量级拳王张志磊近一年来的首场比赛取得了好莱坞式的成绩。
+周六晚上，不败的中国重量级拳王张志磊为他近一年来的第一场比赛打出了好莱坞式的收官战。
+0_不败 1_的 2_中国 3_重量级 4_拳王 5_张志磊 6_近一年来 7_的 8_首场 9_比赛 10_取得 11_了 12_好莱坞 13_式 14_的 15_成绩 16_。
+0_周六 1_晚上 2_， 3_不败 4_的 5_中国 6_重量级 7_拳王 8_张志磊 9_为 10_他 11_近一年来 12_的 13_第一场 14_比赛 15_打出 16_了 17_好莱坞 18_式 19_的 20_收官战 21_。
+15
+none
+10	15
+15
+10	15
+15	20
+
+416
+The Champions League returns after a three-week hiatus.
+The Champions League returns after a three-week hiatus as we reach the final end of the group stages.
+欧洲冠军联赛在中断三周后回归。
+当我们进入小组赛的最后阶段时，冠军联赛在中断三周后回归。
+0_欧洲 1_冠军联赛 2_在 3_中断 4_三周 5_后 6_回归 7_。
+0_当 1_我们 2_进入 3_小组赛 4_的 5_最后 6_阶段 7_时 8_， 9_冠军联赛 10_在 11_中断 12_三周 13_后 14_回归 15_。
+0
+none
+0
+none
+0
+none
+
+417
+The Antarctic Sabbatical, as the film company is dubbing it, will give five people the opportunity.
+The Antarctic Sabbatical, as the film company is dubbing it, will give five people the opportunity to study how the micro plastics have infiltrated the region.
+电影公司给它配音的南极假期将给五个人机会。
+正如电影公司所称的南极假期，五个人将有机会研究微塑料是如何渗透到该地区的。
+0_电影 1_公司 2_给 3_它 4_配音 5_的 6_南极 7_假期 8_将 9_给 10_五个 11_人 12_机会 13_。
+0_正如 1_电影 2_公司 3_所称 4_的 5_南极 6_假期 7_， 8_五个 9_人 10_将 11_有 12_机会 13_研究 14_微 15_塑料 16_是 17_如何 18_渗透到 19_该 20_地区 21_的 22_。
+3
+none
+4
+3
+4
+3
+
+430
+Over the years, the account picked up followers.
+Over the years, the account picked up followers including what appeared to be young men.
+多年来，该帐户吸引了众多关注者。
+多年来，该帐户吸引了一些追随者，其中包括看似年轻的男性。
+0_多年 1_来 2_， 3_该 4_帐户 5_吸引 6_了 7_众多 8_关注 9_者 10_。
+0_多年 1_来 2_， 3_该 4_帐户 5_吸引 6_了 7_一些 8_追随者 9_， 10_其中 11_包括 12_看似 13_年轻 14_的 15_男性 16_。
+7
+none
+7	8	9
+7	8
+8	9
+8
+
+465
+Cities in the Americas, Africa and Eastern Europe have become less expensive since last decade.
+Cities in the Americas, Africa and Eastern Europe have become less expensive since last decade, while Western European cities have become costlier.
+自过去十年以来，美洲、非洲和东欧的城市生活成本有所下降。
+自上个十年以来，美洲、非洲和东欧的城市变得越来越便宜，而西欧城市变得更加昂贵。
+0_自 1_过去 2_十年 3_以来 4_， 5_美洲 6_、 7_非洲 8_和 9_东欧 10_的 11_城市 12_生活 13_成本 14_有所 15_下降 16_。
+0_自上 1_个 2_十年 3_以来 4_， 5_美洲 6_、 7_非洲 8_和 9_东欧 10_的 11_城市 12_变得 13_越来越 14_便宜 15_， 16_而 17_西欧 18_城市 19_变得 20_更加 21_昂贵 22_。
+12	13	15
+none
+12	13	15
+12	13	14
+12	13	15
+12	13	14
+
+495
+The world has felt even more doom-and-gloom this year .
+The world has felt even more doom-and-gloom this year, and what's missing more than anything is a lot of fun.
+今年世界更加悲观。
+今年世界感到更加阴郁，最缺少的是很多乐趣。
+0_今年 1_世界 2_更加 3_悲观 4_。
+0_今年 1_世界 2_感到 3_更加 4_阴郁 5_， 6_最 7_缺少 8_的 9_是 10_很多 11_乐趣 12_。
+3
+none
+3
+4
+3
+2	
+
+513
+The Pied Piper then, more than a fairy tale, becomes the emblem.
+The Pied Piper then, more than a fairy tale, becomes the emblem of a profound historical mystery.
+吹笛者不再是童话，而是象征。
+花衣魔笛手不仅是一个童话故事，还成为一个深刻的历史谜团的象征。
+0_吹笛 1_者 2_不再 3_是 4_童话 5_， 6_而是 7_象征 8_。
+0_花衣 1_魔 2_笛手 3_不仅 4_是 5_一个 6_童话故事 7_， 8_还 9_成为 10_一个 11_深刻 12_的 13_历史 14_谜团 15_的 16_象征 17_。
+0
+none
+0	1
+0	1	2
+0	1
+0	1	2	9
+
+541
+China Literature Corporate released a White Book of 2020 Chinese Online Literature Going Global.
+China Literature Corporate released a White Book of 2020 Chinese Online Literature Going Global during the First Shanghai International Online Literature Week.
+阅文集团发布《2020中国网络文学出海白皮书》。
+阅文集团在首届上海国际网络文学周期间发布了《2020中国网络文学走出去白皮书》。
+0_阅文 1_集团 2_发布 3_《 4_2020 5_中国 6_网络文学 7_出海 8_白皮书 9_》 10_。
+0_阅文 1_集团 2_在 3_首届 4_上海 5_国际 6_网络文学 7_周 8_期间 9_发布 10_了 11_《 12_2020 13_中国 14_网络文学 15_走 16_出去 17_白皮书 18_》 19_。
+6
+none
+7
+15	16
+7
+15	16
+
+567
+The celebrities did use their megaphones to promote masks.
+The celebrities did use their megaphones to promote masks and social media.
+名人确实用他们的扩音器来宣传口罩。
+名人确实使用他们的扩音器来宣传面具和社交媒体。
+0_名人 1_确实 2_用 3_他们 4_的 5_扩音器 6_来 7_宣传 8_口罩 9_。
+0_名人 1_确实 2_使用 3_他们 4_的 5_扩音器 6_来 7_宣传 8_面具 9_和 10_社交 11_媒体 12_。
+8
+none
+8
+8
+8
+8
+

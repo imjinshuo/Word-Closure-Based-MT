@@ -1,0 +1,490 @@
+1
+虽然决策都会呈交董事会签字批准，但那时候关键决策早就制定完毕了。
+虽然所有决策都会呈交董事会签字批准，但那时候关键决策早就制定完毕了。
+Although decisions are submitted to the board of directors for signature and approval, key decisions have already been made by then.
+While all decisions go to the board of directors for sign-off, by then key decisions have already been made.
+0_Although 1_decisions 2_are 3_submitted 4_to 5_the 6_board 7_of 8_directors 9_for 10_signature 11_and 12_approval 13_, 14_key 15_decisions 16_have 17_already 18_been 19_made 20_by 21_then 22_.
+0_While 1_all 2_decisions 3_go 4_to 5_the 6_board 7_of 8_directors 9_for 10_sign 11_- 12_off 13_, 14_by 15_then 16_key 17_decisions 18_have 19_already 20_been 21_made 22_.
+12
+none
+12
+none
+12
+none
+
+22
+最重要的是人们普遍认为俄罗斯人尚未准备好履行公民的责任。
+但是在目前这种情况下，最重要的是人们普遍认为俄罗斯人尚未准备好履行公民的责任。
+On top of that is the widespread perception that Russians are not ready for the responsibilities of citizenship.
+But what matters most in this current situation is the widespread perception that Russians are not ready to fulfill their responsibilities as citizens.
+0_On 1_top 2_of 3_that 4_is 5_the 6_widespread 7_perception 8_that 9_Russians 10_are 11_not 12_ready 13_for 14_the 15_responsibilities 16_of 17_citizenship 18_.
+0_But 1_what 2_matters 3_most 4_in 5_this 6_current 7_situation 8_is 9_the 10_widespread 11_perception 12_that 13_Russians 14_are 15_not 16_ready 17_to 18_fulfill 19_their 20_responsibilities 21_as 22_citizens 23_.
+17
+none
+0	1
+2	3
+0	1
+2	3
+
+26
+在消费逐步减慢的阶段，即使公司富有现金，一般情况下也不会去扩大投资。
+不管怎样，在消费逐步减慢的阶段，即使公司富有现金，一般情况下也不会去扩大投资。
+In the stage of gradually slowing down consumption, even if the company is rich in cash, it will generally not expand investment.
+In any case, when consumption is gradually slowing down, even if the company is rich in cash, it will generally not expand investment.
+0_In 1_the 2_stage 3_of 4_gradually 5_slowing 6_down 7_consumption 8_, 9_even 10_if 11_the 12_company 13_is 14_rich 15_in 16_cash 17_, 18_it 19_will 20_generally 21_not 22_expand 23_investment 24_.
+0_In 1_any 2_case 3_, 4_when 5_consumption 6_is 7_gradually 8_slowing 9_down 10_, 11_even 12_if 13_the 14_company 15_is 16_rich 17_in 18_cash 19_, 20_it 21_will 22_generally 23_not 24_expand 25_investment 26_.
+2
+none
+2
+none
+2
+none
+
+32
+瑞士选民以77％比23％的压倒性多数否决了向每个公民发放无条件基本收入的提案。
+在6月5日，瑞士选民以77％比23％的压倒性多数否决了向每个公民发放无条件基本收入的提案。
+Swiss voters overwhelmingly rejected a proposal to issue an unconditional basic income to every citizen by an overwhelming majority of 77% to 23%.
+On June 5, Swiss voters overwhelmingly rejected a proposal to issue an unconditional basic income to every citizen, 77% to 23%.
+0_Swiss 1_voters 2_overwhelmingly 3_rejected 4_a 5_proposal 6_to 7_issue 8_an 9_unconditional 10_basic 11_income 12_to 13_every 14_citizen 15_by 16_an 17_overwhelming 18_majority 19_of 20_77 21_% 22_to 23_23 24_% 25_.
+0_On 1_June 2_5 3_, 4_Swiss 5_voters 6_overwhelmingly 7_rejected 8_a 9_proposal 10_to 11_issue 12_an 13_unconditional 14_basic 15_income 16_to 17_every 18_citizen 19_, 20_77 21_% 22_to 23_23 24_% 25_.
+18
+none
+18
+none
+17	18
+none
+
+71
+尽管加沙居民深受战乱不断和由其领导人政策造成的经济崩溃之苦，但是他们还是自得其所。
+到目前为止，尽管加沙居民深受战乱不断和由其领导人政策造成的经济崩溃之苦，但是他们还是自得其所。
+Although Gaza's residents suffer from the ongoing war and economic collapse caused by the policies of their leaders, they are at home.
+So far, even though Gaza's residents have suffered from ongoing fighting and an economic collapse caused by the policies of their leaders, they are content.
+0_Although 1_Gaza 2_'s 3_residents 4_suffer 5_from 6_the 7_ongoing 8_war 9_and 10_economic 11_collapse 12_caused 13_by 14_the 15_policies 16_of 17_their 18_leaders 19_, 20_they 21_are 22_at 23_home 24_.
+0_So 1_far 2_, 3_even 4_though 5_Gaza 6_'s 7_residents 8_have 9_suffered 10_from 11_ongoing 12_fighting 13_and 14_an 15_economic 16_collapse 17_caused 18_by 19_the 20_policies 21_of 22_their 23_leaders 24_, 25_they 26_are 27_content 28_.
+23
+none
+0
+3	4
+23
+27
+
+125
+在政治上，欧盟将从紧密合作中受益，因为任何一方都无法摆脱困扰本地区的众多问题。
+在政治上，欧盟和英国都将从紧密合作中受益，因为任何一方都无法摆脱困扰本地区的众多问题。
+Politically, the EU would benefit from close cooperation, as neither party can escape the many problems plaguing the region.
+Politically, both the EU and the UK stand to benefit from closer cooperation, as neither can escape the myriad of problems plaguing the region.
+0_Politically 1_, 2_the 3_EU 4_would 5_benefit 6_from 7_close 8_cooperation 9_, 10_as 11_neither 12_party 13_can 14_escape 15_the 16_many 17_problems 18_plaguing 19_the 20_region 21_.
+0_Politically 1_, 2_both 3_the 4_EU 5_and 6_the 7_UK 8_stand 9_to 10_benefit 11_from 12_closer 13_cooperation 14_, 15_as 16_neither 17_can 18_escape 19_the 20_myriad 21_of 22_problems 23_plaguing 24_the 25_region 26_.
+12
+none
+none
+8
+12
+8
+
+129
+在实施刺激计划后，市场下滑的趋势开始减速，价格在3月份稳定下来。
+在2009年2月实施刺激计划后，市场下滑的趋势开始减速，价格在3月份稳定下来。
+Prices stabilized in March after the market's downturn began to decelerate after the stimulus package was implemented.
+After the stimulus package was implemented in February 2009, the downward trend in the market began to decelerate and prices stabilized in March.
+0_Prices 1_stabilized 2_in 3_March 4_after 5_the 6_market 7_'s 8_downturn 9_began 10_to 11_decelerate 12_after 13_the 14_stimulus 15_package 16_was 17_implemented 18_.
+0_After 1_the 2_stimulus 3_package 4_was 5_implemented 6_in 7_February 8_2009 9_, 10_the 11_downward 12_trend 13_in 14_the 15_market 16_began 17_to 18_decelerate 19_and 20_prices 21_stabilized 22_in 23_March 24_.
+8
+none
+none
+12
+none
+12
+
+152
+除了这些国家所作的选择外，美国自身的选择对于决定美国面对何种未来也非常重要。
+除了这些国家以及其他国家所作的选择外，美国自身的选择对于决定美国面对何种未来也非常重要。
+In addition to the choices made by these countries, the choices made by the United States itself are also very important in determining what kind of future the United States faces.
+In addition to the choices made by these countries and others, the choices made by the United States itself are also very important in determining the future that the United States faces.
+0_In 1_addition 2_to 3_the 4_choices 5_made 6_by 7_these 8_countries 9_, 10_the 11_choices 12_made 13_by 14_the 15_United 16_States 17_itself 18_are 19_also 20_very 21_important 22_in 23_determining 24_what 25_kind 26_of 27_future 28_the 29_United 30_States 31_faces 32_.
+0_In 1_addition 2_to 3_the 4_choices 5_made 6_by 7_these 8_countries 9_and 10_others 11_, 12_the 13_choices 14_made 15_by 16_the 17_United 18_States 19_itself 20_are 21_also 22_very 23_important 24_in 25_determining 26_the 27_future 28_that 29_the 30_United 31_States 32_faces 33_.
+25
+none
+25
+none
+25
+none
+
+160
+因为它基本上只是让各国承诺进行更多的会谈而非确实的行动。
+这一规划貌不惊人，因为它基本上只是让各国承诺进行更多的会谈而非确实的行动。
+Because it basically just makes countries promise more talks rather than actual action.
+The plan is unremarkable, since it basically promises more talks rather than concrete action.
+0_Because 1_it 2_basically 3_just 4_makes 5_countries 6_promise 7_more 8_talks 9_rather 10_than 11_actual 12_action 13_.
+0_The 1_plan 2_is 3_unremarkable 4_, 5_since 6_it 7_basically 8_promises 9_more 10_talks 11_rather 12_than 13_concrete 14_action 15_.
+5	11
+none
+0	5
+5
+3	5
+none
+
+162
+近年来虽然一直谣传穆巴拉克的身体状况糟糕，但直到2003年11月再也无法隐瞒的时候官方才予以证实。
+近年来虽然一直谣传穆巴拉克的身体状况十分糟糕，但直到2003年11月再也无法隐瞒的时候官方才予以证实。
+Mubarak's poor health had been rumored in recent years, but it was not officially confirmed until November 2003 when it could no longer be concealed.
+Although there have been rumors in recent years that Mubarak's physical condition is very bad, it was not officially confirmed until November 2003 when it could no longer be concealed.
+0_Mubarak 1_'s 2_poor 3_health 4_had 5_been 6_rumored 7_in 8_recent 9_years 10_, 11_but 12_it 13_was 14_not 15_officially 16_confirmed 17_until 18_November 19_2003 20_when 21_it 22_could 23_no 24_longer 25_be 26_concealed 27_.
+0_Although 1_there 2_have 3_been 4_rumors 5_in 6_recent 7_years 8_that 9_Mubarak 10_'s 11_physical 12_condition 13_is 14_very 15_bad 16_, 17_it 18_was 19_not 20_officially 21_confirmed 22_until 23_November 24_2003 25_when 26_it 27_could 28_no 29_longer 30_be 31_concealed 32_.
+2	3
+none
+11
+0
+3
+11	12
+
+163
+希腊有效吸收的欧盟现代化资金只有5%，但当时希腊未必定要如此。
+过去的10年，希腊有效吸收的欧盟现代化资金只有5%，但当时希腊未必定要如此。
+Greece effectively absorbed only 5% of EU modernization funds, but that was not necessarily the case for Greece at the time.
+In the past 10 years, Greece effectively absorbed only 5% of EU modernization funds, but Greece did not necessarily have to be so.
+0_Greece 1_effectively 2_absorbed 3_only 4_5 5_% 6_of 7_EU 8_modernization 9_funds 10_, 11_but 12_that 13_was 14_not 15_necessarily 16_the 17_case 18_for 19_Greece 20_at 21_the 22_time 23_.
+0_In 1_the 2_past 3_10 4_years 5_, 6_Greece 7_effectively 8_absorbed 9_only 10_5 11_% 12_of 13_EU 14_modernization 15_funds 16_, 17_but 18_Greece 19_did 20_not 21_necessarily 22_have 23_to 24_be 25_so 26_.
+17	22
+none
+17	22
+none
+17	22
+none
+
+164
+民族国家一直是人们愿意为之牺牲的想象共同体，而多数领导人也认为他们主要的义务应当面对国民。
+过去两个世纪以来，民族国家一直是人们愿意为之牺牲的想象共同体，而多数领导人也认为他们主要的义务应当面对国民。
+The nation-state has always been an imagined community for which people are willing to die, and most leaders feel that their primary obligation is to face their citizens.
+For the past two centuries, nation-states have been imaginary communities for which people are willing to die, and most leaders feel that their primary obligation is to face their citizens.
+0_The 1_nation 2_- 3_state 4_has 5_always 6_been 7_an 8_imagined 9_community 10_for 11_which 12_people 13_are 14_willing 15_to 16_die 17_, 18_and 19_most 20_leaders 21_feel 22_that 23_their 24_primary 25_obligation 26_is 27_to 28_face 29_their 30_citizens 31_.
+0_For 1_the 2_past 3_two 4_centuries 5_, 6_nation 7_- 8_states 9_have 10_been 11_imaginary 12_communities 13_for 14_which 15_people 16_are 17_willing 18_to 19_die 20_, 21_and 22_most 23_leaders 24_feel 25_that 26_their 27_primary 28_obligation 29_is 30_to 31_face 32_their 33_citizens 34_.
+8	9
+none
+5
+9
+5
+none
+
+165
+贫困阶层顺服，他们乐意接受自身卑微的地位，满足现状，尽管生活艰难，他们也没什么怨言。
+贫困阶层相当顺服，他们乐意接受自身卑微的地位，满足现状，尽管生活艰难，他们也没什么怨言。
+The poor submissively accept their humble status, are content with the status quo, and have no complaints despite the hardships of life.
+The poor class is quite submissive. They are willing to accept their humble status and be content with the status quo. Although life is difficult, they have no complaints.
+0_The 1_poor 2_submissively 3_accept 4_their 5_humble 6_status 7_, 8_are 9_content 10_with 11_the 12_status 13_quo 14_, 15_and 16_have 17_no 18_complaints 19_despite 20_the 21_hardships 22_of 23_life 24_.
+0_The 1_poor 2_class 3_is 4_quite 5_submissive 6_. 7_They 8_are 9_willing 10_to 11_accept 12_their 13_humble 14_status 15_and 16_be 17_content 18_with 19_the 20_status 21_quo 22_. 23_Although 24_life 25_is 26_difficult 27_, 28_they 29_have 30_no 31_complaints 32_.
+2	21
+none
+none
+2
+none
+2	9
+
+171
+尽管最终解体的可能性蕴含着巨大风险，这种拖延战略仍然是欧元区大部分国家所愿意采取的。
+而且，尽管最终解体的可能性蕴含着巨大风险，这种拖延战略仍然是欧元区大部分国家所愿意采取的。
+Despite the huge risks associated with the possibility of an eventual disintegration, this delaying strategy is one that most countries in the eurozone are willing to adopt.
+And, despite the huge risks inherent in the possibility of eventual disintegration, this delaying strategy remains one that most of the eurozone is willing to pursue.
+0_Despite 1_the 2_huge 3_risks 4_associated 5_with 6_the 7_possibility 8_of 9_an 10_eventual 11_disintegration 12_, 13_this 14_delaying 15_strategy 16_is 17_one 18_that 19_most 20_countries 21_in 22_the 23_eurozone 24_are 25_willing 26_to 27_adopt 28_.
+0_And 1_, 2_despite 3_the 4_huge 5_risks 6_inherent 7_in 8_the 9_possibility 10_of 11_eventual 12_disintegration 13_, 14_this 15_delaying 16_strategy 17_remains 18_one 19_that 20_most 21_of 22_the 23_eurozone 24_is 25_willing 26_to 27_pursue 28_.
+20
+none
+20
+17
+20
+17
+
+188
+以当前水平，仅仅在各国之间重新分配全球增长是不够的。
+毕竟，以当前水平，仅仅在各国之间重新分配全球增长是不够的。
+At current levels, it is not enough to redistribute global growth across countries.
+After all, at current levels, simply redistributing global growth across countries is not enough.
+0_At 1_current 2_levels 3_, 4_it 5_is 6_not 7_enough 8_to 9_redistribute 10_global 11_growth 12_across 13_countries 14_.
+0_After 1_all 2_, 3_at 4_current 5_levels 6_, 7_simply 8_redistributing 9_global 10_growth 11_across 12_countries 13_is 14_not 15_enough 16_.
+9
+none
+none
+7
+none
+7
+
+235
+国大党本身是连任两届的现任政府，其党员丑闻缠身，给人们的印象是无用、无能、腐败。
+如今，国大党本身是连任两届的现任政府，其党员丑闻缠身，给人们的印象是无用、无能、腐败。
+The Congress Party itself is the incumbent government for two consecutive terms, and its members have been riddled with scandals, giving people the impression of being useless, incompetent, and corrupt.
+Today, the Congress itself is a two-term incumbent government with scandal-ridden members and an impression of uselessness, incompetence, and corruption.
+0_The 1_Congress 2_Party 3_itself 4_is 5_the 6_incumbent 7_government 8_for 9_two 10_consecutive 11_terms 12_, 13_and 14_its 15_members 16_have 17_been 18_riddled 19_with 20_scandals 21_, 22_giving 23_people 24_the 25_impression 26_of 27_being 28_useless 29_, 30_incompetent 31_, 32_and 33_corrupt 34_.
+0_Today 1_, 2_the 3_Congress 4_itself 5_is 6_a 7_two 8_- 9_term 10_incumbent 11_government 12_with 13_scandal 14_- 15_ridden 16_members 17_and 18_an 19_impression 20_of 21_uselessness 22_, 23_incompetence 24_, 25_and 26_corruption 27_.
+2	10	18	30
+none
+10	22	23
+none
+10	22	23
+none
+
+250
+土耳其当局挫败了另一起袭击，这起袭击本来是计划与袭击同一天发生的。
+土耳其当局挫败了另一起袭击，这起袭击本来是计划与巴黎袭击同一天发生的。
+Turkish authorities foiled another attack, which had been planned to take place on the same day as the attack.
+Turkish authorities foiled another attack, which had been planned for the same day as the Paris attacks.
+0_Turkish 1_authorities 2_foiled 3_another 4_attack 5_, 6_which 7_had 8_been 9_planned 10_to 11_take 12_place 13_on 14_the 15_same 16_day 17_as 18_the 19_attack 20_.
+0_Turkish 1_authorities 2_foiled 3_another 4_attack 5_, 6_which 7_had 8_been 9_planned 10_for 11_the 12_same 13_day 14_as 15_the 16_Paris 17_attacks 18_.
+12
+none
+12
+none
+11	12
+none
+
+310
+这两大领域疲软已久，是周期动态中的主要拖累因素，在传统上，周期动态总会将美国带出经济减速。
+这两大领域疲软已久，是周期动态中的主要拖累因素，在传统上，周期动态总会将美国带出暂时性的经济减速。
+These two areas have been weak for a long time and are the main drags in the cyclical dynamics that have traditionally always carried the US out of economic slowdowns.
+These two areas have been weak for a long time and are major drags in the cyclical dynamics that have traditionally brought the US out of temporary economic slowdowns.
+0_These 1_two 2_areas 3_have 4_been 5_weak 6_for 7_a 8_long 9_time 10_and 11_are 12_the 13_main 14_drags 15_in 16_the 17_cyclical 18_dynamics 19_that 20_have 21_traditionally 22_always 23_carried 24_the 25_US 26_out 27_of 28_economic 29_slowdowns 30_.
+0_These 1_two 2_areas 3_have 4_been 5_weak 6_for 7_a 8_long 9_time 10_and 11_are 12_major 13_drags 14_in 15_the 16_cyclical 17_dynamics 18_that 19_have 20_traditionally 21_brought 22_the 23_US 24_out 25_of 26_temporary 27_economic 28_slowdowns 29_.
+13
+none
+22
+none
+22
+none
+
+320
+该合同将以标准普尔及蔡斯席勒住房价格指数进行结算，该指数源于我近20年前开发研究得出的学术成果。
+该合同将以标准普尔及蔡斯席勒住房价格指数进行结算，该指数源于我和同事蔡斯近20年前开发研究得出的学术成果。
+The contract will be settled against the Standard & Poor's and Chase-Shiller Home Price Index, which is derived from the academic results of research I developed nearly 20 years ago.
+The contract will be settled against the Standard & Poor's and the Chase-Shiller Home Price Index, derived from academic work developed by my colleague Chase nearly 20 years ago.
+0_The 1_contract 2_will 3_be 4_settled 5_against 6_the 7_Standard 8_& 9_Poor 10_'s 11_and 12_Chase 13_- 14_Shiller 15_Home 16_Price 17_Index 18_, 19_which 20_is 21_derived 22_from 23_the 24_academic 25_results 26_of 27_research 28_I 29_developed 30_nearly 31_20 32_years 33_ago 34_.
+0_The 1_contract 2_will 3_be 4_settled 5_against 6_the 7_Standard 8_& 9_Poor 10_'s 11_and 12_the 13_Chase 14_- 15_Shiller 16_Home 17_Price 18_Index 19_, 20_derived 21_from 22_academic 23_work 24_developed 25_by 26_my 27_colleague 28_Chase 29_nearly 30_20 31_years 32_ago 33_.
+25	27
+none
+27
+none
+25	27	28
+none
+
+331
+荷、比、卢经济联盟三国反对由大国派人担任新的欧盟理事会主席。
+荷、比、卢经济联盟三国和其它几个欧盟小国反对由大国派人担任新的欧盟理事会主席。
+The three countries of the Economic Union of the Netherlands, Belgium, and Luxembourg oppose the appointment of someone from a major country as the new President of the EU Council.
+The Netherlands, Belgium, Luxembourg, and several other small EU countries oppose the appointment of someone from a major country as the new President of the EU Council.
+0_The 1_three 2_countries 3_of 4_the 5_Economic 6_Union 7_of 8_the 9_Netherlands 10_, 11_Belgium 12_, 13_and 14_Luxembourg 15_oppose 16_the 17_appointment 18_of 19_someone 20_from 21_a 22_major 23_country 24_as 25_the 26_new 27_President 28_of 29_the 30_EU 31_Council 32_.
+0_The 1_Netherlands 2_, 3_Belgium 4_, 5_Luxembourg 6_, 7_and 8_several 9_other 10_small 11_EU 12_countries 13_oppose 14_the 15_appointment 16_of 17_someone 18_from 19_a 20_major 21_country 22_as 23_the 24_new 25_President 26_of 27_the 28_EU 29_Council 30_.
+5	6
+none
+5	6
+none
+1	2
+none
+
+395
+新一代药理学向实现这一目标迈出了一步。
+新一代药理学向实现这一目标迈出了充满希望的一步。
+A new generation of pharmacology is a step toward achieving this goal.
+A new generation of pharmacology is a promising step toward this goal.
+0_A 1_new 2_generation 3_of 4_pharmacology 5_is 6_a 7_step 8_toward 9_achieving 10_this 11_goal 12_.
+0_A 1_new 2_generation 3_of 4_pharmacology 5_is 6_a 7_promising 8_step 9_toward 10_this 11_goal 12_.
+9
+none
+9
+none
+9
+none
+
+402
+我拜访一位朋友，本来只打算待两星期，结果却因为太喜欢那里而待了五年之久。
+我到马里兰州拜访一位朋友，本来只打算待两星期，结果却因为太喜欢那里而待了五年之久。
+I was visiting a friend who was supposed to stay only two weeks but ended up staying five years because I liked it so much.
+I visited a friend in Maryland for two weeks, but ended up staying five years because I liked it so much.
+0_I 1_was 2_visiting 3_a 4_friend 5_who 6_was 7_supposed 8_to 9_stay 10_only 11_two 12_weeks 13_but 14_ended 15_up 16_staying 17_five 18_years 19_because 20_I 21_liked 22_it 23_so 24_much 25_.
+0_I 1_visited 2_a 3_friend 4_in 5_Maryland 6_for 7_two 8_weeks 9_, 10_but 11_ended 12_up 13_staying 14_five 15_years 16_because 17_I 18_liked 19_it 20_so 21_much 22_.
+7
+none
+7	10
+none
+7	9	10
+none
+
+416
+老人政治的代价是将所谓老年人拥有的平等建立在牺牲年轻人的前提上，即所谓权力自享，债留子孙。
+实际上，老人政治的代价是将所谓老年人拥有的平等建立在牺牲年轻人的前提上，即所谓权力自享，债留子孙。
+The price of elder politics is to base the so-called equality enjoyed by the elderly on the premise of sacrificing the young, which is the so-called self-entitlement and debts to keep children and grandchildren.
+In fact, the price of elder politics is to base the so-called equality enjoyed by the elderly on the premise of sacrificing the young, that is, the so-called enjoyment of power for oneself and debts to keep children and grandchildren.
+0_The 1_price 2_of 3_elder 4_politics 5_is 6_to 7_base 8_the 9_so 10_- 11_called 12_equality 13_enjoyed 14_by 15_the 16_elderly 17_on 18_the 19_premise 20_of 21_sacrificing 22_the 23_young 24_, 25_which 26_is 27_the 28_so 29_- 30_called 31_self 32_- 33_entitlement 34_and 35_debts 36_to 37_keep 38_children 39_and 40_grandchildren 41_.
+0_In 1_fact 2_, 3_the 4_price 5_of 6_elder 7_politics 8_is 9_to 10_base 11_the 12_so 13_- 14_called 15_equality 16_enjoyed 17_by 18_the 19_elderly 20_on 21_the 22_premise 23_of 24_sacrificing 25_the 26_young 27_, 28_that 29_is 30_, 31_the 32_so 33_- 34_called 35_enjoyment 36_of 37_power 38_for 39_oneself 40_and 41_debts 42_to 43_keep 44_children 45_and 46_grandchildren 47_.
+33
+none
+31	33
+35	37
+31	33
+35	37	39
+
+443
+在政权的通知下，过去孟加拉国一直是在印度为非作歹的恐怖和军事组织的避风港。
+在不太友好的政权的通知下，过去孟加拉国一直是在印度为非作歹的恐怖和军事组织的避风港。
+At the regime's notice, Bangladesh has been a haven in the past for terrorist and military groups working in India.
+Bangladesh has in the past been a safe haven for terrorist and military groups working in India at the behest of less friendly regimes.
+0_At 1_the 2_regime 3_'s 4_notice 5_, 6_Bangladesh 7_has 8_been 9_a 10_haven 11_in 12_the 13_past 14_for 15_terrorist 16_and 17_military 18_groups 19_working 20_in 21_India 22_.
+0_Bangladesh 1_has 2_in 3_the 4_past 5_been 6_a 7_safe 8_haven 9_for 10_terrorist 11_and 12_military 13_groups 14_working 15_in 16_India 17_at 18_the 19_behest 20_of 21_less 22_friendly 23_regimes 24_.
+4
+none
+3	4
+3	18	19
+3	4
+18	19
+
+452
+因为鱼类的数量在不断地减少，加上全球对于海产品越来越大的需求，水产业迫切需要大量的鱼饲料。
+因为野生鱼类的数量在不断地减少，加上全球对于海产品越来越大的需求，水产业迫切需要大量的鱼饲料。
+Because the number of fish is constantly decreasing, coupled with the increasing global demand for seafood, the aquaculture industry urgently needs a large amount of fish feed.
+Due to the declining number of wild fish and the increasing global demand for seafood, the aquaculture industry is in urgent need of large quantities of fish feed.
+0_Because 1_the 2_number 3_of 4_fish 5_is 6_constantly 7_decreasing 8_, 9_coupled 10_with 11_the 12_increasing 13_global 14_demand 15_for 16_seafood 17_, 18_the 19_aquaculture 20_industry 21_urgently 22_needs 23_a 24_large 25_amount 26_of 27_fish 28_feed 29_.
+0_Due 1_to 2_the 3_declining 4_number 5_of 6_wild 7_fish 8_and 9_the 10_increasing 11_global 12_demand 13_for 14_seafood 15_, 16_the 17_aquaculture 18_industry 19_is 20_in 21_urgent 22_need 23_of 24_large 25_quantities 26_of 27_fish 28_feed 29_.
+6	7	9	21
+none
+6
+none
+6
+none
+
+462
+尽管25年来在结构生物学上投入巨大，但我们仍无法从理解分子进步到理解整个系统。
+可是，尽管25年来在结构生物学上投入巨大，但我们仍无法从理解分子进步到理解整个系统。
+Despite enormous investments in structural biology over the past 25 years, we have not progressed from understanding molecules to understanding whole systems.
+However, despite 25 years of enormous investment in structural biology, we have not progressed from understanding molecules to understanding whole systems.
+0_Despite 1_enormous 2_investments 3_in 4_structural 5_biology 6_over 7_the 8_past 9_25 10_years 11_, 12_we 13_have 14_not 15_progressed 16_from 17_understanding 18_molecules 19_to 20_understanding 21_whole 22_systems 23_.
+0_However 1_, 2_despite 3_25 4_years 5_of 6_enormous 7_investment 8_in 9_structural 10_biology 11_, 12_we 13_have 14_not 15_progressed 16_from 17_understanding 18_molecules 19_to 20_understanding 21_whole 22_systems 23_.
+8
+none
+8
+none
+8
+none
+
+474
+现代恐怖主义无法消除，或者，消除的成本过于昂贵，令人无法接受。
+其中一个派别认为，现代恐怖主义无法消除，或者，消除的成本过于昂贵，令人无法接受。
+Modern terrorism cannot be eradicated, or the eradication cost is unacceptably high.
+One faction believes that modern terrorism cannot be eradicated, or that eradication will be unacceptably expensive.
+0_Modern 1_terrorism 2_can 3_not 4_be 5_eradicated 6_, 7_or 8_the 9_eradication 10_cost 11_is 12_unacceptably 13_high 14_.
+0_One 1_faction 2_believes 3_that 4_modern 5_terrorism 6_can 7_not 8_be 9_eradicated 10_, 11_or 12_that 13_eradication 14_will 15_be 16_unacceptably 17_expensive 18_.
+13
+none
+10
+none
+10
+none
+
+475
+选举中落败的一方立即接受了失败，叙利亚显然真想与黎巴嫩建立新的友好关系。
+值得一提的还有选举中落败的一方立即接受了失败，叙利亚显然真想与黎巴嫩建立新的友好关系。
+The party that lost the election accepted defeat immediately, and Syria clearly wanted a new rapprochement with Lebanon.
+It is also worth mentioning that the party that lost the elections immediately accepted defeat, and Syria clearly really wanted to establish a new friendly relationship with Lebanon.
+0_The 1_party 2_that 3_lost 4_the 5_election 6_accepted 7_defeat 8_immediately 9_, 10_and 11_Syria 12_clearly 13_wanted 14_a 15_new 16_rapprochement 17_with 18_Lebanon 19_.
+0_It 1_is 2_also 3_worth 4_mentioning 5_that 6_the 7_party 8_that 9_lost 10_the 11_elections 12_immediately 13_accepted 14_defeat 15_, 16_and 17_Syria 18_clearly 19_really 20_wanted 21_to 22_establish 23_a 24_new 25_friendly 26_relationship 27_with 28_Lebanon 29_.
+16
+none
+none
+22
+none
+22
+
+499
+但人们仍然毫不吝惜地把成百上千亿美元用于在该地区进行轰炸，却对于日益恶化的水资源危机熟视无睹。
+但人们仍然毫不吝惜地把成百上千亿美元用于在该地区进行轰炸和破坏，却对于日益恶化的水资源危机熟视无睹。
+But people are still spending tens of billions of dollars on bombing the region while turning a blind eye to the worsening water crisis.
+Yet billions of dollars are still being spent bombing and destroying the region without hesitation, while turning a blind eye to the worsening water crisis.
+0_But 1_people 2_are 3_still 4_spending 5_tens 6_of 7_billions 8_of 9_dollars 10_on 11_bombing 12_the 13_region 14_while 15_turning 16_a 17_blind 18_eye 19_to 20_the 21_worsening 22_water 23_crisis 24_.
+0_Yet 1_billions 2_of 3_dollars 4_are 5_still 6_being 7_spent 8_bombing 9_and 10_destroying 11_the 12_region 13_without 14_hesitation 15_, 16_while 17_turning 18_a 19_blind 20_eye 21_to 22_the 23_worsening 24_water 25_crisis 26_.
+4
+none
+none
+13
+none
+13	14
+
+508
+从市场动荡看，现在的问题是下一场危机是不是已经开始了。
+从最近的市场动荡看，现在的问题是下一场危机是不是已经开始了。
+From the perspective of market turmoil, the question now is whether the next crisis has already begun.
+Judging from the recent market turmoil, the question now is whether the next crisis has already begun.
+0_From 1_the 2_perspective 3_of 4_market 5_turmoil 6_, 7_the 8_question 9_now 10_is 11_whether 12_the 13_next 14_crisis 15_has 16_already 17_begun 18_.
+0_Judging 1_from 2_the 3_recent 4_market 5_turmoil 6_, 7_the 8_question 9_now 10_is 11_whether 12_the 13_next 14_crisis 15_has 16_already 17_begun 18_.
+2
+none
+1	2
+0
+1	2	3
+0
+
+511
+亲现任效应在西班牙出现，而在意大利明显，兰奇的新改革政府让意大利人会掀起又一场大示威选举的预期落了空。
+亲现任效应在西班牙出现，而在意大利尤其明显，兰奇的新改革政府让意大利人会掀起又一场大示威选举的预期落了空。
+The pro-incumbent effect appeared in Spain, and it was evident in Italy, where Lanci's new reform government made it impossible for Italians to set off another big demonstration election.
+The pro-incumbent effect is evident in Spain, but especially in Italy, where Ranchi's new reform government has deflated Italians' expectations of yet another election rally.
+0_The 1_pro-incumbent 2_effect 3_appeared 4_in 5_Spain 6_, 7_and 8_it 9_was 10_evident 11_in 12_Italy 13_, 14_where 15_Lanci 16_'s 17_new 18_reform 19_government 20_made 21_it 22_impossible 23_for 24_Italians 25_to 26_set 27_off 28_another 29_big 30_demonstration 31_election 32_.
+0_The 1_pro-incumbent 2_effect 3_is 4_evident 5_in 6_Spain 7_, 8_but 9_especially 10_in 11_Italy 12_, 13_where 14_Ranchi 15_'s 16_new 17_reform 18_government 19_has 20_deflated 21_Italians 22_' 23_expectations 24_of 25_yet 26_another 27_election 28_rally 29_.
+3	15	29
+none
+7	20	21	22	29	30
+8	20	23
+7	15	20	21	22	26	29
+8	14	20	25
+
+547
+那些选民直接就认为本次选举根本没有任何议题可言。
+那些对政治有幻灭感的选民直接就认为本次选举根本没有任何议题可言。
+Those voters simply believe that there is no issue at all in this election.
+Voters who are disillusioned with politics simply believe that there is nothing to discuss in this election.
+0_Those 1_voters 2_simply 3_believe 4_that 5_there 6_is 7_no 8_issue 9_at 10_all 11_in 12_this 13_election 14_.
+0_Voters 1_who 2_are 3_disillusioned 4_with 5_politics 6_simply 7_believe 8_that 9_there 10_is 11_nothing 12_to 13_discuss 14_in 15_this 16_election 17_.
+8
+none
+8	9
+12	13
+7	8	9	10
+11	12	13
+
+578
+他试图回避这股浪潮，向法国非洲殖民地的领袖们提议通过谈判的方式实现他们的独立之梦。
+身为法国总统的他试图回避这股浪潮，向法国非洲殖民地的领袖们提议通过谈判的方式实现他们的独立之梦。
+He tried to skirt the tide, proposing to the leaders of French African colonies that they negotiate their dream of independence.
+As French president, he tried to ride the tide, proposing to the leaders of France's African colonies a negotiated way to realize their dream of independence.
+0_He 1_tried 2_to 3_skirt 4_the 5_tide 6_, 7_proposing 8_to 9_the 10_leaders 11_of 12_French 13_African 14_colonies 15_that 16_they 17_negotiate 18_their 19_dream 20_of 21_independence 22_.
+0_As 1_French 2_president 3_, 4_he 5_tried 6_to 7_ride 8_the 9_tide 10_, 11_proposing 12_to 13_the 14_leaders 15_of 16_France 17_'s 18_African 19_colonies 20_a 21_negotiated 22_way 23_to 24_realize 25_their 26_dream 27_of 28_independence 29_.
+3
+none
+none
+22
+none
+22	24
+
+589
+虽然基金无法实际运行，但欧盟成员国已经上报了多个项目提请欧洲委员会审议。
+虽然基金到2015年年中之前都无法实际运行，但欧盟成员国已经上报了多个项目提请欧洲委员会审议。
+Although the fund cannot actually operate, EU member states have submitted multiple projects to the European Commission for consideration.
+Although the fund will not be operational until mid-2015, EU member states have submitted several projects to the European Commission for consideration.
+0_Although 1_the 2_fund 3_can 4_not 5_actually 6_operate 7_, 8_EU 9_member 10_states 11_have 12_submitted 13_multiple 14_projects 15_to 16_the 17_European 18_Commission 19_for 20_consideration 21_.
+0_Although 1_the 2_fund 3_will 4_not 5_be 6_operational 7_until 8_mid-2015 9_, 10_EU 11_member 12_states 13_have 14_submitted 15_several 16_projects 17_to 18_the 19_European 20_Commission 21_for 22_consideration 23_.
+13
+none
+5
+none
+5
+none
+
+590
+至于风险价值模型，我们现在有过硬的证据表明它们非常有用，但在相关问题上却毫无价值。
+至于风险价值模型，我们现在有过硬的证据表明它们在无关问题上非常有用，但在相关问题上却毫无价值。
+As for value-at-risk models, we now have strong evidence that they are useful, but worthless on related issues.
+As for value-at-risk models, we now have strong evidence that they are useful on unrelated problems but worthless on related ones.
+0_As 1_for 2_value 3_- 4_at 5_- 6_risk 7_models 8_, 9_we 10_now 11_have 12_strong 13_evidence 14_that 15_they 16_are 17_useful 18_, 19_but 20_worthless 21_on 22_related 23_issues 24_.
+0_As 1_for 2_value 3_- 4_at 5_- 6_risk 7_models 8_, 9_we 10_now 11_have 12_strong 13_evidence 14_that 15_they 16_are 17_useful 18_on 19_unrelated 20_problems 21_but 22_worthless 23_on 24_related 25_ones 26_.
+23
+none
+23
+none
+23
+25
+

@@ -1,0 +1,602 @@
+23
+但接下来的两年中，飓风造成的损失远低于平均情况，几乎在2006年彻底消失。
+但接下来的两年中，飓风造成的损失均低于平均情况，几乎在2006年彻底消失。
+But in the next two years, the damage from hurricanes was far below average, and it almost disappeared completely in 2006.
+But the next two years saw below-average damage from hurricanes, nearly disappearing in 2006.
+0_But 1_in 2_the 3_next 4_two 5_years 6_, 7_the 8_damage 9_from 10_hurricanes 11_was 12_far 13_below 14_average 15_, 16_and 17_it 18_almost 19_disappeared 20_completely 21_in 22_2006 23_.
+0_But 1_the 2_next 3_two 4_years 5_saw 6_below 7_- 8_average 9_damage 10_from 11_hurricanes 12_, 13_nearly 14_disappearing 15_in 16_2006 17_.
+1	11	12	13	14	16	17	18	19	20
+5	6	7	8	13	14
+20
+5
+12
+none
+
+48
+英国可以凭借自身力量而非作为欧盟的一部分确保进入世界市场的优先地位，这一信念也对英国脱欧投票起到了推动作用。
+英国可以凭借自身力量而非作为欧盟的一部分确保进入世界市场的优先地位，这一信念也为英国脱欧投票起到了推动作用。
+The belief that Britain can secure priority access to world markets on its own, rather than as part of the European Union, also played a role in the Brexit vote.
+The belief that Britain can secure priority access to world markets on its own, rather than as part of the European Union, also fueled the Brexit vote.
+0_The 1_belief 2_that 3_Britain 4_can 5_secure 6_priority 7_access 8_to 9_world 10_markets 11_on 12_its 13_own 14_, 15_rather 16_than 17_as 18_part 19_of 20_the 21_European 22_Union 23_, 24_also 25_played 26_a 27_role 28_in 29_the 30_Brexit 31_vote 32_.
+0_The 1_belief 2_that 3_Britain 4_can 5_secure 6_priority 7_access 8_to 9_world 10_markets 11_on 12_its 13_own 14_, 15_rather 16_than 17_as 18_part 19_of 20_the 21_European 22_Union 23_, 24_also 25_fueled 26_the 27_Brexit 28_vote 29_.
+25	26	27	28
+25
+25	27
+none
+25	26	27	28
+25
+
+67
+因此对于一次因逊尼派大规模弃权而导致的什叶派占多数票的选举结果，控制权究竟归属哪一方仍然是悬而未决的。
+因此对于一次因逊尼派大规模弃权而导致的什叶派占多数票的选举结果，控制权究竟归属哪一方依然是悬而未决的。
+So it's still up in the air which side will control the outcome of an election with a Shia majority that resulted from massive Sunni abstentions.
+So it remains to be seen who will control the outcome of an election with a Shia majority that resulted from mass Sunni abstentions.
+0_So 1_it 2_'s 3_still 4_up 5_in 6_the 7_air 8_which 9_side 10_will 11_control 12_the 13_outcome 14_of 15_an 16_election 17_with 18_a 19_Shia 20_majority 21_that 22_resulted 23_from 24_massive 25_Sunni 26_abstentions 27_.
+0_So 1_it 2_remains 3_to 4_be 5_seen 6_who 7_will 8_control 9_the 10_outcome 11_of 12_an 13_election 14_with 15_a 16_Shia 17_majority 18_that 19_resulted 20_from 21_mass 22_Sunni 23_abstentions 24_.
+2	3	4	5	6	7	8	9
+2	3	4	5	6	21
+4	6	7	9
+5
+4	5	6	7	9
+3	4	5
+
+127
+几千年来食盐一直是一种战略物资，很多国家为争夺盐矿而交战，因为盐是保存肉类的唯一方法。
+几千年来食盐一直是一种战略物资，很多国家为争夺盐矿而交战，因为盐是储存肉类的唯一方法。
+Table salt has been a strategic commodity for thousands of years, with countries fighting over the mines because salt is the only way to preserve meat.
+Table salt has been a strategic commodity for thousands of years, with countries fighting over salt mines, the only way to store meat.
+0_Table 1_salt 2_has 3_been 4_a 5_strategic 6_commodity 7_for 8_thousands 9_of 10_years 11_, 12_with 13_countries 14_fighting 15_over 16_the 17_mines 18_because 19_salt 20_is 21_the 22_only 23_way 24_to 25_preserve 26_meat 27_.
+0_Table 1_salt 2_has 3_been 4_a 5_strategic 6_commodity 7_for 8_thousands 9_of 10_years 11_, 12_with 13_countries 14_fighting 15_over 16_salt 17_mines 18_, 19_the 20_only 21_way 22_to 23_store 24_meat 25_.
+16	25
+18	23
+18
+none
+18
+none
+
+131
+但在这种情况下，你会被一大堆看似合理的解释淹没，陷入选择困难，最终消磨掉了所有决心。
+但在这种情况下，你会被一大堆看似合理的解释淹没，陷入选择困难，最终折磨掉了所有决心。
+But in this case, you will be overwhelmed by a sea of plausible explanations, get stuck in the dilemma of choosing, and eventually wear away all resolve.
+But in this case, you'll be overwhelmed by a sea of plausible explanations, stuck in a dilemma, and ultimately tortured all resolve.
+0_But 1_in 2_this 3_case 4_, 5_you 6_will 7_be 8_overwhelmed 9_by 10_a 11_sea 12_of 13_plausible 14_explanations 15_, 16_get 17_stuck 18_in 19_the 20_dilemma 21_of 22_choosing 23_, 24_and 25_eventually 26_wear 27_away 28_all 29_resolve 30_.
+0_But 1_in 2_this 3_case 4_, 5_you 6_'ll 7_be 8_overwhelmed 9_by 10_a 11_sea 12_of 13_plausible 14_explanations 15_, 16_stuck 17_in 18_a 19_dilemma 20_, 21_and 22_ultimately 23_tortured 24_all 25_resolve 26_.
+6	16	19	21	22
+6	18	22	23
+22
+none
+22
+none
+
+141
+与此同时，持续不作为将恶化疏离，形成不信任和瘫痪的恶性循环，只有打破这一循环，才有采取有效行动的可能。
+与此同时，持续不作为将恶化疏离，形成不信任和瘫痪的恶性循环，只有突破这一循环，才有采取有效行动的可能。
+At the same time, continued inaction will exacerbate alienation, creating a vicious cycle of mistrust and paralysis that must be broken to allow effective action.
+At the same time, continued inaction will exacerbate alienation, creating a vicious cycle of distrust and paralysis that must be broken before effective action is possible.
+0_At 1_the 2_same 3_time 4_, 5_continued 6_inaction 7_will 8_exacerbate 9_alienation 10_, 11_creating 12_a 13_vicious 14_cycle 15_of 16_mistrust 17_and 18_paralysis 19_that 20_must 21_be 22_broken 23_to 24_allow 25_effective 26_action 27_.
+0_At 1_the 2_same 3_time 4_, 5_continued 6_inaction 7_will 8_exacerbate 9_alienation 10_, 11_creating 12_a 13_vicious 14_cycle 15_of 16_distrust 17_and 18_paralysis 19_that 20_must 21_be 22_broken 23_before 24_effective 25_action 26_is 27_possible 28_.
+23	24
+16	23
+none
+27
+none
+27
+
+147
+除了这些国家以及其他国家所作的选择外，美国自身的选择对于决定美国面对何种未来也非常重要。
+除了这些国家以及其他国家所作的选择外，美国自身的选择对于决定美国面对何种未来都非常重要。
+In addition to the choices made by these countries and others, the choices made by the United States itself are also very important in determining the future that the United States faces.
+In addition to the choices made by these countries and other countries, the choices made by the United States itself are very important in determining what kind of future the United States faces.
+0_In 1_addition 2_to 3_the 4_choices 5_made 6_by 7_these 8_countries 9_and 10_others 11_, 12_the 13_choices 14_made 15_by 16_the 17_United 18_States 19_itself 20_are 21_also 22_very 23_important 24_in 25_determining 26_the 27_future 28_that 29_the 30_United 31_States 32_faces 33_.
+0_In 1_addition 2_to 3_the 4_choices 5_made 6_by 7_these 8_countries 9_and 10_other 11_countries 12_, 13_the 14_choices 15_made 16_by 17_the 18_United 19_States 20_itself 21_are 22_very 23_important 24_in 25_determining 26_what 27_kind 28_of 29_future 30_the 31_United 32_States 33_faces 34_.
+21	26	28
+26	27	28
+none
+27
+21
+26	27	28
+
+165
+而这也是当今欧洲所缺乏的，因为政治领导人都无法为自己的人民描绘一个鼓舞人心和前瞻性的远景。
+但这也是当今欧洲所缺乏的，因为政治领导人都无法为自己的人民描绘一个鼓舞人心和前瞻性的远景。
+And that is what is lacking in Europe today, as political leaders fail to paint an inspiring and forward-looking vision for their own people.
+But this is also what is lacking in Europe today, as political leaders are unable to paint an inspiring and forward-looking vision for their own people.
+0_And 1_that 2_is 3_what 4_is 5_lacking 6_in 7_Europe 8_today 9_, 10_as 11_political 12_leaders 13_fail 14_to 15_paint 16_an 17_inspiring 18_and 19_forward 20_- 21_looking 22_vision 23_for 24_their 25_own 26_people 27_.
+0_But 1_this 2_is 3_also 4_what 5_is 6_lacking 7_in 8_Europe 9_today 10_, 11_as 12_political 13_leaders 14_are 15_unable 16_to 17_paint 18_an 19_inspiring 20_and 21_forward 22_- 23_looking 24_vision 25_for 26_their 27_own 28_people 29_.
+0	1	13
+3	14	15
+none
+3
+none
+3
+
+168
+结果是，尽管他们都承担了严格的责任，但相对其报酬来讲，破产案产业管理人工作的风险是很高的。
+结果是，尽管它们都承担了严格的责任，但相对其报酬来讲，破产案产业管理人工作的风险是很高的。
+As a result, bankruptcy estate administrators work at high risk relative to their compensation, although they all assume strict liability.
+As a result, although they all impose strict liability, the risks associated with the work of bankruptcy estate administrators are high relative to their compensation.
+0_As 1_a 2_result 3_, 4_bankruptcy 5_estate 6_administrators 7_work 8_at 9_high 10_risk 11_relative 12_to 13_their 14_compensation 15_, 16_although 17_they 18_all 19_assume 20_strict 21_liability 22_.
+0_As 1_a 2_result 3_, 4_although 5_they 6_all 7_impose 8_strict 9_liability 10_, 11_the 12_risks 13_associated 14_with 15_the 16_work 17_of 18_bankruptcy 19_estate 20_administrators 21_are 22_high 23_relative 24_to 25_their 26_compensation 27_.
+7	8	10	15	16	17	18	19	20	21
+4	5	6	7	8	9	10	11	12	13	14	15	16	17
+none
+7	12	13
+19
+7
+
+175
+由于房地产是消费行为的关键驱动力，只要房价今后出现进一步大幅下跌的局面就必将削弱消费者的信心，使消费降低。
+由于房地产是消费行为的关键驱动力，只要房价日后出现进一步大幅下跌的局面就必将削弱消费者的信心，使消费降低。
+Since real estate is the key driving force of consumer behavior, as long as housing prices fall further in the future, it will certainly weaken consumer confidence and reduce consumption.
+Since real estate is a key driver of consumer behavior, any further sharp decline in housing prices in the future will certainly weaken consumer confidence and reduce consumption.
+0_Since 1_real 2_estate 3_is 4_the 5_key 6_driving 7_force 8_of 9_consumer 10_behavior 11_, 12_as 13_long 14_as 15_housing 16_prices 17_fall 18_further 19_in 20_the 21_future 22_, 23_it 24_will 25_certainly 26_weaken 27_consumer 28_confidence 29_and 30_reduce 31_consumption 32_.
+0_Since 1_real 2_estate 3_is 4_a 5_key 6_driver 7_of 8_consumer 9_behavior 10_, 11_any 12_further 13_sharp 14_decline 15_in 16_housing 17_prices 18_in 19_the 20_future 21_will 22_certainly 23_weaken 24_consumer 25_confidence 26_and 27_reduce 28_consumption 29_.
+4	6	7	17	18	22	23
+4	6	11	12	13	14	15
+12	13	14
+11	13
+12	13	14
+11	13
+
+181
+毕竟，以当前水平，仅仅在各国之间重新分配全球增长是不够的。
+毕竟，按当前水平，仅仅在各国之间重新分配全球增长是不够的。
+After all, at current levels, simply redistributing global growth across countries is not enough.
+After all, it is not enough to redistribute global growth across countries at current levels.
+0_After 1_all 2_, 3_at 4_current 5_levels 6_, 7_simply 8_redistributing 9_global 10_growth 11_across 12_countries 13_is 14_not 15_enough 16_.
+0_After 1_all 2_, 3_it 4_is 5_not 6_enough 7_to 8_redistribute 9_global 10_growth 11_across 12_countries 13_at 14_current 15_levels 16_.
+3	4	5	6	7	8
+3	4	5	6	7	8
+7
+none
+7
+none
+
+227
+如今，国大党本身是连任两届的现任政府，其党员丑闻缠身，给人们的印象是无用、无能、腐败。
+如今，国大党本身是连任两届的现任政府，其党员丑闻缠身，给人们的印象是没用、无能、腐败。
+Today, the Congress itself is a two-term incumbent government with scandal-ridden members and an impression of uselessness, incompetence, and corruption.
+Today, the Congress itself is a two-term incumbent government with scandal-ridden members who give the impression of being useless, incompetent, and corrupt.
+0_Today 1_, 2_the 3_Congress 4_itself 5_is 6_a 7_two 8_- 9_term 10_incumbent 11_government 12_with 13_scandal 14_- 15_ridden 16_members 17_and 18_an 19_impression 20_of 21_uselessness 22_, 23_incompetence 24_, 25_and 26_corruption 27_.
+0_Today 1_, 2_the 3_Congress 4_itself 5_is 6_a 7_two 8_- 9_term 10_incumbent 11_government 12_with 13_scandal 14_- 15_ridden 16_members 17_who 18_give 19_the 20_impression 21_of 22_being 23_useless 24_, 25_incompetent 26_, 27_and 28_corrupt 29_.
+21	23	26
+22	23	25	28
+none
+18
+none
+18
+
+239
+在两次与真主党交战打和之后，以色列明确表示，若爆发新冲突，将以全面胜利为目标。
+在数次与真主党交战打和之后，以色列明确表示，若爆发新冲突，将以全面胜利为目标。
+After two draws with Hezbollah, Israel has made it clear that if a new conflict breaks out, it will aim for overall victory.
+After several wars and peace with Hezbollah, Israel has made it clear that if a new conflict breaks out, it will aim for overall victory.
+0_After 1_two 2_draws 3_with 4_Hezbollah 5_, 6_Israel 7_has 8_made 9_it 10_clear 11_that 12_if 13_a 14_new 15_conflict 16_breaks 17_out 18_, 19_it 20_will 21_aim 22_for 23_overall 24_victory 25_.
+0_After 1_several 2_wars 3_and 4_peace 5_with 6_Hezbollah 7_, 8_Israel 9_has 10_made 11_it 12_clear 13_that 14_if 15_a 16_new 17_conflict 18_breaks 19_out 20_, 21_it 22_will 23_aim 24_for 25_overall 26_victory 27_.
+1	2
+1	2	3	4
+none
+4
+2
+2	3	4
+
+242
+土耳其当局挫败了另一起袭击，这起袭击本来是计划与巴黎袭击同一天发生的。
+土耳其当局挫败了另一起袭击，这起袭击原来是计划与巴黎袭击同一天发生的。
+Turkish authorities foiled another attack, which had been planned for the same day as the Paris attacks.
+Turkish authorities foiled another attack that had been planned to take place on the same day as the Paris attack.
+0_Turkish 1_authorities 2_foiled 3_another 4_attack 5_, 6_which 7_had 8_been 9_planned 10_for 11_the 12_same 13_day 14_as 15_the 16_Paris 17_attacks 18_.
+0_Turkish 1_authorities 2_foiled 3_another 4_attack 5_that 6_had 7_been 8_planned 9_to 10_take 11_place 12_on 13_the 14_same 15_day 16_as 17_the 18_Paris 19_attack 20_.
+5	6	10	17
+9	10	11	12	19
+none
+11
+none
+10	11
+
+260
+但是，到目前为止，用公平和适当的方式分担全球安全责任的事情还没有发生过。
+但是，到目前为止，以公平和适当的方式分担全球安全责任的事情还没有发生过。
+But, so far, a fair and appropriate sharing of global security responsibilities has not happened.
+But, so far, sharing global security responsibilities in a fair and appropriate manner has not happened.
+0_But 1_, 2_so 3_far 4_, 5_a 6_fair 7_and 8_appropriate 9_sharing 10_of 11_global 12_security 13_responsibilities 14_has 15_not 16_happened 17_.
+0_But 1_, 2_so 3_far 4_, 5_sharing 6_global 7_security 8_responsibilities 9_in 10_a 11_fair 12_and 13_appropriate 14_manner 15_has 16_not 17_happened 18_.
+9	10	11	12	13
+5	6	7	8	9
+none
+14
+none
+14
+
+275
+与世界两大名人名企合作，致力于地球的进步，这个机会并不是每天都有的。
+与世界两大名人名企合作，致力于地球的进步，这个机会也不是每天都有的。
+The opportunity to work with two of the world's biggest names and companies dedicated to the advancement of the planet doesn't come along every day.
+It is not every day that you have the opportunity to cooperate with the world's two famous celebrities and companies to contribute to the progress of the earth.
+0_The 1_opportunity 2_to 3_work 4_with 5_two 6_of 7_the 8_world 9_'s 10_biggest 11_names 12_and 13_companies 14_dedicated 15_to 16_the 17_advancement 18_of 19_the 20_planet 21_does 22_not 23_come 24_along 25_every 26_day 27_.
+0_It 1_is 2_not 3_every 4_day 5_that 6_you 7_have 8_the 9_opportunity 10_to 11_cooperate 12_with 13_the 14_world 15_'s 16_two 17_famous 18_celebrities 19_and 20_companies 21_to 22_contribute 23_to 24_the 25_progress 26_of 27_the 28_earth 29_.
+3	5	6	10	11	14	17	20	21	22	23	24	25	26
+0	1	2	3	4	5	6	7	8	11	21	22	25	28
+23
+7	18
+23	24
+none
+
+277
+一国要想平稳取消盯住汇率，唯有在人们对其经济充满信心时着手，让人们相信根据弹性的汇率既可以贬值，也可以升值。
+一国要想平稳取消盯住汇率，唯有在人们对其经济充满信心时着手，让人们相信根据弹性的汇率既可以贬值，又可以升值。
+If a country wants to unpeg its exchange rate smoothly, it can only do so when people have full confidence in its economy, so that people believe that according to the flexible exchange rate, it can either depreciate or appreciate.
+If a country wants to unpeg its exchange rate smoothly, it can only do so when people have full confidence in its economy, so that people believe that a flexible exchange rate can both depreciate and appreciate.
+0_If 1_a 2_country 3_wants 4_to 5_unpeg 6_its 7_exchange 8_rate 9_smoothly 10_, 11_it 12_can 13_only 14_do 15_so 16_when 17_people 18_have 19_full 20_confidence 21_in 22_its 23_economy 24_, 25_so 26_that 27_people 28_believe 29_that 30_according 31_to 32_the 33_flexible 34_exchange 35_rate 36_, 37_it 38_can 39_either 40_depreciate 41_or 42_appreciate 43_.
+0_If 1_a 2_country 3_wants 4_to 5_unpeg 6_its 7_exchange 8_rate 9_smoothly 10_, 11_it 12_can 13_only 14_do 15_so 16_when 17_people 18_have 19_full 20_confidence 21_in 22_its 23_economy 24_, 25_so 26_that 27_people 28_believe 29_that 30_a 31_flexible 32_exchange 33_rate 34_can 35_both 36_depreciate 37_and 38_appreciate 39_.
+36	37	39	41
+30	35	37
+30
+none
+30
+none
+
+319
+虽然这场丑闻中的许多指控都是站不住脚的，但却已经成功令军方不敢再肆意挑战总理的权威了。
+虽然这场丑闻中的很多指控都是站不住脚的，但却已经成功令军方不敢再肆意挑战总理的权威了。
+While many of the allegations in the scandal are flimsy, they have succeeded in deterring the military from wantonly challenging the prime minister's authority.
+Although many of the allegations in this scandal are untenable, they have successfully deterred the military from challenging the prime minister's authority.
+0_While 1_many 2_of 3_the 4_allegations 5_in 6_the 7_scandal 8_are 9_flimsy 10_, 11_they 12_have 13_succeeded 14_in 15_deterring 16_the 17_military 18_from 19_wantonly 20_challenging 21_the 22_prime 23_minister 24_'s 25_authority 26_.
+0_Although 1_many 2_of 3_the 4_allegations 5_in 6_this 7_scandal 8_are 9_untenable 10_, 11_they 12_have 13_successfully 14_deterred 15_the 16_military 17_from 18_challenging 19_the 20_prime 21_minister 22_'s 23_authority 24_.
+0	6	9	19
+6	9	13	14
+19
+none
+19
+none
+
+320
+虽然经济起伏令人伤透脑筋，但过去50年为我们带来了前所未有的全球经济增长红利。
+虽然经济起伏让人伤透脑筋，但过去50年为我们带来了前所未有的全球经济增长红利。
+While the ups and downs have been mind-numbing, the past 50 years have brought us unprecedented dividends in global economic growth.
+While the ups and downs of the economy are nerve-wracking, the past 50 years have brought us unprecedented dividends in global economic growth.
+0_While 1_the 2_ups 3_and 4_downs 5_have 6_been 7_mind 8_- 9_numbing 10_, 11_the 12_past 13_50 14_years 15_have 16_brought 17_us 18_unprecedented 19_dividends 20_in 21_global 22_economic 23_growth 24_.
+0_While 1_the 2_ups 3_and 4_downs 5_of 6_the 7_economy 8_are 9_nerve 10_- 11_wracking 12_, 13_the 14_past 15_50 16_years 17_have 18_brought 19_us 20_unprecedented 21_dividends 22_in 23_global 24_economic 25_growth 26_.
+5	6	7	9
+5	6	7	8	9
+none
+7
+none
+7
+
+340
+美国就是由经济规模和政治状况截然不同的50个州组成的联盟，也能够差强人意的运行。
+美国就是由经济规模与政治状况截然不同的50个州组成的联盟，也能够差强人意的运行。
+The United States, even a coalition of 50 states with vastly different economic sizes and political conditions, can also function satisfactorily.
+The United States is a coalition of 50 states with very different economic scales and political conditions, and it can also operate unsatisfactorily.
+0_The 1_United 2_States 3_, 4_even 5_a 6_coalition 7_of 8_50 9_states 10_with 11_vastly 12_different 13_economic 14_sizes 15_and 16_political 17_conditions 18_, 19_can 20_also 21_function 22_satisfactorily 23_.
+0_The 1_United 2_States 3_is 4_a 5_coalition 6_of 7_50 8_states 9_with 10_very 11_different 12_economic 13_scales 14_and 15_political 16_conditions 17_, 18_and 19_it 20_can 21_also 22_operate 23_unsatisfactorily 24_.
+11	14	21	22
+3	10	13	22	23
+4
+3
+4
+3
+
+350
+由于高谈阔论的蛊惑，你要是相信欧盟已经单方面决定朝着解决这个问题的方向迈出重要一步也是情有可原。
+由于高谈阔论的蛊惑，你要是相信欧盟曾经单方面决定朝着解决这个问题的方向迈出重要一步也是情有可原。
+Because of the rhetoric, you'd be forgiven for believing that the EU has unilaterally decided to take a major step towards solving this problem.
+With all the rhetoric so beguiling, you'd be forgiven for believing that the EU has unilaterally decided to take a major step towards solving this problem.
+0_Because 1_of 2_the 3_rhetoric 4_, 5_you 6_'d 7_be 8_forgiven 9_for 10_believing 11_that 12_the 13_EU 14_has 15_unilaterally 16_decided 17_to 18_take 19_a 20_major 21_step 22_towards 23_solving 24_this 25_problem 26_.
+0_With 1_all 2_the 3_rhetoric 4_so 5_beguiling 6_, 7_you 8_'d 9_be 10_forgiven 11_for 12_believing 13_that 14_the 15_EU 16_has 17_unilaterally 18_decided 19_to 20_take 21_a 22_major 23_step 24_towards 25_solving 26_this 27_problem 28_.
+0	1
+4	5
+none
+5
+none
+4	5
+
+374
+此外，他们准备在国家层面，而不是在整个欧元区层面做这件事。
+另外，他们准备在国家层面，而不是在整个欧元区层面做这件事。
+Moreover, they are prepared to do it at the national level, not at the level of the entire eurozone.
+Plus, they're going to do it at the national level, not at the level of the eurozone as a whole.
+0_Moreover 1_, 2_they 3_are 4_prepared 5_to 6_do 7_it 8_at 9_the 10_national 11_level 12_, 13_not 14_at 15_the 16_level 17_of 18_the 19_entire 20_eurozone 21_.
+0_Plus 1_, 2_they 3_'re 4_going 5_to 6_do 7_it 8_at 9_the 10_national 11_level 12_, 13_not 14_at 15_the 16_level 17_of 18_the 19_eurozone 20_as 21_a 22_whole 23_.
+3	4	19
+0	3	4
+none
+3
+4
+4
+
+385
+新一代药理学向实现这一目标迈出了充满希望的一步。
+下一代药理学向实现这一目标迈出了充满希望的一步。
+A new generation of pharmacology is a promising step toward this goal.
+Next-generation pharmacology is a promising step toward achieving this goal.
+0_A 1_new 2_generation 3_of 4_pharmacology 5_is 6_a 7_promising 8_step 9_toward 10_this 11_goal 12_.
+0_Next 1_- 2_generation 3_pharmacology 4_is 5_a 6_promising 7_step 8_toward 9_achieving 10_this 11_goal 12_.
+3
+9
+none
+9
+none
+9
+
+398
+尽管电信行业从这个意义上说有其特殊之处，但政府调控同样也阻碍了这个行业的发展。
+尽管通信行业从这个意义上说有其特殊之处，但政府调控同样也阻碍了这个行业的发展。
+Although the telecommunications industry is special in this sense, government regulation also hinders the development of this industry.
+Although the communication industry has its special features in this sense, government regulation also hinders the development of this industry.
+0_Although 1_the 2_telecommunications 3_industry 4_is 5_special 6_in 7_this 8_sense 9_, 10_government 11_regulation 12_also 13_hinders 14_the 15_development 16_of 17_this 18_industry 19_.
+0_Although 1_the 2_communication 3_industry 4_has 5_its 6_special 7_features 8_in 9_this 10_sense 11_, 12_government 13_regulation 14_also 15_hinders 16_the 17_development 18_of 19_this 20_industry 21_.
+2	4
+2	7
+none
+7
+none
+7
+
+406
+实际上，老人政治的代价是将所谓老年人拥有的平等建立在牺牲年轻人的前提上，即所谓权力自享，债留子孙。
+实际上，老人政治的代价是将所谓老年人享有的平等建立在牺牲年轻人的前提上，即所谓权力自享，债留子孙。
+In fact, the price of elder politics is to base the so-called equality enjoyed by the elderly on the premise of sacrificing the young, that is, the so-called enjoyment of power for oneself and debts to keep children and grandchildren.
+In fact, the price of elder politics is to base the so-called equality enjoyed by the elderly on the premise of sacrificing the young.
+0_In 1_fact 2_, 3_the 4_price 5_of 6_elder 7_politics 8_is 9_to 10_base 11_the 12_so 13_- 14_called 15_equality 16_enjoyed 17_by 18_the 19_elderly 20_on 21_the 22_premise 23_of 24_sacrificing 25_the 26_young 27_, 28_that 29_is 30_, 31_the 32_so 33_- 34_called 35_enjoyment 36_of 37_power 38_for 39_oneself 40_and 41_debts 42_to 43_keep 44_children 45_and 46_grandchildren 47_.
+0_In 1_fact 2_, 3_the 4_price 5_of 6_elder 7_politics 8_is 9_to 10_base 11_the 12_so 13_- 14_called 15_equality 16_enjoyed 17_by 18_the 19_elderly 20_on 21_the 22_premise 23_of 24_sacrificing 25_the 26_young 27_.
+27	28	29	30	31	32	33	34	35	36	37	38	39	40	41	42	43	44	45	46
+none
+35	37	39	41	43	44	46
+none
+28	29	32	34	35	37	39	41	43	44	46
+none
+
+430
+在当选总统努力让美国人民做好准备，迎接未来困难的时候，这些是我们必须面对的主要问题。
+在竞选总统努力让美国人民做好准备，迎接未来困难的时候，这些是我们必须面对的主要问题。
+These are the main questions we must confront as the President-elect works to prepare the American people for the difficulties ahead.
+These are the main questions we must confront as we run for president and try to prepare the American people for the difficulties ahead.
+0_These 1_are 2_the 3_main 4_questions 5_we 6_must 7_confront 8_as 9_the 10_President 11_- 12_elect 13_works 14_to 15_prepare 16_the 17_American 18_people 19_for 20_the 21_difficulties 22_ahead 23_.
+0_These 1_are 2_the 3_main 4_questions 5_we 6_must 7_confront 8_as 9_we 10_run 11_for 12_president 13_and 14_try 15_to 16_prepare 17_the 18_American 19_people 20_for 21_the 22_difficulties 23_ahead 24_.
+9	11	12	13
+9	10	11	13	14
+none
+10
+13
+14
+
+432
+在发达国家造成不平等加剧的同一套机制为全球数十亿人创造了公平竞技场。
+在发达国家造成不平等加剧的同一套机制为全球几十亿人创造了公平竞技场。
+The same mechanisms that drive rising inequality in the developed world level the playing field for billions of people around the world.
+The same set of mechanisms that created rising inequality in the developed world has leveled the playing field for billions of people around the world.
+0_The 1_same 2_mechanisms 3_that 4_drive 5_rising 6_inequality 7_in 8_the 9_developed 10_world 11_level 12_the 13_playing 14_field 15_for 16_billions 17_of 18_people 19_around 20_the 21_world 22_.
+0_The 1_same 2_set 3_of 4_mechanisms 5_that 6_created 7_rising 8_inequality 9_in 10_the 11_developed 12_world 13_has 14_leveled 15_the 16_playing 17_field 18_for 19_billions 20_of 21_people 22_around 23_the 24_world 25_.
+4	11
+6	13	14
+none
+2
+none
+2
+
+438
+因此，所有欧元区国家都应该通过发行由所有成员国共同担保的债券来为财政债务融资。
+因此，所有欧元区国家都应该通过发行由所有成员国共同担保的债券作为财政债务融资。
+All euro area countries should therefore finance their fiscal debt by issuing bonds that are jointly guaranteed by all member states.
+Therefore, all euro area countries should issue bonds guaranteed by all member states as fiscal debt financing.
+0_All 1_euro 2_area 3_countries 4_should 5_therefore 6_finance 7_their 8_fiscal 9_debt 10_by 11_issuing 12_bonds 13_that 14_are 15_jointly 16_guaranteed 17_by 18_all 19_member 20_states 21_.
+0_Therefore 1_, 2_all 3_euro 4_area 5_countries 6_should 7_issue 8_bonds 9_guaranteed 10_by 11_all 12_member 13_states 14_as 15_fiscal 16_debt 17_financing 18_.
+5	6	7	8	9	10	11
+0	1	7	14	15	16	17
+15
+none
+15
+none
+
+444
+因为生存农业而大肆砍伐、蚕食森林，过度放牧，以及失去生物多样性和土壤给整个大洲带来了巨大的威胁。
+因为生存农业而大肆砍伐、蚕食森林，过度放牧，以及失去生物多样性和土壤给整个大洲带来了极大的威胁。
+Deforestation, encroachment on forests, overgrazing, and loss of biodiversity and soils for subsistence agriculture pose enormous threats across the continent.
+Deforestation, encroachment of forests, overgrazing, and loss of biodiversity and soils for subsistence agriculture threaten entire continents.
+0_Deforestation 1_, 2_encroachment 3_on 4_forests 5_, 6_overgrazing 7_, 8_and 9_loss 10_of 11_biodiversity 12_and 13_soils 14_for 15_subsistence 16_agriculture 17_pose 18_enormous 19_threats 20_across 21_the 22_continent 23_.
+0_Deforestation 1_, 2_encroachment 3_of 4_forests 5_, 6_overgrazing 7_, 8_and 9_loss 10_of 11_biodiversity 12_and 13_soils 14_for 15_subsistence 16_agriculture 17_threaten 18_entire 19_continents 20_.
+17	18	19	20	21	22
+3	17	18	19
+17
+none
+17
+none
+
+459
+再往南去，因选举而引发的暴力仍然让肯尼亚伤痕累累，宪政审查程序还有可能导致更多的人员伤亡。
+再往南去，因选举而引发的暴力依然让肯尼亚伤痕累累，宪政审查程序还有可能导致更多的人员伤亡。
+Further south, Kenya is still scarred by election violence and the constitutional review process threatens to lead to more casualties.
+Further south, Kenya remains scarred by election-related violence and the constitutional review process could lead to more casualties.
+0_Further 1_south 2_, 3_Kenya 4_is 5_still 6_scarred 7_by 8_election 9_violence 10_and 11_the 12_constitutional 13_review 14_process 15_threatens 16_to 17_lead 18_to 19_more 20_casualties 21_.
+0_Further 1_south 2_, 3_Kenya 4_remains 5_scarred 6_by 7_election 8_- 9_related 10_violence 11_and 12_the 13_constitutional 14_review 15_process 16_could 17_lead 18_to 19_more 20_casualties 21_.
+15	16
+4	16
+none
+9
+15
+9	16
+
+463
+其中一个派别认为，现代恐怖主义无法消除，或者，消除的成本过于昂贵，令人无法接受。
+其中一个派别认为，当代恐怖主义无法消除，或者，消除的成本过于昂贵，令人无法接受。
+One faction believes that modern terrorism cannot be eradicated, or that eradication will be unacceptably expensive.
+One school of thought argues that contemporary terrorism cannot be eradicated, or that eradication is unacceptably expensive.
+0_One 1_faction 2_believes 3_that 4_modern 5_terrorism 6_can 7_not 8_be 9_eradicated 10_, 11_or 12_that 13_eradication 14_will 15_be 16_unacceptably 17_expensive 18_.
+0_One 1_school 2_of 3_thought 4_argues 5_that 6_contemporary 7_terrorism 8_can 9_not 10_be 11_eradicated 12_, 13_or 14_that 15_eradication 16_is 17_unacceptably 18_expensive 19_.
+1	2	4	14	15
+1	2	3	4	16
+none
+3
+1
+1	2	3
+
+469
+例如，尽管美国人口中有八分之一是黑人，但他们当中的三分之一从事着保洁或其他的蓝领工作。
+例如，尽管英国人口中有八分之一是黑人，但他们当中的三分之一从事着保洁或其他的蓝领工作。
+For example, although one-eighth of the U.S. population is black, one-third of them work as a janitor or in other blue-collar jobs.
+For example, although one in eight people in the UK is black, a third of them work in cleaning or other blue-collar jobs.
+0_For 1_example 2_, 3_although 4_one 5_- 6_eighth 7_of 8_the 9_U.S. 10_population 11_is 12_black 13_, 14_one 15_- 16_third 17_of 18_them 19_work 20_as 21_a 22_janitor 23_or 24_in 25_other 26_blue 27_- 28_collar 29_jobs 30_.
+0_For 1_example 2_, 3_although 4_one 5_in 6_eight 7_people 8_in 9_the 10_UK 11_is 12_black 13_, 14_a 15_third 16_of 17_them 18_work 19_in 20_cleaning 21_or 22_other 23_blue 24_- 25_collar 26_jobs 27_.
+9	10	14	15	20	21	22	24
+5	6	7	8	10	14	19	20
+6	22
+6	20
+10
+7
+
+475
+但是，我们并没有从增加我们生存能力的特征中获得优势，而是从潜在伴侣进化出来的寻找吸引力的品质中获得优势。
+但是，我们并没有从增加我们生存能力的特征中获得优势，而是从内在伴侣进化出来的寻找吸引力的品质中获得优势。
+But we gain an advantage not from traits that increase our ability to survive, but from attractive-looking qualities that potential mates have evolved to find.
+But instead of the traits that increase our survivability, we gain an advantage from the attractiveness-seeking qualities that evolved in our inner mates.
+0_But 1_we 2_gain 3_an 4_advantage 5_not 6_from 7_traits 8_that 9_increase 10_our 11_ability 12_to 13_survive 14_, 15_but 16_from 17_attractive 18_- 19_looking 20_qualities 21_that 22_potential 23_mates 24_have 25_evolved 26_to 27_find 28_.
+0_But 1_instead 2_of 3_the 4_traits 5_that 6_increase 7_our 8_survivability 9_, 10_we 11_gain 12_an 13_advantage 14_from 15_the 16_attractiveness 17_- 18_seeking 19_qualities 20_that 21_evolved 22_in 23_our 24_inner 25_mates 26_.
+5	7	8	9	10	14	15	16	17	19	22	24	25	26	27
+4	5	6	7	8	9	15	16	18	21	22	23	24
+5
+1
+27
+none
+
+486
+但在黑手党国家，他们往往通过一个政权主导的企业劫掠和寻租行为而被纳入了一个政治依附体系。
+但在黑手党国家，他们往往通过一个政权主导的企业劫掠或寻租行为而被纳入了一个政治依附体系。
+But in mafia states, they are often drawn into a system of political dependency through a regime-led practice of corporate grabbing and rent-seeking.
+But in mafia states, they are often drawn into a system of political dependency through regime-led corporate grabbing or rent-seeking.
+0_But 1_in 2_mafia 3_states 4_, 5_they 6_are 7_often 8_drawn 9_into 10_a 11_system 12_of 13_political 14_dependency 15_through 16_a 17_regime 18_- 19_led 20_practice 21_of 22_corporate 23_grabbing 24_and 25_rent 26_- 27_seeking 28_.
+0_But 1_in 2_mafia 3_states 4_, 5_they 6_are 7_often 8_drawn 9_into 10_a 11_system 12_of 13_political 14_dependency 15_through 16_regime 17_- 18_led 19_corporate 20_grabbing 21_or 22_rent 23_- 24_seeking 25_.
+16	24
+21
+20
+none
+20
+none
+
+489
+但以俄罗斯为例，虽然有时候会冒出些意料之外的候选人，但最终结果却是可预测的。
+但以俄罗斯为例，虽然有时候会冒出些意料之外的候选人，但最终结果也是可预测的。
+But in the case of Russia, although unexpected candidates sometimes emerge, the end result is predictable.
+But take Russia as an example. Although there are sometimes unexpected candidates, the final result is also predictable.
+0_But 1_in 2_the 3_case 4_of 5_Russia 6_, 7_although 8_unexpected 9_candidates 10_sometimes 11_emerge 12_, 13_the 14_end 15_result 16_is 17_predictable 18_.
+0_But 1_take 2_Russia 3_as 4_an 5_example 6_. 7_Although 8_there 9_are 10_sometimes 11_unexpected 12_candidates 13_, 14_the 15_final 16_result 17_is 18_also 19_predictable 20_.
+1	2	3	4	6	10	11	14
+3	4	5	6	8	9	10	15	18
+11
+none
+none
+18
+
+490
+但人们仍然毫不吝惜地把成百上千亿美元用于在该地区进行轰炸和破坏，却对于日益恶化的水资源危机熟视无睹。
+但人们依然毫不吝惜地把成百上千亿美元用于在该地区进行轰炸和破坏，却对于日益恶化的水资源危机熟视无睹。
+Yet billions of dollars are still being spent bombing and destroying the region without hesitation, while turning a blind eye to the worsening water crisis.
+Yet people continue to spend tens of billions of dollars on bombing and destruction in the region while turning a blind eye to the worsening water crisis.
+0_Yet 1_billions 2_of 3_dollars 4_are 5_still 6_being 7_spent 8_bombing 9_and 10_destroying 11_the 12_region 13_without 14_hesitation 15_, 16_while 17_turning 18_a 19_blind 20_eye 21_to 22_the 23_worsening 24_water 25_crisis 26_.
+0_Yet 1_people 2_continue 3_to 4_spend 5_tens 6_of 7_billions 8_of 9_dollars 10_on 11_bombing 12_and 13_destruction 14_in 15_the 16_region 17_while 18_turning 19_a 20_blind 21_eye 22_to 23_the 24_worsening 25_water 26_crisis 27_.
+4	5	6	7	13	14	15
+1	2	3	4	5	6	10
+6	13
+4
+13	14
+1
+
+524
+20世纪60年代南韩经济腾飞不是因为国外援助达到了高潮，相反，那时国外援助正在慢慢停止。
+20世纪60年代南韩经济腾飞不是因为国外援助达到了高潮，相反，那时国外援助还在慢慢停止。
+South Korea's economic boom in the 1960s was not due to a boom in foreign aid; on the contrary, it was slowing down.
+South Korea's economic boom in the 1960s was not due to a climax of foreign aid. On the contrary, foreign aid was still slowly stopping at that time.
+0_South 1_Korea 2_'s 3_economic 4_boom 5_in 6_the 7_1960s 8_was 9_not 10_due 11_to 12_a 13_boom 14_in 15_foreign 16_aid 17_; 18_on 19_the 20_contrary 21_, 22_it 23_was 24_slowing 25_down 26_.
+0_South 1_Korea 2_'s 3_economic 4_boom 5_in 6_the 7_1960s 8_was 9_not 10_due 11_to 12_a 13_climax 14_of 15_foreign 16_aid 17_. 18_On 19_the 20_contrary 21_, 22_foreign 23_aid 24_was 25_still 26_slowly 27_stopping 28_at 29_that 30_time 31_.
+13	14	17	22	24	25
+17	22	23	25	26	27	28	29	30
+none
+30
+13
+25	29	30
+
+538
+那些对政治有幻灭感的选民直接就认为本次选举根本没有任何议题可言。
+那些对政治有幻灭感的选民直接就认为此次选举根本没有任何议题可言。
+Voters who are disillusioned with politics simply believe that there is nothing to discuss in this election.
+Those voters who are disillusioned with politics simply think that this election has no issues at all.
+0_Voters 1_who 2_are 3_disillusioned 4_with 5_politics 6_simply 7_believe 8_that 9_there 10_is 11_nothing 12_to 13_discuss 14_in 15_this 16_election 17_.
+0_Those 1_voters 2_who 3_are 4_disillusioned 5_with 6_politics 7_simply 8_think 9_that 10_this 11_election 12_has 13_no 14_issues 15_at 16_all 17_.
+7	9	10	11	12	13	14
+8	12	13	14	15	16
+12	13
+14	15
+12	13
+0	14	15	16
+
+546
+这类威胁以前会带来严重的政治冲击，不过现在已经不管用了。
+这类威胁之前会带来严重的政治冲击，不过现在已经不管用了。
+Threats of this kind used to carry serious political ramifications, but no longer.
+Threats of the kind that used to carry serious political ramifications no longer work.
+0_Threats 1_of 2_this 3_kind 4_used 5_to 6_carry 7_serious 8_political 9_ramifications 10_, 11_but 12_no 13_longer 14_.
+0_Threats 1_of 2_the 3_kind 4_that 5_used 6_to 7_carry 8_serious 9_political 10_ramifications 11_no 12_longer 13_work 14_.
+10	11
+4	13
+11
+13
+11
+13
+
+553
+这六步需要全面协调的行为变化，需要各级政府合作、规模投资、分享创意、推广最佳做法和制定长远规划。
+这六步需要全面协调的行为变化，需要各级政府合作、规模投资、共享创意、推广最佳做法和制定长远规划。
+These six steps require comprehensive and coordinated behavioral change, requiring cooperation at all levels of government, investment at scale, sharing of ideas, scaling up of best practices, and long-term planning.
+These six steps require comprehensive and coordinated behavioral change, requiring collaboration at all levels of government, investing at scale, sharing ideas, promoting best practices, and developing long-term planning.
+0_These 1_six 2_steps 3_require 4_comprehensive 5_and 6_coordinated 7_behavioral 8_change 9_, 10_requiring 11_cooperation 12_at 13_all 14_levels 15_of 16_government 17_, 18_investment 19_at 20_scale 21_, 22_sharing 23_of 24_ideas 25_, 26_scaling 27_up 28_of 29_best 30_practices 31_, 32_and 33_long 34_- 35_term 36_planning 37_.
+0_These 1_six 2_steps 3_require 4_comprehensive 5_and 6_coordinated 7_behavioral 8_change 9_, 10_requiring 11_collaboration 12_at 13_all 14_levels 15_of 16_government 17_, 18_investing 19_at 20_scale 21_, 22_sharing 23_ideas 24_, 25_promoting 26_best 27_practices 28_, 29_and 30_developing 31_long 32_- 33_term 34_planning 35_.
+11	18	23
+18	25	30
+none
+30
+none
+30
+
+565
+这一差距可以通过采纳和模仿现有技术而带来的高生产率，以及高投资回报下的实物资本积累来迅速缩小。
+这一差距可以通过吸纳和模仿现有技术而带来的高生产率，以及高投资回报下的实物资本积累来迅速缩小。
+This gap can be quickly narrowed through high productivity through adoption and imitation of existing technologies, and physical capital accumulation with high returns on investment.
+This gap can be quickly narrowed through the high productivity brought about by the absorption and imitation of existing technologies, and the accumulation of physical capital with high returns on investment.
+0_This 1_gap 2_can 3_be 4_quickly 5_narrowed 6_through 7_high 8_productivity 9_through 10_adoption 11_and 12_imitation 13_of 14_existing 15_technologies 16_, 17_and 18_physical 19_capital 20_accumulation 21_with 22_high 23_returns 24_on 25_investment 26_.
+0_This 1_gap 2_can 3_be 4_quickly 5_narrowed 6_through 7_the 8_high 9_productivity 10_brought 11_about 12_by 13_the 14_absorption 15_and 16_imitation 17_of 18_existing 19_technologies 20_, 21_and 22_the 23_accumulation 24_of 25_physical 26_capital 27_with 28_high 29_returns 30_on 31_investment 32_.
+9	10	20
+7	10	11	12	13	14
+none
+10
+none
+10	11
+
+568
+身为法国总统的他试图回避这股浪潮，向法国非洲殖民地的领袖们提议通过谈判的方式实现他们的独立之梦。
+身为法国总统的他试图回避这股浪潮，向英国非洲殖民地的领袖们提议通过谈判的方式实现他们的独立之梦。
+As French president, he tried to ride the tide, proposing to the leaders of France's African colonies a negotiated way to realize their dream of independence.
+As French president, he tried to ride the tide, proposing to the leaders of Britain's African colonies a negotiated way to achieve their independence.
+0_As 1_French 2_president 3_, 4_he 5_tried 6_to 7_ride 8_the 9_tide 10_, 11_proposing 12_to 13_the 14_leaders 15_of 16_France 17_'s 18_African 19_colonies 20_a 21_negotiated 22_way 23_to 24_realize 25_their 26_dream 27_of 28_independence 29_.
+0_As 1_French 2_president 3_, 4_he 5_tried 6_to 7_ride 8_the 9_tide 10_, 11_proposing 12_to 13_the 14_leaders 15_of 16_Britain 17_'s 18_African 19_colonies 20_a 21_negotiated 22_way 23_to 24_achieve 25_their 26_independence 27_.
+16	24
+16	24
+26
+none
+26
+none
+
+581
+自上任伊始，特朗普政府就一直保持着亲商的态度，承诺放松管制，使得投资者对美国和全球经济的提振重树信心。
+自上任伊始，特朗普政府便一直保持着亲商的态度，承诺放松管制，使得投资者对美国和全球经济的提振重树信心。
+The Trump administration has maintained a pro-business stance since its inauguration, pledging to deregulate and renewing investor confidence in a boost to the U.S. and global economies.
+Since taking office, the Trump administration has maintained a pro-business stance, promising deregulation and reassuring investors about a boost to the U.S. and global economies.
+0_The 1_Trump 2_administration 3_has 4_maintained 5_a 6_pro-business 7_stance 8_since 9_its 10_inauguration 11_, 12_pledging 13_to 14_deregulate 15_and 16_renewing 17_investor 18_confidence 19_in 20_a 21_boost 22_to 23_the 24_U.S. 25_and 26_global 27_economies 28_.
+0_Since 1_taking 2_office 3_, 4_the 5_Trump 6_administration 7_has 8_maintained 9_a 10_pro-business 11_stance 12_, 13_promising 14_deregulation 15_and 16_reassuring 17_investors 18_about 19_a 20_boost 21_to 22_the 23_U.S. 24_and 25_global 26_economies 27_.
+12	13	14	16	17	18	19
+0	1	2	3	16	17	18
+18
+none
+18
+none
+

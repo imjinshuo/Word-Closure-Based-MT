@@ -1,0 +1,57 @@
+from en import exp, threshold_f
+import numpy as np
+import os
+
+names = ['SIT-en2zh-google-closure',
+         'CAT-en2zh-google-closure',
+         'Purity-en2zh-google-closure',
+         'CIT-en2zh-google-closure',
+         'PatInv-en2zh-google-closure',
+         'SIT-en2zh-bing-closure',
+         'CAT-en2zh-bing-closure',
+         'Purity-en2zh-bing-closure',
+         'CIT-en2zh-bing-closure',
+         'PatInv-en2zh-bing-closure',
+         'SIT-en2zh-youdao-closure',
+         'CAT-en2zh-youdao-closure',
+         'Purity-en2zh-youdao-closure',
+         'CIT-en2zh-youdao-closure',
+         'PatInv-en2zh-youdao-closure',
+         ]
+thre_dic = {'SIT':0.75, 'CAT':0.77, 'Purity':0.63, 'CIT':0.77, 'PatInv':0.75}
+base_google_f1_dic = {'SIT':0.432, 'CAT':0.490, 'Purity':0.571, 'CIT':0.577, 'PatInv':0.000}
+base_bing_f1_dic = {'SIT':0.378, 'CAT':0.532, 'Purity':0.632, 'CIT':0.460, 'PatInv':0.000}
+base_youdao_f1_dic = {'SIT':0.500, 'CAT':0.521, 'Purity':0.617, 'CIT':0.550, 'PatInv':0.000}
+print('EN2ZH:')
+os.makedirs('info', exist_ok=True)
+os.makedirs('RQ1', exist_ok=True)
+f_log = open('RQ1/result_en2zh.txt', 'w')
+print('\t'.join(['SUT', 'IT', 'TP', 'FP', 'TN', 'FN', 'Accuracy', 'Precision', 'Recall', 'F1', '△F1']))
+print('\t'.join(['SUT', 'IT', 'TP', 'FP', 'TN', 'FN', 'Accuracy', 'Precision', 'Recall', 'F1', '△F1']), file=f_log)
+for name in names:
+    config = 13
+    IT = name.split('-')[0]
+    SUT = name.split('-')[2]
+    threshold = thre_dic[name.split('-')[0]]
+    base_f1 = 0
+    if SUT == 'google':
+        base_f1 = base_google_f1_dic[IT]
+    elif SUT == 'bing':
+        base_f1 = base_bing_f1_dic[IT]
+    elif SUT == 'youdao':
+        base_f1 = base_youdao_f1_dic[IT]
+    file = '../data/RQ1/'+name.split('-')[0]+'-'+name.split('-')[1]+'-'+name.split('-')[2]+'.csv'
+    save_file = 'info/'+name+'-'+str(config)+'.npy'
+    if name.split('-')[-1] == 'closure':
+        TP, FP, TN, FN, precision, recall, f1, accuracy = exp(file, save_file, threshold, 'jieba', config=config, clo='WordClosure', IT=IT, opt=True, sem=True, disable_print=True)
+    elif name.split('-')[-1] == 'word':
+        TP, FP, TN, FN, precision, recall, f1, accuracy = exp(file, save_file, threshold, 'jieba', config=config, clo='Word', IT=IT, opt=True, sem=True, disable_print=True)
+    elif name.split('-')[-1] == 'phrase':
+        TP, FP, TN, FN, precision, recall, f1, accuracy = exp(file, save_file, threshold, 'jieba', config=config, clo='Phrase', IT=IT, opt=True, sem=True, disable_print=True)
+    elif name.split('-')[-1] == 'clause':
+        TP, FP, TN, FN, precision, recall, f1, accuracy = exp(file, save_file, threshold, 'jieba', config=config, clo='Clause', IT=IT, opt=True, sem=True, disable_print=True)
+    all_test_info = np.load(save_file, allow_pickle=True)
+    all_test_info = all_test_info.tolist()
+    TP, FP, TN, FN, precision, recall, f1, accuracy = threshold_f(threshold, all_test_info, IT=IT, output_path='RQ1/' + name +'-'+str(config)+ '.txt')
+    print('\t'.join([SUT, IT, str(TP), str(FP), str(TN), str(FN), str(round(accuracy, 3)), str(round(precision, 3)), str(round(recall, 3)), str(round(f1, 3)), str(round(f1-base_f1, 3))]))
+    print('\t'.join([SUT, IT, str(TP), str(FP), str(TN), str(FN), str(round(accuracy, 3)), str(round(precision, 3)), str(round(recall, 3)), str(round(f1, 3)), str(round(f1-base_f1, 3))]), file=f_log)

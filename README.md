@@ -20,7 +20,6 @@ This is the artifact for the paper "*Word Closure-Based Metamorphic Testing for 
 ## Supplementary Materials
 
 - In [`additional/Illustrations.md`](additional/Illustrations.md), we further illustrate in detail the five motivation examples presented in the paper.
-- Prompts to collect translations or fix buggy translations for LLMs can be found in the [`additional/prompts.md`](additional/prompts.md) folder.
 
 ## Setup
 **In order to replicate the experiments, please perform the following steps to prepare necessary dependencies:**
@@ -180,14 +179,6 @@ scripts
   python RQ4-zh2en.py
   ```
   The evaluation results of our method with its highest F1 score under different configurations will be printed and recorded into the **`result_en2zh.txt`** and **`result_zh2en.txt`** files in the **`scripts/RQ4`** folder.
-
-### Discussion: Effectiveness of our approach in identifying violations from LLMs.
-- To use our word closure-based comparison method to test three LLMs (GPT-3.5-turbo-1106, Llama-2-70b-chat and ERNIE-Bot-3.5), please execute:
-  ```bash
-  python LLM-en2zh.py
-  python LLM-zh2en.py
-  ```
-  The results will be printed and recorded into the **`result_en2zh.txt`** and **`result_zh2en.txt`** files in the **`scripts/LLM`** folder.
 
 ## Contact
 

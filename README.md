@@ -4,7 +4,7 @@ This is the artifact for the paper "*Word Closure-Based Metamorphic Testing for 
 
 ## This artifact contains:
 * [Introduction](#introduction)
-* [Additional Illustrations](#additional-illustrations)
+* [Supplementary Materials](#supplementary-materials)
 * [Setup](#setup)
 * [Dataset](#dataset)
 * [Scripts](#scripts)
@@ -17,9 +17,10 @@ This is the artifact for the paper "*Word Closure-Based Metamorphic Testing for 
 
 ![Overview](figs/overview.png)
 
-## Additional Illustrations
+## Supplementary Materials
 
-In [`additional/Illustrations.md`](additional/Illustrations.md), we further illustrate in detail the five motivation examples presented in the paper.
+- In [`additional/Illustrations.md`](additional/Illustrations.md), we further illustrate in detail the five motivation examples presented in the paper.
+- Prompts to collect translations or fix buggy translations for LLMs can be found in the [`additional/prompts.md`](additional/prompts.md) folder.
 
 ## Setup
 **In order to replicate the experiments, please perform the following steps to prepare necessary dependencies:**

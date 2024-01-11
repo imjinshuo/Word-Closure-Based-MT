@@ -19,7 +19,7 @@ This is the artifact for the paper "*Word Closure-Based Metamorphic Testing for 
 
 ## Supplementary Materials
 
-- In [`additional/Illustrations.md`](additional/Illustrations.md), we further illustrate in detail the five motivation examples presented in the paper.
+- In [**`/supplements/Illustrations.md`**](supplements/Illustrations.md), we further illustrate in detail the five motivation examples presented in the paper.
 
 ## Setup
 **In order to replicate the experiments, please perform the following steps to prepare necessary dependencies:**
@@ -31,7 +31,7 @@ This is the artifact for the paper "*Word Closure-Based Metamorphic Testing for 
     conda activate wordclosure
     pip install -r requirements.txt
     ```
-  - Specifically, the following libraries in [`requirements.txt`](requirements.txt) will be installed:
+  - Specifically, the following libraries in [**`requirements.txt`**](requirements.txt) will be installed:
     ```python
     apex==0.9.10dev
     boto3==1.34.15
@@ -51,8 +51,8 @@ This is the artifact for the paper "*Word Closure-Based Metamorphic Testing for 
     ```
 
 - **Set up the Stanford Corenlp server:**
-  - Download stanford-corenlp-4.5.1.zip from https://stanfordnlp.github.io/CoreNLP/history.html and Unzip the stanford-corenlp-4.5.1.zip into **`stanford-corenlp-4.5.1`** folder.
-  - Download stanford-corenlp-4.5.1-models-chinese.jar from https://stanfordnlp.github.io/CoreNLP/history.html and move it into **`stanford-corenlp-4.5.1`** folder.
+  - Download **`stanford-corenlp-4.5.1.zip`** from https://stanfordnlp.github.io/CoreNLP/history.html and unzip it into **`/stanford-corenlp-4.5.1`** folder.
+  - Download **`stanford-corenlp-4.5.1-models-chinese.jar`** from https://stanfordnlp.github.io/CoreNLP/history.html and move it into **`/stanford-corenlp-4.5.1`** folder.
   - Execute the following commands to start the Corenlp parsing server for English language and Chinese language respectively.
     ```bash
     cd stanford-corenlp-4.5.1
@@ -60,17 +60,17 @@ This is the artifact for the paper "*Word Closure-Based Metamorphic Testing for 
     java -Xmx5g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer -serverProperties StanfordCoreNLP-chinese.properties -port 9001 -timeout 15000
     ```
 - **Prepare word alignment tool [AWESOME](https://github.com/neulab/awesome-align):**
-  - Download **`model_without_co.zip`** from https://drive.google.com/file/d/1IcQx6t5qtv4bdcGjjVCwXnRkpr67eisJ/view?usp=sharing and unzip it into the **`scripts/model_without_co`** folder
-  - Download all the files from https://github.com/neulab/awesome-align/tree/master/awesome_align and store it into the **`scripts/awesome_align`** folder.
+  - Download **`model_without_co.zip`** from https://drive.google.com/file/d/1IcQx6t5qtv4bdcGjjVCwXnRkpr67eisJ/view?usp=sharing and unzip it into the **`/scripts/model_without_co`** folder
+  - Download all the files from https://github.com/neulab/awesome-align/tree/master/awesome_align and store it into the **`/scripts/awesome_align`** folder.
 - **Prepare word2vector models**
-  - Download **`GoogleNews-vectors-negative300.bin.gz`** from https://code.google.com/archive/p/word2vec/ and unzip it into the **`scripts/word2vec`** folder.
-  - Download **`merge_sgns_bigram_char300.txt.bz2`** from https://github.com/Embedding/Chinese-Word-Vectors and store it into the **`scripts/word2vec`** folder.
+  - Download **`GoogleNews-vectors-negative300.bin.gz`** from https://code.google.com/archive/p/word2vec/ and unzip it into the **`/scripts/word2vec`** folder.
+  - Download **`merge_sgns_bigram_char300.txt.bz2`** from https://github.com/Embedding/Chinese-Word-Vectors and store it into the **`/scripts/word2vec`** folder.
 
 ## Dataset
 
-**All the datasets needed for the experiment are stored in the [`data`](data) folder.**
+**All the datasets needed for the experiment are stored in the [`/data`](data) folder.**
 
-Structure of [`data`](data) folder:
+Structure of [**`/data`**](data) folder:
 ```
 data
 ┝━━ Limitation-statistics (False Positives and False Negatives for five existing MT for MTS works)
@@ -106,9 +106,9 @@ data
 ```
 ## Scripts
 
-**We provide scripts for reproducing our experiment results in the [`scripts`](scripts) folder.** 
+**We provide scripts for reproducing our experiment results in the [`/scripts`](scripts) folder.** 
 
-Structure of [`scripts`](scripts) folder:
+Structure of [**`/scripts`**](scripts) folder:
 ```
 scripts
 ┝━━ awesome_align/
@@ -140,7 +140,7 @@ scripts
   cd scripts
   python Limitation-statistics.py
   ```
-  The statistic results will be printed and recorded into the **`result.txt`** file in the **`scripts/Limitation`** folder.
+  The statistic results will be printed and recorded into the **`result.txt`** file in the **`/scripts/Limitation`** folder.
 
 ### Motivation Examples:
 - To run our word closure-based comparison method on the five motivation examples in the paper, please execute:
@@ -155,7 +155,7 @@ scripts
   python RQ1-en2zh.py
   python RQ1-zh2en.py
   ```
-  The evaluation results will be printed and recorded into the **`result_en2zh.txt`** and **`result_zh2en.txt`** files in the `scripts/RQ1` folder.
+  The evaluation results will be printed and recorded into the **`result_en2zh.txt`** and **`result_zh2en.txt`** files in the `/scripts/RQ1` folder.
 
 ### RQ2: Compare with the naive comparison strategies based on native grammar units.
 - To replicate the experiment results of RQ2, please run:
@@ -163,14 +163,14 @@ scripts
   python RQ2-en2zh.py
   python RQ2-zh2en.py
   ```
-  The comaprison results will be printed and recorded into the **`result_en2zh.txt`** and **`result_zh2en.txt`** files in the **`scripts/RQ2`** folder.
+  The comaprison results will be printed and recorded into the **`result_en2zh.txt`** and **`result_zh2en.txt`** files in the **`/scripts/RQ2`** folder.
 
 ### RQ3: The effectiveness of our approach in locating fine-grained violations.
 - To replicate the experiment results of RQ3, please run:
   ```bash
   python RQ3.py
   ```
-  The evaluation results will be printed and recorded into the **`result_en2zh.txt`** and **`result_zh2en.txt`** files in the **`scripts/RQ3`** folder.
+  The evaluation results will be printed and recorded into the **`result_en2zh.txt`** and **`result_zh2en.txt`** files in the **`/scripts/RQ3`** folder.
 
 ### RQ4: Configuration selection.
 - To replicate the experiment results of RQ4, please run:
@@ -178,7 +178,7 @@ scripts
   python RQ4-en2zh.py
   python RQ4-zh2en.py
   ```
-  The evaluation results of our method with its highest F1 score under different configurations will be printed and recorded into the **`result_en2zh.txt`** and **`result_zh2en.txt`** files in the **`scripts/RQ4`** folder.
+  The evaluation results of our method with its highest F1 score under different configurations will be printed and recorded into the **`result_en2zh.txt`** and **`result_zh2en.txt`** files in the **`/scripts/RQ4`** folder.
 
 ## Contact
 

@@ -76,7 +76,6 @@ data
 ┝━━ Limitation-statistics (False Positives and False Negatives for five existing MT for MTS works)
 │   ┝━━ CAT-google-FN.csv
 │   ┝━━ CAT-google-FP.csv
-│   ┝━━ CAT-bing-FN.csv
 │   ┕━━ ...
 ┝━━ Motivation-examples (Five motivation examples in the paper)
 │   ┝━━ CAT-en2zh-motivation.csv

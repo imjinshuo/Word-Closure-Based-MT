@@ -16,8 +16,15 @@
 **Meaning**: Steve Kennedy, the treasury secretary, forced it to alert the people who have bought a phone found to be substandard, rather than **<font color=red>*delete list*</font>**.
 
 **Explanation:** 
-- The input words "taking down listing" are translated as different meanings in T_s and T_f, i.e., "removed from shelves" in T_s and "delete list" in T_f.
-- T_s have a redundant word "美国", which means "the U.S." and does not exist in T_f.
+- Explanation to why this example is a violation:
+  - The input words "taking down listing" are translated as different meanings in T_s and T_f, i.e., "removed from shelves" in T_s and "delete list" in T_f.
+  - T_s have a redundant word "美国", which means "the U.S." and does not exist in T_f.
+- Explanation to why this example is identified as non-violation by SIT:
+  - The dependency parse tree of T_s:
+  - <img src="../figs/motivationExample-SIT(1).png" height = "250">
+  - The dependency parse tree of T_f:
+  - <img src="../figs/motivationExample-SIT(2).png" height = "250">
+  - Distance between the tags of the two dependency parse trees is 2, which is below the threshold (6), thus SIT regards this example as non-violation.
 
 ## CAT-FP
 **SUT**: Google Translate
@@ -26,7 +33,7 @@
 
 **S_f**: The app will be released next `year` **<font color=blue>when everything is ready</font>**.
 
-**T_s**: 该应用程序将于下周日<font color=blue>*一切准备就绪后发布*</font>。
+**T_s**: 该应用程序将于下周日<font color=blue>*一切准备就绪后*</font>发布。
 
 **Meaning**: The app will be released next Sunday **<font color=blue>*when everything is ready*</font>**.
 
@@ -35,7 +42,10 @@
 **Meaning**: **<font color=blue>*When everything is ready*</font>**, the app will be released next Sunday.
 
 **Explanation:**
-- T_s and T_f share the same meaning.
+- Explanation to why this example is not a violation:
+  - Although the adverbial clause of "当一切准备就绪后" (when everything is ready) is at different postition in T_s and T_f, it does not change meaning.
+- Explanation to why this example is identified as a violation by CAT:
+  - Similarity score (calculated by CAT) between T_s and T_f , which is 37.8%, is below the threshold (80.0%), thus CAT regards this example as violation.
 
 ## Purity-FP
 **SUT**: Google Translate
@@ -53,9 +63,12 @@
 **Meaning**: English **<font color=blue>*tests*</font>** and **<font color=blue>*Chinese tests*</font>** for the **<font color=blue>*children*</font>**
 
 **Explanation:**
-- "孩子们" in T_s and "儿童" in T_f share the same meaning, which are "children".
-- "考试" in T_s and "测试" in T_f share the same meaning, which are "tests".
-- "中文考试" in T_s and "汉语测试" in T_f share the same meaning, which are "Chinese tests".
+- Explanation to why this example is not a violation:
+  - "孩子们" in T_s and "儿童" in T_f share the same meaning, which are "children".
+  - "考试" in T_s and "测试" in T_f share the same meaning, which are "tests".
+  - "中文考试" in T_s and "汉语测试" in T_f share the same meaning, which are "Chinese tests".
+- Explanation to why this example is identified as a violation by Purity:
+  - Distance between T_s and T_f , which is 4, is above the threshold (1), thus Purity regards this example as violation.
 
 ## CIT-FN
 **SUT**: Bing Microsoft Translator
@@ -73,7 +86,14 @@
 **Meaning**: Therefore, the small **<font color=red>*assorted*</font>** sesame is easier to sell in the market.
 
 **Explanation:** 
-- The input word "assorted" is not translated in T_s but is translated in T_f as "什锦".
+- Explanation to why this example is a violation:
+  - The input word "assorted" is not translated in T_s but is translated in T_f as "什锦" (assorted).
+- Explanation to why this example is identified as non-violation by CIT:
+  - The constituency parse tree of T_s:
+  - <img src="../figs/motivationExample-CIT(1).png" height = "200">
+  - The constituency parse tree of T_f:
+  - <img src="../figs/motivationExample-CIT(2).png" height = "200">
+  - Every path in the constituency parse tree of T_s exists in that of T_f , thus CIT regards this example as non-violation.
 
 ## PatInv-FN
 **SUT**: Bing Microsoft Translator
@@ -91,4 +111,7 @@
 **Meaning**: In January, most **<font color=red>*policies*</font>** would offer the maintenance costs of the building during the holiday.
 
 **Explanation:** 
-- The input word "policies" is translated as different meanings, i.e., "guarantee slip" in T_s and "policies" in T_f.
+- Explanation to why this example is a violation:
+  - The input word "policies" is translated as different meanings, i.e., "保单" (guarantee slip) in T_s and "政策" (policies) in T_f.
+- Explanation to why this example is identified as a violation by PatInv:
+  - T_s and T_f are different, thus PatInv regards this example as non-violation.

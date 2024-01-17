@@ -16,10 +16,10 @@
 **Meaning of T_f**: Steve Kennedy, the interior secretary, forced it to alert the people who have bought a phone found to be substandard, rather than **<font color=red>*delete list*</font>**.
 
 **Explanation:** 
-- Why this example is a violation:
+- **Why this example is a violation:**
   - The input words "taking down listing" are translated as different meanings in T_s and T_f, i.e., "removed from shelves" in T_s and "delete list" in T_f.
   - T_s have a redundant word "美国", which means "the U.S." and does not exist in T_f.
-- Why this example is identified as non-violation by SIT:
+- **Why this example is identified as non-violation by SIT:**
   - The dependency parse tree of T_s:
   - <img src="../figs/motivationExample-SIT(1).png" height = "250">
   - The dependency parse tree of T_f:
@@ -45,7 +45,7 @@
 - Why this example is not a violation:
   - Although the adverbial clause of "当一切准备就绪后" (when everything is ready) is at a different position in T_s and T_f, it does not change meaning of the sentence.
 - Why this example is identified as a violation by CAT:
-  - Similarity score (calculated by CAT) between T_s and T_f, which is 37.8%, is below the threshold (80.0%), thus CAT regards this example as a violation.
+  - Similarity score (calculated by CAT) between T_s and T_f, which is 37.8%, is below the threshold (80.0%), thus CAT reports this example as a violation.
 
 ## Purity-FP
 **SUT**: Google Translate
@@ -63,12 +63,12 @@
 **Meaning of T_f**: English **<font color=blue>*tests*</font>** and **<font color=red>*Chinese tests*</font>** for the **<font color=green>*children*</font>**
 
 **Explanation:**
-- Why this example is not a violation:
+- **Why this example is not a violation:**
   - "孩子们" in T_s and "儿童" in T_f share the same meaning, i.e., "children".
   - "考试" in T_s and "测试" in T_f share the same meaning, i.e., "tests".
   - "中文考试" in T_s and "汉语测试" in T_f share the same meaning, i.e., "Chinese tests".
-- Why this example is identified as a violation by Purity:
-  - Four words in T_f do not exist in T_s. As a result, the distance between T_s and T_f is 4, which is above the threshold of Purity (1), thus Purity regards this example as a violation.
+- **Why this example is identified as a violation by Purity:**
+  - Four words from T_f do not exist in T_s. As a result, the distance between T_s and T_f is 4, which is above the threshold of Purity (1), thus Purity reports this example as a violation.
 
 ## CIT-FN
 **SUT**: Bing Microsoft Translator
@@ -86,9 +86,9 @@
 **Meaning of T_f**: Therefore, the small **<font color=red>*assorted*</font>** sesame is easier to sell in the market.
 
 **Explanation:** 
-- Why this example is a violation:
+- **Why this example is a violation:**
   - The input word "assorted" is not translated in T_s but is translated in T_f as "什锦" (assorted).
-- Why this example is identified as non-violation by CIT:
+- **Why this example is identified as non-violation by CIT:**
   - The constituency parse tree of T_s:
   - <img src="../figs/motivationExample-CIT(1).png" height = "200">
   - The constituency parse tree of T_f:
@@ -111,7 +111,7 @@
 **Meaning of T_f**: In January, most **<font color=red>*policies*</font>** would offer the maintenance costs of the building during the holiday.
 
 **Explanation:** 
-- Why this example is a violation:
+- **Why this example is a violation:**
   - The input word "policies" is translated as different meanings, i.e., "保单" (guarantee slip) in T_s and "政策" (policies) in T_f.
-- Why this example is identified as a violation by PatInv:
+- **Why this example is identified as a violation by PatInv:**
   - T_s and T_f are different, thus PatInv regards this example as non-violation.

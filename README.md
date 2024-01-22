@@ -118,8 +118,6 @@ scripts
 ┝━━ RQ3.py
 ┝━━ RQ4-en2zh.py
 ┝━━ RQ4-zh2en.py
-┝━━ LLM-en2zh.py
-┝━━ LLM-zh2en.py
 ┝━━ en.py
 ┕━━ zh.py
 ```

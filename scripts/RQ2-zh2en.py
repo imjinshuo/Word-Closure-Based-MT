@@ -54,5 +54,5 @@ for group in names:
             print('\t'.join([SUT, IT, name.split('-')[-1], other_info]))
             print('\t'.join([SUT, IT, name.split('-')[-1], other_info]), file=f_log)
         else:
-            print('\t'.join([SUT, IT, name.split('-')[-1], other_info, str(round(ours_f1-best_f1, 3))]))
-            print('\t'.join([SUT, IT, name.split('-')[-1], other_info, str(round(ours_f1-best_f1, 3))]), file=f_log)
+            print('\t'.join([SUT, IT, name.split('-')[-1], other_info, str(round(round(ours_f1, 3)-round(best_f1, 3), 3))]))
+            print('\t'.join([SUT, IT, name.split('-')[-1], other_info, str(round(round(ours_f1, 3)-round(best_f1, 3), 3))]), file=f_log)

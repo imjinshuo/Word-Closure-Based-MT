@@ -20,7 +20,7 @@ names = ['SIT-en2zh-google-closure',
          ]
 thre_dic = {'SIT':0.75, 'CAT':0.77, 'Purity':0.63, 'CIT':0.77, 'PatInv':0.75}
 base_google_f1_dic = {'SIT':0.432, 'CAT':0.490, 'Purity':0.571, 'CIT':0.577, 'PatInv':0.000}
-base_bing_f1_dic = {'SIT':0.378, 'CAT':0.532, 'Purity':0.632, 'CIT':0.460, 'PatInv':0.000}
+base_bing_f1_dic = {'SIT':0.378, 'CAT':0.537, 'Purity':0.632, 'CIT':0.460, 'PatInv':0.000}
 base_youdao_f1_dic = {'SIT':0.500, 'CAT':0.521, 'Purity':0.617, 'CIT':0.550, 'PatInv':0.000}
 print('EN2ZH:')
 os.makedirs('info', exist_ok=True)

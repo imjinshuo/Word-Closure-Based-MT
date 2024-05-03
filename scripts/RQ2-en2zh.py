@@ -22,7 +22,7 @@ for group in names:
         IT = name.split('-')[0]
         SUT = name.split('-')[2]
         threshold = thre_dic[name.split('-')[0]]
-        file = '../data/RQ2&4/' + name.split('-')[0] + '-' + name.split('-')[1] + '-' + name.split('-')[2] + '.csv'
+        file = '../data/RQ2&5/' + name.split('-')[0] + '-' + name.split('-')[1] + '-' + name.split('-')[2] + '.csv'
         save_file = 'info/' + name + '-' + str(config) + '.npy'
         if name.split('-')[-1] in ['closure']:
             TP, FP, TN, FN, precision, recall, f1, accuracy = exp(file, save_file, threshold, 'jieba', config=config, clo='WordClosure', IT=IT, opt=True, sem=True, disable_print=True)

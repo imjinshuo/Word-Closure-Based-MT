@@ -68,7 +68,7 @@ This is the artifact for the paper "*Word Closure-Based Metamorphic Testing for 
 
 ## Dataset
 
-**All the datasets needed for the experiment are stored in the [`/data`](data) folder.**
+**All the datasets needed for the experiment are stored in the [`/data`](data) folder. We have provided detailed information to illustrate the structure and contents of our released dataset in [`/data/Data.md`](/data/Data.md) .** 
 
 Structure of [**`/data`**](data) folder:
 ```
@@ -87,7 +87,7 @@ data
 │   ┝━━ CAT-en2zh-youdao.csv
 │   ┝━━ CIT-en2zh-google.csv
 │   ┕━━ ...
-┝━━ RQ2&4 (Metamorphic test case pairs for five Metamorphic Relations)
+┝━━ RQ2&5 (Metamorphic test case pairs for five Metamorphic Relations)
 │   ┝━━ CAT-en2zh-merge.csv
 │   ┝━━ CAT-zh2en-merge.csv
 │   ┝━━ CIT-en2zh-merge.csv
@@ -118,6 +118,8 @@ scripts
 ┝━━ RQ3.py
 ┝━━ RQ4-en2zh.py
 ┝━━ RQ4-zh2en.py
+┝━━ RQ5-en2zh.py
+┝━━ RQ5-zh2en.py
 ┝━━ en.py
 ┕━━ zh.py
 ```
@@ -163,13 +165,21 @@ scripts
   ```
   The evaluation results will be printed and recorded into the **`result_en2zh.txt`** and **`result_zh2en.txt`** files in the **`/scripts/RQ3`** folder.
 
-### RQ4: Configuration selection.
+### RQ4: The efficiency of our approach in identifying violations.
 - To replicate the experiment results of RQ4, please run:
   ```bash
   python RQ4-en2zh.py
   python RQ4-zh2en.py
   ```
-  The evaluation results of our method with its highest F1 score under different configurations will be printed and recorded into the **`result_en2zh.txt`** and **`result_zh2en.txt`** files in the **`/scripts/RQ4`** folder.
+  The evaluation results will be printed.
+
+### RQ5: Configuration selection.
+- To replicate the experiment results of RQ5, please run:
+  ```bash
+  python RQ5-en2zh.py
+  python RQ5-zh2en.py
+  ```
+  The evaluation results of our method with its highest F1 score under different configurations will be printed and recorded into the **`result_en2zh.txt`** and **`result_zh2en.txt`** files in the **`/scripts/RQ5`** folder.
 
 ## Contact
 
